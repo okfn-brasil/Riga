@@ -18,7 +18,7 @@ layout: default
 
   {% if page.articlesList %}
   <section class="divider">
-    <h1>Referenced Readings</h1>
+    <h1>Lectura referenciada</h1>
   </section>
   {% endif %}
 
@@ -31,7 +31,7 @@ layout: default
       {% endfor %}
     </p>
     <div class="result-item__taxonomy result-item__taxonomy--category">
-      <span class="result-item__taxonomy__key">Category</span>
+      <span class="result-item__taxonomy__key">Categoría</span>
       <span class="result-item__taxonomy__value">
         {% for category in b.innovationCategory %}
         <a href="../{{category | datapage_url: 'categories'}}" class="result-item__tag result-item__tag--{{ category | slugify }}">{{ category }}</a>
@@ -40,7 +40,7 @@ layout: default
 
     </div>
     <div class="result-item__taxonomy result-item__taxonomy--methodology">
-      <span class="result-item__taxonomy__key">Methodology</span>
+      <span class="result-item__taxonomy__key">Metodología</span>
       <span class="result-item__taxonomy__value">
         {% for methodology in b.methodology %}
         <a class="result-item__tag" href="../{{methodology | datapage_url: 'methodologies'}}">{{ methodology }}</a>
@@ -48,7 +48,7 @@ layout: default
       </span>
     </div>
     <div class="result-item__taxonomy result-item__taxonomy--objective">
-      <span class="result-item__taxonomy__key">Objective</span>
+      <span class="result-item__taxonomy__key">Objetivo</span>
       <span class="result-item__taxonomy__value">
         {% for objective in b.objectiveCategory %}
         <a class="result-item__tag" href="../{{objective | datapage_url: 'objectives'}}">{{ objective }}</a>
@@ -56,7 +56,7 @@ layout: default
       </span>
     </div>
     <div class="result-item__taxonomy result-item__taxonomy--type">
-      <span class="result-item__taxonomy__key">Type</span>
+      <span class="result-item__taxonomy__key">Tipo</span>
       <span class="result-item__taxonomy__value">
         {% for type in b.publicationType %}
         <a class="result-item__tag" href="../{{type | datapage_url: 'types'}}">{{ type }}</a>
@@ -78,7 +78,7 @@ layout: default
 
   <div class="row">
     <div class="large-8 column large-offset-2" style="text-align: center; padding: 40px 0;">
-      <p><a class="button no-border" href="../blog.html">Back to Blog</a></p>
+      <p><a class="button no-border" href="../blog.html">Volver al Blog</a></p>
     </div>
   </div>
 

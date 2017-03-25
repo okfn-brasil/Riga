@@ -28,11 +28,10 @@ window.store = {
       <span class="filter-ui-container js-multi">
         <div class="switch">
           <label>
-            All Articles
+            Todos los Artículos
             <input id="open-switch" type="checkbox" class="filter" data-filter="f-open">
             <span class="lever"></span>
-            Open Access Articles Only
-          </label>
+            Artículos de Acceso Abierto Solamente
         </div>
       </span>
     </div>
@@ -118,7 +117,7 @@ window.store = {
         <div class="filter-ui-container">
           <div class="select">
             <select name="" id="filter-organization" class="filter js-change" {% unless organization_filters.size > 0 %}disabled{% endunless %}>
-              <option data-filter="*">Organization</option>
+              <option data-filter="*">Organización</option>
               {% for r in organization_filters %}
               <option data-filter="f-{{r | slugify}}">{{r}}</option>
               {% endfor %}
@@ -129,7 +128,7 @@ window.store = {
         <div class="filter-ui-container">
           <div class="select">
             <select name="" id="filter-objective" class="filter js-change" {% unless objective_filters.size > 0 %}disabled{% endunless %}>
-              <option data-filter="**">Objective</option>
+              <option data-filter="**">Objetivo</option>
               {% for r in objective_filters %}
               <option data-filter="f-{{r | slugify}}">{{r}}</option>
               {% endfor %}
@@ -140,7 +139,7 @@ window.store = {
         <div class="filter-ui-container">
           <div class="select">
             <select name="" id="filter-methodology" class="filter js-change" {% unless methodology_filters.size > 0 %}disabled{% endunless %}>
-              <option data-filter="***">Methodology</option>
+              <option data-filter="***">Metodología</option>
               {% for r in methodology_filters %}
               <option data-filter="f-{{r | slugify}}">{{r}}</option>
               {% endfor %}
@@ -162,7 +161,7 @@ window.store = {
         <div class="filter-ui-container">
           <div class="select">
             <select name="" id="filter-region" class="filter js-change" {% unless region_filters.size > 0 %}disabled{% endunless %}>
-              <option data-filter="*****">Region</option>
+              <option data-filter="*****">Región</option>
               {% for r in region_filters %}
               <option data-filter="f-{{r | slugify}}">{{r}}</option>
               {% endfor %}
@@ -173,7 +172,7 @@ window.store = {
         <div class="filter-ui-container">
           <div class="select">
             <select name="" id="filter-type" class="filter js-change" {% unless type_filters.size > 0 %}disabled{% endunless %}>
-              <option data-filter="******">Type</option>
+              <option data-filter="******">Tipo</option>
               {% for r in type_filters %}
               <option data-filter="f-{{r | slugify}}">{{r}}</option>
               {% endfor %}
@@ -185,7 +184,7 @@ window.store = {
         <div class="filter-ui-container">
           <div class="select">
             <select name="" id="filter-project" class="filter js-change" {% unless project_filters.size > 0 %}disabled{% endunless %}>
-              <option data-filter="*******">Project</option>
+              <option data-filter="*******">Proyecto</option>
               {% for r in project_filters %}
               <option data-filter="f-{{r | slugify}}">{{r}}</option>
               {% endfor %}
@@ -197,7 +196,7 @@ window.store = {
     </div>
     <div class="row align-center">
       <div class="large-3 column">
-        <a class="button" id="clear-filter-btn">Clear Filters</a>
+        <a class="button" id="clear-filter-btn">Borrar Filtros</a>
       </div>
     </div>
   </div>

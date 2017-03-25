@@ -1,6 +1,6 @@
 ---
 layout: default
-subtitle: Your hub for quantitative and qualitative research on innovations in governance
+subtitle: Su Centro de Investigación Cuantitativa y Cualitativa sobre Innovaciones en la Gobernanza
 ---
 
 <main id="homepage" role="main"> <!-- main content starts here -->
@@ -12,7 +12,7 @@ subtitle: Your hub for quantitative and qualitative research on innovations in g
         <h3 class="top-section__tagline">{{page.subtitle}}</h3>
       </div>
     </div>
-    <a href="submit.html" class="button" id="submit-button">Submit Research</a>
+    <a href="submit.html" class="button" id="submit-button">Subir Investigación</a>
     <section class="page-section main-search-section">
       <div class="row align-center">
         <div class="small-10 large-8 columns">
@@ -25,10 +25,10 @@ subtitle: Your hub for quantitative and qualitative research on innovations in g
         </div>
         <div class="row browsing-ways">
           <div class="large-12 column">
-            <a href="./authors.html" class="button">Browse by author</a>
-            <a href="./categories.html" class="button">Browse by category</a>
-            <a href="./organizations.html" class="button">Browse by organization</a>
-            <a href="./selectedreadings.html" class="button">Selected Readings</a>
+            <a href="./authors.html" class="button">Buscar por Autor</a>
+            <a href="./categories.html" class="button">Buscar por Categoría</a>
+            <a href="./organizations.html" class="button">Buscar por Organización</a>
+            <a href="./selectedreadings.html" class="button">Lectura Recomendada</a>
 
           </div>
         </div>
@@ -37,7 +37,7 @@ subtitle: Your hub for quantitative and qualitative research on innovations in g
   </section>
 
   <section id="organizations" class="divider">
-    <h1>Founding Partners</h1>
+    <h1>Fundadores</h1>
   </section>
 
   <section class="page-section">
@@ -55,7 +55,7 @@ subtitle: Your hub for quantitative and qualitative research on innovations in g
   </section>
 
   <section id="categories" class="divider">
-    <h1>Browse by Category</h1>
+    <h1>Buscar por Categoría</h1>
   </section>
 
   <section class="page-section main-categories">
@@ -64,7 +64,7 @@ subtitle: Your hub for quantitative and qualitative research on innovations in g
         <a class="category-item category-item--all" href="by/all.html">
           <div class="aligner">
             <div class="aligner-item">
-              View All
+              Ver Todas
             </div>
           </div>
         </a>
@@ -92,7 +92,7 @@ subtitle: Your hub for quantitative and qualitative research on innovations in g
   </section>
 
   <section id="categories" class="divider">
-    <h1>Recent Highlights</h1>
+    <h1>Destacados Recientes</h1>
   </section>
 
   <section class="page-section" style="padding: 0; background-color: #523080">
@@ -136,9 +136,9 @@ subtitle: Your hub for quantitative and qualitative research on innovations in g
         <div class="row">
           <div class="column large-12">
             {% if type == 'blog' %}
-            <h4>From the Blog</h4>
+            <h4>Del Blog</h4>
             {% elsif type == 'list' %}
-            <h4>From Selected Readings</h4>
+            <h4>De Lectura Recomendada</h4>
             {% endif %}
           </div>
         </div>
@@ -164,9 +164,9 @@ subtitle: Your hub for quantitative and qualitative research on innovations in g
         <div class="column medium-6">
           <div class="slide__action">
             {% if type == 'blog' %}
-            <a class="button button--naked" href="{{i.title | datapage_url: 'blog'}}">Find out more<i class="material-icons">arrow_forward</i></a>
+            <a class="button button--naked" href="{{i.title | datapage_url: 'blog'}}">Más Información<i class="material-icons">arrow_forward</i></a>
             {% elsif type == 'list' %}
-            <a class="button button--naked" href="{{i.title | datapage_url: 'list'}}">Find out more<i class="material-icons">arrow_forward</i></a>
+            <a class="button button--naked" href="{{i.title | datapage_url: 'list'}}">Más Información<i class="material-icons">arrow_forward</i></a>
             {% endif %}
           </div>
         </div>
