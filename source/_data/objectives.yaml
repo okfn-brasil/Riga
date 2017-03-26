@@ -1,34 +1,39 @@
-- title: Access
+- title: Acceso
   description:
   display_name: false
   cover_image: false
 
-- title: Effectiveness
+- title: Efectividad
   description:
   display_name: false
   cover_image: false
 
-- title: Legitimacy
+- title: Legitimidad
   description:
   display_name: false
   cover_image: false
 
-- title: Outside Innovation
+- title: Innovación
   description:
   display_name: false
   cover_image: false
 
-- title: Participation
+- title: Participación
   description:
   display_name: false
   cover_image: false
 
-- title: Privacy
+- title: Privacidad
   description:
   display_name: false
   cover_image: false
 
-- title: Transparency
+- title: Transparencia 
+  description:
+  display_name: false
+  cover_image: false
+
+- title: Rendición de Cuentas 
   description:
   display_name: false
   cover_image: false
