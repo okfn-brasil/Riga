@@ -41,11 +41,6 @@
 	},
 	{
 		"propertyName": "sector",
-		"title": "poder-judicial",
-		"value": "Poder Judicial"
-	},
-	{
-		"propertyName": "sector",
 		"title": "parlamentos",
 		"value": "Parlamentos"
 	},

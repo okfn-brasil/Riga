@@ -16,13 +16,8 @@
 	},
 	{
 		"propertyName": "region",
-		"title": "europe",
-		"value": "Europe"
-	},
-	{
-		"propertyName": "region",
-		"title": "azerbaijan",
-		"value": "Azerbaijan"
+		"title": "europa",
+		"value": "Europa"
 	},
 	{
 		"propertyName": "region",
@@ -41,13 +36,13 @@
 	},
 	{
 		"propertyName": "region",
-		"title": "iceland",
-		"value": "Iceland"
+		"title": "islandia",
+		"value": "Islandia"
 	},
 	{
 		"propertyName": "region",
-		"title": "ireland",
-		"value": "Ireland"
+		"title": "irlanda",
+		"value": "Irlanda"
 	},
 	{
 		"propertyName": "region",
@@ -61,27 +56,27 @@
 	},
 	{
 		"propertyName": "region",
-		"title": "dominican-republic",
-		"value": "Dominican Republic"
+		"title": "republica-dominicana",
+		"value": "República Dominicana"
 	},
 	{
 		"propertyName": "region",
-		"title": "finland",
-		"value": "Finland"
+		"title": "finlandia",
+		"value": "Finlandia"
 	},
 	{
 		"propertyName": "region",
-		"title": "france",
-		"value": "France"
+		"title": "francia",
+		"value": "Francia"
 	},
 	{
 		"propertyName": "region",
-		"title": "germany",
-		"value": "Germany"
+		"title": "alemania",
+		"value": "Alemania"
 	},	
 	{
 		"propertyName": "region",
-		"title": "américa latina",
+		"title": "america latina",
 		"value": "América Latina"
 	},
 	{
@@ -96,7 +91,7 @@
 	},
 	{
 		"propertyName": "region",
-		"title": "méxico",
+		"title": "mexico",
 		"value": "México"
 	},
 	{
@@ -111,7 +106,7 @@
 	},
 	{
 		"propertyName": "region",
-		"title": "perú",
+		"title": "peru",
 		"value": "Perú"
 	},
 	{
