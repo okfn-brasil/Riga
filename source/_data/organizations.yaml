@@ -1,11 +1,11 @@
-- title: World Bank Digital Engagement Evaluation Team # Organization
+- title: Equipo de Evaluación de Participación Digital (DEET) del Banco Mundial # Organization
   image: deet-logo.png # Logo image
   image_white: deet-logo-white.png # Logo image (white version)
-  short_description: The World Bank is a vital source of financial and technical assistance to developing countries around the world. The Bank’s Digital Engagement Evaluation Team (DEET) works with governments to leverage technology-enabled solutions for better public policies and services.
-  long_description: DEET undertakes a number of evaluation and research activities that apply cutting-edge methodologies to examine the effects of technology on participation, transparency, accountability and government responsiveness. Providing evidence to better inform practice at the intersection of technology and citizen engagement is one of the core goals of the Bank’s Digital Engagement Evaluation Team (DEET). To contribute empirical data to the debate on the effects of technology on participatory processes, the team has been carrying out a number of studies, some covering as many as 132 countries.
+  short_description: El Banco Mundial es una fuente vital de asistencia financiera y técnica para los países en desarrollo de todo el mundo. El Equipo de Evaluación de Participación Digital del Banco (DEET) trabaja con los gobiernos para aprovechar las soluciones tecnológicas para mejorar las políticas públicas y los servicios.
+  long_description: El DEET emprende una serie de actividades de evaluación e investigación que aplican metodologías de vanguardia para examinar los efectos de la tecnología en la participación, la transparencia, la rendición de cuentas y la capacidad de respuesta de los gobiernos. Proporcionar evidencia para informar mejor la práctica en la intersección de la tecnología y la participación ciudadana es uno de los objetivos centrales del Equipo de Evaluación de Participación Digital (DEET) del Banco. Para aportar datos empíricos al debate sobre los efectos de la tecnología en los procesos participativos, el equipo ha venido realizando una serie de estudios, algunos de los cuales abarcan hasta 132 países.
   display_name:
-    - world-bank-digital-engagement-evaluation-team # To be used as a custom filter
-    - Digital Engagement Evaluation Team
+    - equipo-de-evaluación-de-participación-digital # To be used as a custom filter
+    - Equipo de Evaluación de Participación Digital
   founding_partner: true
   network_partner: false
   color: 008ab3 # Hash value to be applied to the top section
@@ -20,8 +20,8 @@
 - title: mySociety # Organization
   image: mysociety-logo.png # Logo image
   image_white: mysociety-logo-white.png # Logo image (white version)
-  short_description: mySociety is a not-for-profit social enterprise, based in the United Kingdom but with an international reach. The organization builds online technologies that give people the power to get things changed and shares these technologies so that they can be used anywhere.
-  long_description: mySociety believes that strong democratic accountability and a thriving civil society are vital to the common welfare, which only can survive when people engage with their government and communities. mySociety works with online technologies because the Internet can lower the barriers to taking the first civic or democratic steps in a citizen’s life. Working with partner groups, the organization helps to build effective civic websites through the implementation of in-house tools and software.  mySociety ensures their projects have real impact through a rigorous programme of research that they share in collaboration with civic tech practitioners worldwide, providing global leadership and inspiration in their sector.
+  short_description: mySociety es una empresa social sin fines de lucro, con sede en el Reino Unido pero con alcance internacional. La organización construye tecnologías en línea que dan a la gente el poder de cambiar las cosas y comparte estas tecnologías para que puedan ser utilizadas en cualquier lugar.
+  long_description: MySociety cree que una fuerte responsabilidad democrática y una sociedad civil próspera son vitales para el bienestar común, que sólo puede sobrevivir cuando las personas se comprometan con su gobierno y sus comunidades. MySociety trabaja con las tecnologías en línea porque Internet puede reducir las barreras para tomar los primeros pasos cívicos o democráticos en la vida de un ciudadano. Trabajando con grupos de socios, la organización ayuda a construir sitios web cívicos eficaces a través de la implementación de herramientas y software internos. MySociety se asegura que sus proyectos tengan un impacto real a través de un riguroso programa de investigación que comparten en colaboración con profesionales de la tecnología cívica de todo el mundo, proporcionando liderazgo e inspiración en su sector.
   display_name:
     - mySociety
     - mysociety # To be used as a custom filter
@@ -39,8 +39,8 @@
 - title: The GovLab # Organization
   image: govlab-logo.png # Logo image
   image_white: govlab-logo-white.png # Logo image (white version)
-  short_description:  The GovLab’s mission is to improve people’s lives by changing the way we govern. Its goal is to strengthen the ability of institutions – including but not limited to governments – and people to work more openly, collaboratively, effectively and legitimately to make better decisions and solve public problems.
-  long_description: The GovLab believes that increased availability and use of data, new ways to leverage the capacity, intelligence, and expertise of people in the problem-solving process, combined with new advances in technology and science, can transform governance. Their team approach each challenge and opportunity in an interdisciplinary and collaborative way, irrespective of the problem, sector, geography and level of government. The GovLab develops and tests prototypes for new platforms to enable open and collaborative problem-solving inside a variety of organizations.  The organization assesses and disseminates information and analysis about governance innovations successes and failures globally and their impact on people’s lives.  Its team trains entrepreneurs to tackle public interest challenges using open innovation to take projects from idea to implementation.
+  short_description:  La misión de GovLab es mejorar la vida de las personas cambiando la forma en que gobernamos. Su objetivo es fortalecer la capacidad de las instituciones -incluyendo pero no limitado a los gobiernos- y de la gente para trabajar más abiertamente, de manera colaborativa, efectiva y legítima para tomar mejores decisiones y resolver problemas públicos.
+  long_description: El GovLab cree que el aumento de la disponibilidad y el uso de datos, nuevas formas de aprovechar la capacidad, inteligencia y experiencia de las personas en el proceso de resolución de problemas, combinados con nuevos avances en tecnología y ciencia, pueden transformar la gobernabilidad. Su equipo aborda cada desafío y oportunidad de una manera interdisciplinaria y colaborativa, independientemente del problema, sector, geografía y nivel de gobierno. El GovLab desarrolla y prueba prototipos para nuevas plataformas para permitir una solución abierta y colaborativa de problemas dentro de una variedad de organizaciones. La organización evalúa y difunde información y análisis sobre los éxitos y fracasos de innovaciones en gobernabilidad a nivel mundial y su impacto en la vida de las personas. Su equipo capacita a los empresarios para abordar los desafíos de interés público utilizando la innovación abierta para llevar los proyectos de la idea a la implementación.
   display_name:
     - The Govlab
     - the-govlab # To be used as a custom filter
@@ -58,7 +58,7 @@
 - title: Centre for Public Impact # Organization
   image: CPI-logo.png # Logo image
   image_white: CPI-logo-white.png # Logo image (white version)
-  short_description: The Centre for Public Impact is a not-for-profit foundation, founded by The Boston Consulting Group, dedicated to improving the positive impact of governments. It brings together world leaders to learn, exchange ideas and inspire each other to strengthen the public impact of their organisations. Sharing insights from around the world, its global forums highlight what has worked and where challenges require new approaches.
+  short_description: El Center for Public Impact (Centro para el Impacto Público) es una fundación sin fines de lucro, fundada por The Boston Consulting Group, dedicada a mejorar el impacto positivo de los gobiernos. Reúne a los líderes mundiales para aprender, intercambiar ideas e inspirarse mutuamente para fortalecer el impacto público de sus organizaciones. Compartiendo ideas de todo el mundo, sus foros globales destacan lo que ha funcionado y donde los retos requieren nuevos enfoques.
   long_description:
   display_name:
     - Centre for Public Impact
@@ -77,9 +77,7 @@
 - title: Open Evidence
   image: open-evidence-logo.png
   image_white: open-evidence-white.png # Logo image (white version)
-  short_description: "<p>Open Evidence is a spin-off from Universitat Oberta de Catalunya formed by professors, researchers and consultants with more than 20 years of experience in applied research and consultancy.</p> <p>Openly presented and shared design and methodologies: our research design and methodologies are always transparent, replicable and openly shared with our clients and with the community of researchers and practitioners through consultation and validation processes.</p>
-  <p>Opening the black boxes: we open ‘black boxes’ of complex empirical models and of analytical econometric and statistical sophisticated techniques as to ensure that results of our ex-post data analysis or of ex ante modeling simulations are user-friendly and can be fully understood and challenged by a wide audience of policy makers and practitioners.</p>
-  <p>Opening stakeholders engagement and innovation: our approach is never technocratic and top-down but it tries and includes insights and knowledge from broadly defined stakeholders through open online engagement and consultation processes.</p>"
+  short_description: Open Evidence es una escisión de la Universitat Oberta de Catalunya formada por profesores, investigadores y consultores con más de 20 años de experiencia en investigación aplicada y consultoría.
   long_description:
   display_name:
     - Open Evidence
@@ -99,7 +97,7 @@
 - title: Digital Commons Lab
   image: dcl-logo.png
   image_white: dcl-white.png # Logo image (white version)
-  short_description: "<p>Digital Commons Lab (DCL) aims at studying, supporting, popularizing and innovating the world of digital commons. Our goal is to analyze the results of what is continuously produced by the communities with the aim of fostering their growth and maximizing the diffusion of data culture. Our research is related to the quality of open government data and community data and their economic and social impact. We are strongly interested in fostering the dialogue between communities, government and companies on how government data can be made more useful. The We advise national and local governments as well as with business and other institutions. Digital Commons Lab is a unit of <a href='http://www.fbk.eu/'>Fondazione Bruno Kessler</a>, ICT Center and a node of the <a href='http://theodi.org/'>Open Data Institute in Trento</a>.</p>"
+  short_description: "<p>El Digital Commons Lab (DCL) tiene como objetivo estudiar, apoyar, popularizar e innovar el mundo de los bienes comunes digitales. Nuestro objetivo es analizar los resultados de lo que es producido continuamente por las comunidades con el objetivo de fomentar su crecimiento y maximizar la difusión de la cultura de los datos. Nuestra investigación está relacionada con la calidad de los datos de gobierno abierto y los datos de la comunidad y su impacto económico y social. Estamos muy interesados en fomentar el diálogo entre las comunidades, el gobierno y las empresas sobre cómo los datos del gobierno pueden ser más útiles. Asesoramos a los gobiernos nacionales y locales, así como a las empresas y otras instituciones. Digital Commons Lab es una unidad de <a href='http://www.fbk.eu/'> Fondazione Bruno Kessler </a>, Centro TIC y un nodo del <a href = 'http: // theodi. Org / '> Open Data Institute en Trento </a>.
   long_description:
   display_name:
     - Digital Commons Lab
@@ -117,7 +115,7 @@
 - title: Open Data for Development
   image: od4d-logo.png
   image_white: od4d-logo-white.png
-  short_description: "<p>Open Data for Development (OD4D) is a global network of leaders in the Open Data community, working together to develop open data solutions around the world.</p><p>OD4D is hosted through the International Development Research Centre. It organizes work through the guidance of a Donors Committee and the consultation of a group of dedicated implementing partners who are experts in Open Data issues around the world.</p>"
+  short_description: "<p>Open Data for Development (OD4D) es una red global de líderes en la comunidad de Datos Abiertos, que trabaja conjuntamente para desarrollar soluciones de datos abiertos en todo el mundo. OD4D se aloja en el Centro Internacional de Investigaciones para el Desarrollo. Organiza el trabajo a través de la orientación de un Comité de Donantes y la consulta de un grupo de socios de implementación que son expertos en temas de Datos Abiertos en todo el mundo.</p>"
   long_description:
   display_name:
     - Open Data for Development
@@ -135,8 +133,8 @@
 - title: Swedish Law and Informatics Research Institute
   image: iri-logo.png
   image_white: iri-white.png
-  short_description: IRI is an independent research unit at the Department of Law at Stockholm University. The Institute is under the auspices of the Faculty of Law and its constitution has been confirmed by the University’s Vice Chancellor. The work is led by an executive board and its daily activities are managed by a director. The current director is Peter Wahlgren, Professor of Law and Information Technology.
-  long_description: "<p>While IRI is primarily a research organisation, it is also actively involved in community development and participates in various expert groups concerning the regulation of information and communication technology. The Institute functions as secretariat for the Foundation for Legal Information, whose purpose is to promote the digitalization of legal information.</p>"
+  short_description: IRI es una unidad de investigación independiente en el Departamento de Derecho de la Universidad de Estocolmo. El Instituto está bajo los auspicios de la Facultad de Derecho y su constitución ha sido confirmada por el Vicerrector de la Universidad. El trabajo está dirigido por una junta ejecutiva y sus actividades diarias son administradas por un director. El actual director es Peter Wahlgren, profesor de Derecho y Tecnología de la Información.
+  long_description: "<p> Si bien el IRI es primordialmente una organización de investigación, participa activamente en el desarrollo de la comunidad y en diversos grupos de expertos en materia de regulación de la tecnología de la información y la comunicación. El Instituto funciona como secretariado para la Fundación para la Información Legal, cuyo propósito es promover la digitalización de la información legal.</p>"
   display_name:
     - Swedish Law and Informatics Institute
     - Swedish Law and Informatics Research Institute
@@ -156,7 +154,7 @@
 - title: Center for Policy Informatics
   image: ASU-CPI-logo.png
   image_white: ASU-CPI-white.png # Logo image (white version)
-  short_description: The Center's mission is to leverage technology to solve public problems and design modern governance. The Center seeks to become a global leader in advancing the research and practice of policy informatics to address complex public issues. The Center advances its mission and vision by engaging in a variety of interdisciplinary and cross-sector research activities that focus on four categories of policy informatics - societal change, policy analysis, design interventions, and field building - that transcend contexts, including health, education, environment, and governance.
+  short_description: La misión del Centro es aprovechar la tecnología para resolver problemas públicos y diseñar una gobernanza moderna. El Centro busca convertirse en un líder global en el avance de la investigación y la práctica de la informática de políticas para abordar cuestiones públicas complejas. El Centro avanza en su misión y visión al involucrarse en una variedad de actividades interdisciplinarias e intersectoriales de investigación que se enfocan en cuatro categorías de informática de políticas - cambio social, análisis de políticas, intervenciones de diseño y desarrollo del área - que trascienden contextos como la salud, la educación, el medio ambiente y la gobernanza.
   long_description:
   display_name:
     - Center for Policy Informatics
@@ -176,8 +174,7 @@
   image: oki-color.png
   image_white: oki-white.png # Logo image (white version)
   short_description: >
-    <p>Having good data is a vital step to making progress on social goals. However, open data is only valuable insofar as it is relevant to the concerns of society, and actually being used to improve people’s lives.  Open Knowledge International is a global non-profit organisation focussing on realising open data’s value to society - by helping civil society groups to take action on urgent societal problems using data.</p>
-    <p>Open Knowledge International addresses this in three steps: 1) we show the value of open data for the work of civil society organizations; 2) we provide organizations with the tools and skills to effectively use open data; and 3) we make government information systems responsive to civil society.</p>
+  <p>Tener buenos datos es un paso vital para avanzar en los objetivos sociales. Sin embargo, los datos abiertos sólo son valiosos en la medida en que son relevantes para las preocupaciones de la sociedad y se utilizan para mejorar la vida de las personas. Open Knowledge International es una organización global sin fines de lucro que se centra en el valor de los datos abiertos para la sociedad, ayudando a los grupos de sociedad civil a actuar sobre los problemas sociales urgentes por medio del uso de los datos. <p>Open Knowledge International aborda esto en tres pasos: 1) mostrar el valor de los datos abiertos para el trabajo de las organizaciones de la sociedad civil; 2) proporcionar a las organizaciones las herramientas y habilidades para utilizar de manera efectiva los datos abiertos; y 3) hacer que los sistemas de información del gobierno respondan a la sociedad civil.</p>
   long_description:
   display_name:
     - Open Knowledge International
@@ -196,7 +193,7 @@
   image: maca-network-logo.png
   image_white: maca-logo-white.png # Logo image (white version)
   short_description: >
-    <p>Convened and organized by the GovLab, and made possible by a grant from the John D. and Catherine T. MacArthur Foundation, the MacArthur Foundation Research Network on Opening Governance seeks to build an empirical foundation and fundamental understanding of how the redesign of democratic institutions influences effectiveness and legitimacy in governance, to the end of improving people’s lives. A core group of fifteen members is complemented by an advisory network of academics, technologists, and current and former government officials. Through both face-to-face and online collaboration, the Network is focused on assessing existing innovations in governing and experimenting with new practices and, eventually new norms, for how our institutions make decisions at the local, national, and international level.</p>
+    <p>Organizada por el GovLab, y hecha posible por una subvención de la fundación John D. y Catherine T. MacArthur, la red de investigación de la fundación MacArthur sobre Apertura Gubernamental busca construir una base empírica y una comprensión fundamental de cómo el rediseño de las instituciones democráticas influyen en la eficacia y la legitimidad en la gobernanza, con el fin de mejorar la vida de las personas. Un grupo de quince miembros se complementa con una red de asesores de académicos, tecnólogos y funcionarios gubernamentales. A través de la colaboración presencial y en línea, la Red se centra en evaluar las innovaciones existentes en el gobierno y la experimentación de nuevas prácticas y, eventualmente, nuevas normas, de cómo nuestras instituciones toman decisiones a nivel local, nacional e internacional.</p>
   long_description:
   display_name:
     - Macarthur Research Network
@@ -226,4 +223,23 @@
     twitter: false
     url: false
   display: false
+  display_rank: 0
+
+  - title: Iniciativa Latinoamericana de Datos Abiertos (ILDA)
+  image: ILDA-logo.png
+  image_white: ILDA-logo-white.png # Logo image (white version)
+  short_description: >
+    <p>ILDA es concebido como un proyecto de múltiples actores para fomentar la investigación, el uso y la apropiación de los datos abiertos en América Latina. ILDA es un nodo de actividad donde gobiernos, instituciones internacionales, activistas y expertos confluyen para avanzar la agenda de datos abiertos en la región de una manera informada, responsable y creativa.</p>
+  long_description:
+  display_name:
+    - MIniciativa Latinoamericana de Datos Abiertos (ILDA)
+  founding_partner: true
+  network_partner: false
+  color: 26ace2 # Hash value to be applied to the top section
+  social_media: # Links
+    github: false
+    facebook: false
+    twitter: https://twitter.com/idatosabiertos
+    url: http://idatosabiertos.org//
+  display: true
   display_rank: 0
