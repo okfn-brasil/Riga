@@ -4,7 +4,7 @@
   short_description: El Banco Mundial es una fuente vital de asistencia financiera y técnica para los países en desarrollo de todo el mundo. El Equipo de Evaluación de Participación Digital del Banco (DEET) trabaja con los gobiernos para aprovechar las soluciones tecnológicas para mejorar las políticas públicas y los servicios.
   long_description: El DEET emprende una serie de actividades de evaluación e investigación que aplican metodologías de vanguardia para examinar los efectos de la tecnología en la participación, la transparencia, la rendición de cuentas y la capacidad de respuesta de los gobiernos. Proporcionar evidencia para informar mejor la práctica en la intersección de la tecnología y la participación ciudadana es uno de los objetivos centrales del Equipo de Evaluación de Participación Digital (DEET) del Banco. Para aportar datos empíricos al debate sobre los efectos de la tecnología en los procesos participativos, el equipo ha venido realizando una serie de estudios, algunos de los cuales abarcan hasta 132 países.
   display_name:
-    - equipo-de-evaluación-de-participación-digital # To be used as a custom filter
+    - world-bank-digital-engagement-evaluation-team # To be used as a custom filter
     - Equipo de Evaluación de Participación Digital
   founding_partner: true
   network_partner: false
@@ -77,7 +77,7 @@
 - title: Open Evidence
   image: open-evidence-logo.png
   image_white: open-evidence-white.png # Logo image (white version)
-  short_description: Open Evidence es una escisión de la Universitat Oberta de Catalunya formada por profesores, investigadores y consultores con más de 20 años de experiencia en investigación aplicada y consultoría.
+  short_description: "<p>Open Evidence es una escisión de la Universitat Oberta de Catalunya formada por profesores, investigadores y consultores con más de 20 años de experiencia en investigación aplicada y consultoría.</p>"
   long_description:
   display_name:
     - Open Evidence
@@ -97,7 +97,7 @@
 - title: Digital Commons Lab
   image: dcl-logo.png
   image_white: dcl-white.png # Logo image (white version)
-  short_description: "<p>El Digital Commons Lab (DCL) tiene como objetivo estudiar, apoyar, popularizar e innovar el mundo de los bienes comunes digitales. Nuestro objetivo es analizar los resultados de lo que es producido continuamente por las comunidades con el objetivo de fomentar su crecimiento y maximizar la difusión de la cultura de los datos. Nuestra investigación está relacionada con la calidad de los datos de gobierno abierto y los datos de la comunidad y su impacto económico y social. Estamos muy interesados en fomentar el diálogo entre las comunidades, el gobierno y las empresas sobre cómo los datos del gobierno pueden ser más útiles. Asesoramos a los gobiernos nacionales y locales, así como a las empresas y otras instituciones. Digital Commons Lab es una unidad de <a href='http://www.fbk.eu/'> Fondazione Bruno Kessler </a>, Centro TIC y un nodo del <a href = 'http: // theodi. Org / '> Open Data Institute en Trento </a>.
+  short_description: "<p>El Digital Commons Lab (DCL) tiene como objetivo estudiar, apoyar, popularizar e innovar el mundo de los bienes comunes digitales. Nuestro objetivo es analizar los resultados de lo que es producido continuamente por las comunidades con el objetivo de fomentar su crecimiento y maximizar la difusión de la cultura de los datos. Nuestra investigación está relacionada con la calidad de los datos de gobierno abierto y los datos de la comunidad y su impacto económico y social. Estamos muy interesados en fomentar el diálogo entre las comunidades, el gobierno y las empresas sobre cómo los datos del gobierno pueden ser más útiles. Asesoramos a los gobiernos nacionales y locales, así como a las empresas y otras instituciones. Digital Commons Lab es una unidad de <a href='http://www.fbk.eu/'> Fondazione Bruno Kessler </a>, Centro TIC y un nodo del <a href = 'http: // theodi. Org / '> Open Data Institute en Trento </a> </p>"
   long_description:
   display_name:
     - Digital Commons Lab
@@ -115,7 +115,7 @@
 - title: Open Data for Development
   image: od4d-logo.png
   image_white: od4d-logo-white.png
-  short_description: "<p>Open Data for Development (OD4D) es una red global de líderes en la comunidad de Datos Abiertos, que trabaja conjuntamente para desarrollar soluciones de datos abiertos en todo el mundo. OD4D se aloja en el Centro Internacional de Investigaciones para el Desarrollo. Organiza el trabajo a través de la orientación de un Comité de Donantes y la consulta de un grupo de socios de implementación que son expertos en temas de Datos Abiertos en todo el mundo.</p>"
+  short_description: "<p>Open Data for Development (OD4D) es una red global de líderes en la comunidad de Datos Abiertos, que trabaja conjuntamente para desarrollar soluciones de datos abiertos en todo el mundo.</p><p>OD4D se aloja en el Centro Internacional de Investigaciones para el Desarrollo. Organiza el trabajo a través de la orientación de un Comité de Donantes y la consulta de un grupo de socios de implementación que son expertos en temas de Datos Abiertos en todo el mundo.</p>"
   long_description:
   display_name:
     - Open Data for Development
@@ -134,7 +134,7 @@
   image: iri-logo.png
   image_white: iri-white.png
   short_description: IRI es una unidad de investigación independiente en el Departamento de Derecho de la Universidad de Estocolmo. El Instituto está bajo los auspicios de la Facultad de Derecho y su constitución ha sido confirmada por el Vicerrector de la Universidad. El trabajo está dirigido por una junta ejecutiva y sus actividades diarias son administradas por un director. El actual director es Peter Wahlgren, profesor de Derecho y Tecnología de la Información.
-  long_description: "<p> Si bien el IRI es primordialmente una organización de investigación, participa activamente en el desarrollo de la comunidad y en diversos grupos de expertos en materia de regulación de la tecnología de la información y la comunicación. El Instituto funciona como secretariado para la Fundación para la Información Legal, cuyo propósito es promover la digitalización de la información legal.</p>"
+  long_description: "<p>Si bien el IRI es primordialmente una organización de investigación, participa activamente en el desarrollo de la comunidad y en diversos grupos de expertos en materia de regulación de la tecnología de la información y la comunicación. El Instituto funciona como secretariado para la Fundación para la Información Legal, cuyo propósito es promover la digitalización de la información legal.</p>"
   display_name:
     - Swedish Law and Informatics Institute
     - Swedish Law and Informatics Research Institute
@@ -173,8 +173,9 @@
 - title: Open Knowledge International
   image: oki-color.png
   image_white: oki-white.png # Logo image (white version)
-  short_description: >
-  <p>Tener buenos datos es un paso vital para avanzar en los objetivos sociales. Sin embargo, los datos abiertos sólo son valiosos en la medida en que son relevantes para las preocupaciones de la sociedad y se utilizan para mejorar la vida de las personas. Open Knowledge International es una organización global sin fines de lucro que se centra en el valor de los datos abiertos para la sociedad, ayudando a los grupos de sociedad civil a actuar sobre los problemas sociales urgentes por medio del uso de los datos. <p>Open Knowledge International aborda esto en tres pasos: 1) mostrar el valor de los datos abiertos para el trabajo de las organizaciones de la sociedad civil; 2) proporcionar a las organizaciones las herramientas y habilidades para utilizar de manera efectiva los datos abiertos; y 3) hacer que los sistemas de información del gobierno respondan a la sociedad civil.</p>
+  short_description: 
+    <p>Tener buenos datos es un paso vital para avanzar en los objetivos sociales. Sin embargo, los datos abiertos sólo son valiosos en la medida en que son relevantes para las preocupaciones de la sociedad y se utilizan para mejorar la vida de las personas. Open Knowledge International es una organización global sin fines de lucro que se centra en el valor de los datos abiertos para la sociedad, ayudando a los grupos de sociedad civil a actuar sobre los problemas sociales urgentes por medio del uso de los datos.</p>
+    <p>Open Knowledge International aborda esto en tres pasos 1) mostrar el valor de los datos abiertos para el trabajo de las organizaciones de la sociedad civil; 2) proporcionar a las organizaciones las herramientas y habilidades para utilizar de manera efectiva los datos abiertos; y 3) hacer que los sistemas de información del gobierno respondan a la sociedad civil.</p>
   long_description:
   display_name:
     - Open Knowledge International
@@ -208,31 +209,14 @@
   display: true
   display_rank: 0
 
-- title: Nesta
-  image: false
-  image_white: Nesta_White_Horizontal_Logo_RGB.png # Logo image (white version)
-  short_description: false
-  long_description: false
-  display_name: false
-  founding_partner: false
-  network_partner: false
-  color: false
-  social_media: # Links
-    github: false
-    facebook: false
-    twitter: false
-    url: false
-  display: false
-  display_rank: 0
-
-  - title: Iniciativa Latinoamericana de Datos Abiertos (ILDA)
+- title: ILDA
   image: ILDA-logo.png
   image_white: ILDA-logo-white.png # Logo image (white version)
   short_description: >
     <p>ILDA es concebido como un proyecto de múltiples actores para fomentar la investigación, el uso y la apropiación de los datos abiertos en América Latina. ILDA es un nodo de actividad donde gobiernos, instituciones internacionales, activistas y expertos confluyen para avanzar la agenda de datos abiertos en la región de una manera informada, responsable y creativa.</p>
-  long_description:
+  long_description: false
   display_name:
-    - MIniciativa Latinoamericana de Datos Abiertos (ILDA)
+    - Iniciativa Latinoamericana de Datos Abiertos (ILDA)
   founding_partner: true
   network_partner: false
   color: 26ace2 # Hash value to be applied to the top section
@@ -240,6 +224,6 @@
     github: false
     facebook: false
     twitter: https://twitter.com/idatosabiertos
-    url: http://idatosabiertos.org//
+    url: http://www.idatosabiertos.org//
   display: true
   display_rank: 0
