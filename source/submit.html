@@ -1,4 +1,11 @@
---- layout: default ---
+---
+layout: default
+---
+
+<script type="text/javascript" src="vendor/jquery-2.1.4.min.js"></script>
+<script type="text/javascript" src="vendor/jquery.validate.min.js"></script>
+<script type="text/javascript" src="js/submitPaper.js"></script>
+
 <div class="submit-page">
     <div class="top-section top-section--main-color">
         <h1>Contribuir a OGRX</h1>
@@ -9,7 +16,7 @@
         </div>
     </div>
     <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted) {window.location='./form-confirmation.html';}"></iframe>
-    <form class="b-form" action="https://docs.google.com/a/idatosabiertos.org/forms/d/e/1FAIpQLSfuDszN0K18cT4G9c8SBnY4C9aOwQ9eWMHLpKvclNeiz7vbpw/formResponse" method="post" target="hidden_iframe" onsubmit="submitted=true;">
+    <form id="paper_submit_form" name="paper_submit_form" class="b-form" action="https://docs.google.com/a/idatosabiertos.org/forms/d/e/1FAIpQLSdHiFUHllShnZ0u90aB6fEOaRK0rF6dNtvGnUqU9KvN_VLxqQ/formResponse" method="post" target="hidden_iframe">
         <div class="b-page-section">
             <div class="row">
                 <div class="large-6 column">
@@ -18,7 +25,7 @@
                         <div class="row">
                             <div class="large-6 column">
                                 <div class="radio">
-                                    <input type="radio" name="entry.1052607091" value="Abierta" id="group_1052607091_1" role="radio" class="ss-q-radio" aria-label="Abierta">
+                                    <input type="radio" name="entry.1052607091" value="Abierta" id="group_1052607091_1" role="radio" class="ss-q-radio" aria-label="Abierta" checked>
                                     <label for="group_1052607091_1">Abierta</label>
                                 </div>
                             </div>
@@ -31,12 +38,12 @@
                         </div>
                     </div>
                     <div class="e-question">
-                        <label for="entry.962917036">Nombre de la Publicación (nombre del artículo en ie)</label>
-                        <input type="text" name="entry.962917036" value="" id="entry.962917036" dir="auto" aria-label="Nombre de la Investigación (nombre del artículo en ie)  " title="">
+                        <label for="entry.962917036">Nombre de la Publicación (nombre del artículo en ie) *</label>
+                        <input type="text" name="entry.962917036" value="" id="entry.962917036" dir="auto" aria-label="Nombre de la Investigación (nombre del artículo en ie)  " title="" required>
                     </div>
                     <div class="e-question">
-                        <label for="entry_1668992231">Link a la Publicación</label>
-                        <input type="text" name="entry.1668992231" value="" id="entry_1668992231" dir="auto" aria-label="Link a la Investigación  " title="">
+                        <label for="entry_1668992231">Link a la Publicación *</label>
+                        <input type="text" name="entry.1668992231" value="" id="entry_1668992231" dir="auto" aria-label="Link a la Investigación  " title="" required>
                     </div>
                     <div class="e-question">
                         <label for="entry_414669593">Organización (Si aplica)</label>
@@ -68,7 +75,23 @@
                 </div>
                 <div class="large-6 column">
                     <div class="e-question">
-                        <label for="entry_1343289076">Región(es)</label>
+                        <label for="entry_1201846559">Nombre(s) de Autor(es) - Por favor listelos de la siguiente forma: [Nombre] [Apellido] por cada autor de la publicación, ej: Marie Skłodowska Curie, Pierre Curie</label>
+                        <textarea name="entry.1201846559" rows="8" cols="0" class="ss-q-long" id="entry_1201846559" dir="auto" aria-label="Nombre(s) de Autor(es) - Por favor listelos de la siguiente forma: [Nombre] [Apellido] por cada autor de la investigación, ej: Marie Skłodowska Curie, Pierre Curie.  "></textarea>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="divider">
+            <div class="row">
+                <div class="large-12 column">
+                    <h1><label for="entry_1343289076">Región(es)</label></h1>
+                    <h2>Marque todas las que apliquen</h2>
+                </div>
+            </div>
+        </div>
+        <div class="b-page-section">
+            <div class="row" role="group" aria-label="Región(es) (Marque todas las que apliquen)">
+                <div class="large-5 column">
                         <div class="checkbox">
                             <input type="checkbox" name="entry.1343289076" value="Amsterdam" id="group_1343289076_1" role="checkbox">
                             <label for="group_1343289076_1">Amsterdam</label>
@@ -101,6 +124,8 @@
                             <input type="checkbox" name="entry.1343289076" value="Islandia" id="group_1343289076_8" role="checkbox">
                             <label for="group_1343289076_8">Islandia</label>
                         </div>
+                </div>
+                <div class="large-4 column">
                         <div class="checkbox">
                             <input type="checkbox" name="entry.1343289076" value="Irlanda" id="group_1343289076_9" role="checkbox">
                             <label for="group_1343289076_9">Irlanda</label>
@@ -133,6 +158,8 @@
                             <input type="checkbox" name="entry.1343289076" value="Argentina" id="group_1343289076_16" role="checkbox">
                             <label for="group_1343289076_16">Argentina</label>
                         </div>
+                </div>
+                <div class="large-3 column">
                         <div class="checkbox">
                             <input type="checkbox" name="entry.1343289076" value="Chile" id="group_1343289076_17" role="checkbox">
                             <label for="group_1343289076_17">Chile</label>
@@ -141,7 +168,6 @@
                             <input type="checkbox" name="entry.1343289076" value="México" id="group_1343289076_18" role="checkbox">
                             <label for="group_1343289076_18">México</label>
                         </div>
-
                         <div class="checkbox">
                             <input type="checkbox" name="entry.1343289076" value="Uruguay" id="group_1343289076_19" role="checkbox">
                             <label for="group_1343289076_19">Uruguay</label>
@@ -163,13 +189,10 @@
                             <label for="group_1343289076_23">El Salvador</label>
                         </div>
                     </div>
-                    <div class="e-question">
-                        <label for="entry_1201846559">Nombre(s) de Autor(es) - Por favor listelos de la siguiente forma: [Nombre] [Apellido] por cada autor de la publicación, ej: Marie Skłodowska Curie, Pierre Curie</label>
-                        <textarea name="entry.1201846559" rows="8" cols="0" class="ss-q-long" id="entry_1201846559" dir="auto" aria-label="Nombre(s) de Autor(es) - Por favor listelos de la siguiente forma: [Nombre] [Apellido] por cada autor de la investigación, ej: Marie Skłodowska Curie, Pierre Curie.  "></textarea>
-                    </div>
                 </div>
             </div>
         </div>
+
         <div class="divider">
             <div class="row">
                 <div class="large-12 column">
@@ -576,8 +599,8 @@
                     <input type="text" name="entry.628856331" value="" id="entry_628856331" dir="auto" aria-label="Título de Contenido Relacionado (url)  " title="">
                 </div>
                 <div class="column large-6">
-                    <label for="entry_1372654494">Abstract</label>
-                    <textarea name="entry.1372654494" rows="8" cols="0" class="ss-q-long" id="entry_1372654494" dir="auto" aria-label="Abstract  "></textarea>
+                    <label for="entry_1372654494">Abstract *</label>
+                    <textarea name="entry.1372654494" rows="8" cols="0" class="ss-q-long" id="entry_1372654494" dir="auto" aria-label="Abstract  " required></textarea>
                 </div>
             </div>
             <div class="row">
