@@ -1,6 +1,6 @@
 ---
 layout: default
-subtitle: Su Centro de Investigación Cuantitativa y Cualitativa sobre Innovaciones en la Gobernanza
+subtitle: Repositorio de Investigaciones Cuantitativa y Cualitativa sobre Innovaciones en Gobernanza.
 ---
 
 <main id="homepage" role="main"> <!-- main content starts here -->
@@ -40,20 +40,19 @@ subtitle: Su Centro de Investigación Cuantitativa y Cualitativa sobre Innovacio
     <h1>Fundadores</h1>
   </section>
 
-  <section class="page-section">
-    <div class="row expanded">
+  <div class="page-section organizations">
+    <div class="row align-spaced expanded align-middle">
       {% for organization in site.data.organizations %}
-      {% if organization.founding_partner %}
-      <div class="medium-4 column">
-        <div class="organization-logo organization-logo--{{ organization.title | slugify }}">
-          <a href="organizations/{{ organization.title | slugify }}.html"><img src="images/organizations/{{ organization.image }}" alt="{{ organization.title }}"></a>
+        {% if organization.founding_partner and organization.display %}
+        <div class="medium-4 column">
+          <a class="organization--{{ organization.title | slugify }}" href="./organizations/{{ organization.title | slugify }}.html"><img class="organization-logo" src="./images/organizations/{{ organization.image }}" alt="{{ organization.title }}"></a>
         </div>
-      </div>
-      {% endif %}
+        {% endif %}
       {% endfor %}
-    </div>
-  </section>
 
+    </div>
+  </div>
+  
   <section id="categories" class="divider">
     <h1>Buscar por Categoría</h1>
   </section>
