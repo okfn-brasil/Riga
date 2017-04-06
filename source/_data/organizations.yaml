@@ -1,11 +1,10 @@
-- title: Equipo de Evaluación de Participación Digital (DEET) del Banco Mundial # Organization
+- title: Equipo de Evaluacion de Participacion Digital # Organization
   image: deet-logo.png # Logo image
   image_white: deet-logo-white.png # Logo image (white version)
   short_description: El Banco Mundial es una fuente vital de asistencia financiera y técnica para los países en desarrollo de todo el mundo. El Equipo de Evaluación de Participación Digital del Banco (DEET) trabaja con los gobiernos para aprovechar las soluciones tecnológicas para mejorar las políticas públicas y los servicios.
   long_description: El DEET emprende una serie de actividades de evaluación e investigación que aplican metodologías de vanguardia para examinar los efectos de la tecnología en la participación, la transparencia, la rendición de cuentas y la capacidad de respuesta de los gobiernos. Proporcionar evidencia para informar mejor la práctica en la intersección de la tecnología y la participación ciudadana es uno de los objetivos centrales del Equipo de Evaluación de Participación Digital (DEET) del Banco. Para aportar datos empíricos al debate sobre los efectos de la tecnología en los procesos participativos, el equipo ha venido realizando una serie de estudios, algunos de los cuales abarcan hasta 132 países.
   display_name:
-    - world-bank-digital-engagement-evaluation-team # To be used as a custom filter
-    - Equipo de Evaluación de Participación Digital
+    - Equipo de Evaluación de Participación Digital (DEET) del Banco Mundial
   founding_partner: true
   network_partner: false
   color: 008ab3 # Hash value to be applied to the top section

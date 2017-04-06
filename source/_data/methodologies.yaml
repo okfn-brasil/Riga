@@ -3,9 +3,9 @@
   display_name: false
   cover_image: false
 
-- title: Análisis Comparativo
+- title: Analisis Comparativo
   description:
-  display_name: false
+  display_name: Análisis Comparativo
   cover_image: false
 
 - title: Marco Conceptual
@@ -13,29 +13,29 @@
   display_name: false
   cover_image: false
 
-- title: Etnografía
+- title: Etnografia
   description:
-  display_name: false
+  display_name: Etnografía
   cover_image: false
 
-- title: Ciencia de Diseño
+- title: Ciencia de Diseno
   description:
-  display_name: false
+  display_name: Ciencia de Diseño
   cover_image: false
 
-- title: Análisis de Redes
+- title: Analisis de Redes
   description:
-  display_name: false
+  display_name: Análisis de Redes
   cover_image: false
 
-- title: Análisis Cualitativo
+- title: Analisis Cualitativo
   description:
-  display_name: false
+  display_name: Análisis Cualitativo
   cover_image: false
 
-- title: Análisis Cuantitativo
+- title: Analisis Cuantitativo
   description:
-  display_name: false
+  display_name: Análisis Cuantitativo
   cover_image: false
 
 - title: Ensayo Controlado Aleatorio
@@ -43,9 +43,9 @@
   display_name: false
   cover_image: false
 
-- title: Modelado estadístico
+- title: Modelado estadistico
   description:
-  display_name: false
+  display_name: Modelado estadistico
   cover_image: false
 
 - title: Estudios de Usuarios

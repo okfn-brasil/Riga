@@ -13,14 +13,14 @@
   display_name: false
   cover_image: false
 
-- title: Innovación
+- title: Innovacion
   description:
-  display_name: false
+  display_name: Innovación
   cover_image: false
 
-- title: Participación
+- title: Participacion
   description:
-  display_name: false
+  display_name: Participación
   cover_image: false
 
 - title: Privacidad
@@ -33,7 +33,7 @@
   display_name: false
   cover_image: false
 
-- title: Rendición de Cuentas 
+- title: Rendicion de Cuentas 
   description:
-  display_name: false
+  display_name: Rendición de Cuentas 
   cover_image: false

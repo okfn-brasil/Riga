@@ -8,9 +8,9 @@
   display_name: false
   cover_image: false
 
-- title: Capítulo de libro
+- title: Capitulo de libro
   description:
-  display_name: false
+  display_name: Capítulo de libro
   cover_image: false
 
 - title: Actas de Conferencia
@@ -23,14 +23,14 @@
   display_name: false
   cover_image: false
 
-- title: Artículo de Revista
+- title: Articulo de Revista
   description:
-  display_name: false
+  display_name: Artículo de Revista
   cover_image: false
 
-- title: Reporte de Investigación
+- title: Reporte de Investigacion
   description:
-  display_name: false
+  display_name: Reporte de Investigación
   cover_image: false
 
 - title: Documento Blanco

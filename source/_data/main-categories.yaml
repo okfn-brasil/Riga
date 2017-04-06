@@ -10,7 +10,7 @@
   cover_image: false
   featured: false
 
-- title: Participación ciudadana y Crowdsourcing
+- title: Participacion ciudadana
   description: 
   display_name: Participación ciudadana 
   cover_image: false
@@ -28,9 +28,9 @@
   cover_image: false
   featured: false
 
-- title: Co-Creación
+- title: Co-Creacion
   description:
-  display_name: false
+  display_name: Co-Creación
   cover_image: false
   featured: false
 
@@ -46,9 +46,9 @@
   cover_image: false
   featured: false
 
-- title: Pensamiento de diseño
+- title: Pensamiento de diseno
   description: 
-  display_name: false
+  display_name: Pensamiento de diseño
   cover_image: false
   featured: false
 
@@ -58,21 +58,21 @@
   cover_image: false
   featured: false
 
-- title: Acceso a la Información
+- title: Acceso a la Informacion
   description: 
-  display_name: false
+  display_name: Acceso a la Información
   cover_image: false
   featured: true 
 
-- title: Ludificación
+- title: Ludificacion
   description: 
-  display_name: false
+  display_name: Ludificación
   cover_image: false
   featured: false
 
-- title: Innovación Institucional
+- title: Innovacion Institucional
   description: 
-  display_name: false
+  display_name: Innovación Institucional
   cover_image: false
   featured: false
 
@@ -82,9 +82,9 @@
   cover_image: false
   featured: false
 
-- title: Premios y Desafíos 
+- title: Premios y Desafios 
   description: 
-  display_name: false
+  display_name: Premios y Desafíos
   cover_image: false
   featured: false
 
@@ -106,15 +106,15 @@
   cover_image: false
   featured: false
 
-- title: Tecnología Cívica
+- title: Tecnologia Civica
   description: 
-  display_name: false
+  display_name: Tecnología Cívica
   cover_image: false
   featured: true
 
-- title: Análisis de Datos
+- title: Analisis de Datos
   description: 
-  display_name: false
+  display_name: Análisis de Datos
   cover_image: false
   featured: true
 
@@ -130,8 +130,8 @@
   cover_image: false
   featured: true
 
-- title: Laboratorios y experimentación
+- title: Laboratorios y experimentacion
   description: 
-  display_name: false
+  display_name: Laboratorios y experimentación
   cover_image: false
   featured: true
