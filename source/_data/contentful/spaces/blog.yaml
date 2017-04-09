@@ -6,675 +6,1091 @@ blogpost:
       sys:
         id: ufh1mvj7xl16
     type: Entry
-    createdAt: !ruby/object:DateTime 2016-12-19 21:30:08.465000000 Z
-    updatedAt: !ruby/object:DateTime 2016-12-19 21:30:08.465000000 Z
+    createdAt: !ruby/object:DateTime 2017-04-10 21:30:08.465000000 Z
+    updatedAt: !ruby/object:DateTime 2017-04-10 21:30:08.465000000 Z
     revision: 1
     contentType:
       sys:
         id: blogpost
     locale: en-US
-  title: 'December Highlights: New Research and Findings Added to OGRX'
+  title: 'Bienvenida'
   author:
-  - Andrew Young
+  - Silvana Fumega
   affiliation:
-  - The GovLab
+  - ILDA
   type:
   - Weekly update
   keywords:
-  - Citizen Engagement and Crowdsourcing
-  - Collective Intelligence
-  - Data Analysis
-  - Labs and Experimentation
+  - Datos abiertos 
+  - Laboratorios y experimentación
+  - Tecnología Cívica
+  - Innovación Institucional
+  - Acceso a la Información
+  - Co-Creación
+  - Participación ciudadana y Crowdsourcing
   - Big Data
-  post: "The Open Governance Research Exchange (OGRX) strives to identify and curate
-    the most useful and important research on innovations in governance. Through the
-    research efforts of OGRX’s [editorial board and partners](http://ogrx.org/about.html),
-    and, especially, [submissions from OGRX users](http://ogrx.org/submit.html), the
-    platform is constantly growing and evolving, with new publications added each
-    week. \n\nThis month we have added over 100 new research entries to OGRX. Some
-    pieces reflective of the diversity of newly added research and findings come from
-    [DSpace@MIT](https://dspace.mit.edu/), [Inter-American Development Bank](http://www.iadb.org/en/inter-american-development-bank,2837.html),
-    [Royal Society’s Philosophical Transactions](http://rstl.royalsocietypublishing.org/),
-    [Open Policy Network](https://openpolicynetwork.org/), [UN Global Pulse](http://unglobalpulse.org/),
-    and the [UN Development Programme](http://www.undp.org/), focusing on [Citizen
-    Engagement and Crowdsourcing](http://ogrx.org/categories/citizen-engagement-and-crowdsourcing.html),
-    [Collective Intelligence](http://ogrx.org/categories/collective-intelligence.html),
-    [Data Analysis](http://ogrx.org/categories/data-analysis.html), [Labs and Experimentation](http://ogrx.org/categories/labs-and-experimentation.html)
-    and [Big Data](http://ogrx.org/categories/big-data.html).\n\nCome back often to
-    stay on top of what’s new in governance innovation!"
+  post: "Desde [ILDA](http://idatosabiertos.org) queremos, con este primer post, darles la bienvenida al primer repositorio en español de investigaciones en el área de datos abiertos e innovaciones en la gestión pública.\n\nComo ya se ha mencionado en otros [foros](http://opendatacon.org/recuento-de-algunas-discusiones-regionales-y-globales-lo-que-queda-despues-de-la-4a-iodc/?lang=es), América Latina tiene mucho que ofrecer en la agenda de datos abiertos y del uso de la tecnología para la innovación cívica. Estos avances ya no se encuentran enmarcados como ejemplos de países en desarrollo que intentan seguir la agenda de países del primer mundo, sino como acciones con peso propio y que aportan al dialogo en un nivel de paridad.\n\nEn ese sentido, creemos que no solo es necesario seguir trabajando en las políticas de datos, así como en las iniciativas de sociedad civil en el área, sino también incentivar el desarrollo de la investigación, particularmente en español, aplicada y básica en áreas críticas. De esta manera, desde ILDA se busca contribuir a un mayor desarrollo y publicidad de la producción académica en el área de datos abiertos e innovación en la gestión publica en idioma español, como un elemento clave de la promoción de esas agendas en la región.\n\nEn esta primera etapa la plataforma cuenta con un numero limitado de estudios y artículos pero esperamos que con la contribución de toda la comunidad en los próximos meses podamos incrementar considerablemente los recursos disponibles.\n\nEsperamos que nos visiten seguido y que aporten publicaciones para el beneficio de toda la comunidad!\n\n"
   articlesList:
   - sys:
-      id: paper_a28
+      id: paper_1
       space:
         sys:
           id: ufh1mvj7xl16
       type: Entry
-      createdAt: !ruby/object:DateTime 2016-12-07 00:55:10.672000000 Z
-      updatedAt: !ruby/object:DateTime 2016-12-08 01:48:11.609000000 Z
+      createdAt: !ruby/object:DateTime 2016-12-07 00:54:46.534000000 Z
+      updatedAt: !ruby/object:DateTime 2016-12-08 02:38:20.386000000 Z
       revision: 2
       contentType:
         sys:
           id: paper
       locale: en-US
     open: true
-    publicationName: Essays on collective intelligence
-    authors:
-    - Yiftach Nagar
-    - Thomas W. Malone
-    - Patrick De Boer
-    - Ana Cristina Bicharra Garcia
-    publicationDate: !ruby/object:DateTime 2016-12-06 20:16:00.000000000 -05:00
-    innovationCategory:
-    - Collective Intelligence
-    objectiveCategory:
-    - Effectiveness
-    sectorCategory:
-    - Social Movements
-    methodology:
-    - Ethnography
-    publicationType:
-    - Book
-    gitHub: ''
-    abstract: 'This dissertation consists of three essays that advance our understanding
-      of collective-intelligence: how it works, how it can be used, and how it can
-      be augmented. I combine theoretical and empirical work, spanning qualitative
-      inquiry, lab experiments, and design, exploring how novel ways of organizing,
-      enabled by advancements in information technology, can help us work better,
-      innovate, and solve complex problems. The first essay offers a collective sensemaking
-      model to explain structurational processes in online communities. I draw upon
-      Weick''s model of sensemaking as committed-interpretation, which I ground in
-      a qualitative inquiry into Wikipedia''s policy discussion pages, in attempt
-      to explain how structuration emerges as interpretations are negotiated, and
-      then committed through conversation. I argue that the wiki environment provides
-      conditions that help commitments form, strengthen and diffuse, and that this,
-      in turn, helps explain trends of stabilization observed in previous research.
-      In the second essay, we characterize a class of semi-structured prediction problems,
-      where patterns are difficult to discern, data are difficult to quantify, and
-      changes occur unexpectedly. Making correct predictions under these conditions
-      can be extremely difficult, and is often associated with high stakes. We argue
-      that in these settings, combining predictions from humans and models can outperform
-      predictions made by groups of people, or computers. In laboratory experiments,
-      we combined human and machine predictions, and find the combined predictions
-      more accurate and more robust than predictions made by groups of only people
-      or only machines. The third essay addresses a critical bottleneck in open-innovation
-      systems: reviewing and selecting the best submissions, in settings where submissions
-      are complex intellectual artifacts whose evaluation require expertise. To aid
-      expert reviewers, we offer a computational approach we developed and tested
-      using data from the Climate CoLab - a large citizen science platform. Our models
-      approximate expert decisions about the submissions with high accuracy, and their
-      use can save review labor, and accelerate the review process.'
-    downloadLink: https://dspace.mit.edu/handle/1721.1/105080#files-area
-    relatedContentTitle: ''
-    relatedContentUrl: ''
-    relatedDataUrl: ''
-  - sys:
-      id: xtOHhlkmzuyI2aweAUu8U
-      space:
-        sys:
-          id: ufh1mvj7xl16
-      type: Entry
-      createdAt: !ruby/object:DateTime 2016-12-19 21:18:51.228000000 Z
-      updatedAt: !ruby/object:DateTime 2016-12-19 21:18:51.228000000 Z
-      revision: 1
-      contentType:
-        sys:
-          id: paper
-      locale: en-US
-    open: true
-    publicationName: Global Open Policy Report 2016
-    authors:
-    - Kelsey Wiens
-    - Alek Tarkowski
-    publicationDate: !ruby/object:DateTime 2016-01-20 00:00:00.000000000 -05:00
-    innovationCategory:
-    - Citizen Engagement and Crowdsourcing
-    - Co-Creation
-    - Open Data
-    objectiveCategory:
-    - Effectiveness
-    - Legitimacy
-    - Participation
-    methodology:
-    - Case Studies
-    - Qualitative Analysis
-    publicationType:
-    - Research Report
-    project:
-    - Creative Commons
-    abstract: |-
-      Open Policy is when governments, institutions, and non-profits enact policies and legislation that makes content, knowledge, or data they produce or fund available under a permissive license to allow reuse, revision, remix, retention, and redistribution. This promotes innovation, access, and equity in areas of education, data, software, heritage, cultural content, science, and academia.
-
-      For several years, Creative Commons has been tracking the spread of open policies around the world. And now, with the new Global Open Policy Report (PDF) by the Open Policy Network, we’re able to provide a systematic overview of open policy development.
-
-      screen-shot-2016-12-02-at-5-57-09-pmThe first-of-its-kind report gives an overview of open policies in 38 countries, across four sectors: education, science, data and heritage. The report includes an Open Policy Index and regional impact and local case studies from Africa, the Middle East, Asia, Australia, Latin America, Europe, and North America. The index measures open policy strength on two scales: policy strength and scope, and level of policy implementation. The index was developed by researchers from CommonSphere, a partner organization of CC Japan.
-    downloadLink: https://creativecommons.org/wp-content/uploads/2016/12/StateofOpenPolicyFullReport_FINAL-1-1-1-1.pdf
-  - sys:
-      id: 2K6DuH2GfCoMCaIk62GMyu
-      space:
-        sys:
-          id: ufh1mvj7xl16
-      type: Entry
-      createdAt: !ruby/object:DateTime 2016-12-19 21:09:52.336000000 Z
-      updatedAt: !ruby/object:DateTime 2016-12-19 21:09:52.336000000 Z
-      revision: 1
-      contentType:
-        sys:
-          id: paper
-      locale: en-US
-    open: true
-    publicationName: 'Innovation for Better Management: The Contribution of Public
-      Innovation Labs'
+    publicationName: 'Datos abiertos para una justicia abierta: un análisis de caso
+      de los poderes judiciales de Brasil, Costa Rica, México y Perú'
+    downloadLink: http://idatosabiertos.org/wp-content/uploads/2015/09/4.-Justicia-abierta-Elena.pdf
+    organization:
+    - ILDA
+    publicationDate: '2015'
     region:
-    - Latin America
+    - Brasil
+    - América Latina
+    - México
+    - Perú
+    - Costa Rica
     authors:
-    - Sebastián Acevedo
-    - Nicolás Dassen
-    publicationDate: !ruby/object:DateTime 2016-09-01 00:00:00.000000000 -05:00
+    - Sandra Elena
     innovationCategory:
-    - Citizen Engagement and Crowdsourcing
-    - Civic Technology
-    - Co-Creation
-    - Data Analysis
-    - Design Thinking
-    - Institutional Innovation
-    - Labs and Experimentation
+    - Innovación Institucional
+    - Datos Abiertos
     objectiveCategory:
-    - Effectiveness
-    - Participation
-    - Transparency
+    - Acceso
+    - Transparencia
+    - Rendición de Cuentas
     sectorCategory:
-    - Development
-    - Economics
-    - Education
-    - Energy
-    - Crisis Response
-    - Environment
-    - Geospatial Services
-    - Health
-    - Public Safety
-    - Transportation
-    - Urban Planning
+    - Poder Judicial
     methodology:
-    - Case Studies
-    - Conceptual Framework
-    - Quantitative Analysis
+    - Análisis Cualitativo
+    - Análisis Comparativo
+    - Estudios de Casos
     publicationType:
-    - Research Report
-    abstract: 'The technological, economic, and social changes of recent years have
-      required governments to adapt to new challenges and growing demands from civil
-      society. In many countries, and at different levels of government, this has
-      led to the creation of innovation labs that aim to promote various modes of
-      innovation within the public sector. This paper analyzes the roles of innovation
-      labs in Latin America, examines the challenges, and compares them to best practices
-      and characteristics that current literature associates with higher levels of
-      innovation in the public sector and in other organizations. Based on a survey
-      of lab directors and the undertaking of two case studies, this paper describes
-      the scope of innovation labs in Latin America and discusses the challenges they
-      face to (i) overcome key management issues, (ii) promote the adoption and scale
-      up of innovation, and (iii) ensure its sustainability. There are four key factors
-      that determine the success of innovation in overcoming these challenges: two
-      of these are of a political and institutional nature, namely leadership support
-      and political networks, while the other two relate to lab methodologies, namely
-      the technical adaptation of innovation and the building of a shared meaning.
-      Additionally, two major differences have been identified between the innovation
-      labs discussed herein and those of other regions, as described in the existing
-      literature: a greater focus on issues of open government and less rigorous testing
-      of innovation, such as randomized experimentation and impact evaluation. Lastly,
-      this study provides the relevant conclusions and recommendations on how to establish
-      innovation labs as effective channels to manage innovation in government, along
-      with its inherent risks, and modernize public administration.'
-    downloadLink: https://publications.iadb.org/handle/11319/7874
+    - Documento de Trabajo
+    project: []
+    gitHub: 
+    relatedDataUrl: 
+    relatedContentTitle: 
+    abstract: Esta investigación se focaliza en la apertura de datos del Poder Judicial
+      y en sus impactos emergentes. Se parte del supuesto de que la apertura y la
+      transparencia judicial mejoran el servicio de justicia y que esto tiene un resultado
+      positivo en la vida cotidiana de las personas. Asimismo, dicha apertura puede
+      incidir en la rendición de cuentas de los miembros del poder judicial, es decir,
+      en la responsabilidad y la capacidad de los órganos judiciales para responder
+      por sus acciones ante la sociedad y los demás poderes del Estado.
   - sys:
-      id: paper_a12
+      id: paper_2
       space:
         sys:
           id: ufh1mvj7xl16
       type: Entry
-      createdAt: !ruby/object:DateTime 2016-12-07 00:55:22.493000000 Z
-      updatedAt: !ruby/object:DateTime 2016-12-07 00:55:22.493000000 Z
-      revision: 1
+      createdAt: !ruby/object:DateTime 2016-12-07 00:54:46.534000000 Z
+      updatedAt: !ruby/object:DateTime 2016-12-08 02:38:20.386000000 Z
+      revision: 2
       contentType:
         sys:
           id: paper
       locale: en-US
     open: true
-    publicationName: The ethical impact of data science
+    publicationName: Datos abiertos en educación, primeros alcances y lecciones
+    downloadLink: http://idatosabiertos.org/educacion-y-datos-abiertos/
+    organization:
+    - ILDA
+    publicationDate: '2015'
+    region:
+    - Brasil
+    - América Latina
+    - México
     authors:
-    - Luciano Floridi
-    - Mariarosaria Taddeo
-    publicationDate: !ruby/object:DateTime 2016-12-28 12:00:00.000000000 -05:00
+    - Yacine Khelladi
     innovationCategory:
-    - Data Analysis
+    - Datos Abiertos
+    objectiveCategory:
+    - Efectividad
+    - Rendición de Cuentas
+    sectorCategory:
+    - Educación
     methodology:
-    - Conceptual Framework
-    - Case Studies
-    - Ethnography
+    - Análisis Cualitativo
     publicationType:
-    - Journal Article
-    gitHub: ''
-    abstract: This theme issue has the founding ambition of landscaping data ethics
-      as a new branch of ethics that studies and evaluates moral problems related
-      to data (including generation, recording, curation, processing, dissemination,
-      sharing and use), algorithms (including artificial intelligence, artificial
-      agents, machine learning and robots) and corresponding practices (including
-      responsible innovation, programming, hacking and professional codes), in order
-      to formulate and support morally good solutions (e.g. right conducts or right
-      values). Data ethics builds on the foundation provided by computer and information
-      ethics but, at the same time, it refines the approach endorsed so far in this
-      research field, by shifting the level of abstraction of ethical enquiries, from
-      being information-centric to being data-centric. This shift brings into focus
-      the different moral dimensions of all kinds of data, even data that never translate
-      directly into information but can be used to support actions or generate behaviours,
-      for example. It highlights the need for ethical analyses to concentrate on the
-      content and nature of computational operations—the interactions among hardware,
-      software and data—rather than on the variety of digital technologies that enable
-      them. And it emphasizes the complexity of the ethical challenges posed by data
-      science. Because of such complexity, data ethics should be developed from the
-      start as a macroethics, that is, as an overall framework that avoids narrow,
-      ad hoc approaches and addresses the ethical impact and implications of data
-      science and its applications within a consistent, holistic and inclusive framework.
-      Only as a macroethics will data ethics provide solutions that can maximize the
-      value of data science for our societies, for all of us and for our environments.
-    downloadLink: http://rsta.royalsocietypublishing.org/content/374/2083
-    relatedContentTitle: ''
-    relatedContentUrl: ''
-    relatedDataUrl: ''
+    - Documento de Trabajo
+    project: []
+    gitHub: 
+    relatedDataUrl: 
+    relatedContentTitle: 
+    abstract: Esta investigación tiene por objetivo evaluar algunos de los alcances
+      tempranos de las iniciativas existentes en el tema de datos abiertos y educación
+      y extraer lecciones y recomendaciones para ser debatidas con pares y poder nutrir
+      (retroalimentar) los mismos proyectos u otras iniciativas en el área. Se trata
+      de responder a la pregunta «¿que han logrado estos proyectos con esta aplicación
+      basada en datos abiertos de educación?».
   - sys:
-      id: gmi7hXwAMwUK8CQ4kaSow
+      id: paper_3
       space:
         sys:
           id: ufh1mvj7xl16
       type: Entry
-      createdAt: !ruby/object:DateTime 2016-12-19 21:05:32.174000000 Z
-      updatedAt: !ruby/object:DateTime 2016-12-19 21:05:32.174000000 Z
-      revision: 1
+      createdAt: !ruby/object:DateTime 2016-12-07 00:54:46.534000000 Z
+      updatedAt: !ruby/object:DateTime 2016-12-08 02:38:20.386000000 Z
+      revision: 2
       contentType:
         sys:
           id: paper
       locale: en-US
     open: true
-    publicationName: 'A Guide to Data Innovation for Government: From Idea to Proof-of-Concept'
+    publicationName: 'Co-creación, innovación y datos abiertos en ciudades de américa
+      latina: lecciones de Buenos Aires, Ciudad de México y Montevideo'
+    downloadLink: http://idatosabiertos.org/wp-content/uploads/2015/09/1.-Cocreacion-innovacion-y-datos-abiertos-Bonina.pdf
+    organization:
+    - ILDA
+    publicationDate: '2015'
+    region:
+    - América Latina
+    - Argentina
+    - México
+    - Uruguay
     authors:
-    - UNDP
-    - UN Global Pulse
-    publicationDate: !ruby/object:DateTime 2016-12-01 00:00:00.000000000 -05:00
+    - Carla Bonina
+    innovationCategory:
+    - Co-Creación
+    - Innovación Institucional
+    - Laboratorios y experimentación
+    - Datos Abiertos
+    objectiveCategory:
+    - Acceso
+    - Innovación
+    sectorCategory: []
+    methodology:
+    - Análisis Cualitativo
+    - Análisis Comparativo
+    - Estudios de Casos
+    publicationType:
+    - Documento de Trabajo
+    project: []
+    gitHub: 
+    relatedDataUrl: 
+    relatedContentTitle: 
+    abstract: "Este reporte analiza el desarrollo de tres proyectos de datos abiertos
+      de tres ciudades de América Latina: Buenos Aires, Ciudad de México y Montevideo,
+      ciudades con estructuras innovadoras, que han logrado cierto nivel de implementación
+      de sus iniciativas de datos abiertos. En particular, el reporte estudia de qué
+      manera diferentes actores interactúan para generar valor con datos abiertos,
+      es decir, los procesos de co-creación con datos abiertos.\n\nLos resultados
+      revelan que en los tres casos una combinación de liderazgo, recursos y alianzas
+      claves entre gobiernos, asociaciones civiles, grupos y ciudadanos, son los principales
+      mecanismos para la co-creación con datos abiertos en las ciudades. A la vez,
+      los casos muestran diferencias en los niveles de implementación, colaboración
+      y usos de los datos abiertos, con consecuencias para su desarrollo futuro. "
+  - sys:
+      id: paper_4
+      space:
+        sys:
+          id: ufh1mvj7xl16
+      type: Entry
+      createdAt: !ruby/object:DateTime 2016-12-07 00:54:46.534000000 Z
+      updatedAt: !ruby/object:DateTime 2016-12-08 02:38:20.386000000 Z
+      revision: 2
+      contentType:
+        sys:
+          id: paper
+      locale: en-US
+    open: true
+    publicationName: Enfermedades de transmisión vectorial y open data
+    downloadLink: http://idatosabiertos.org/enfermedades-de-transmision-vectorial-y-datos-abiertos/
+    organization:
+    - ILDA
+    publicationDate: '2015'
+    region:
+    - América Latina
+    authors:
+    - Juan Pane
+    - Verena Ojeda
+    - Natalia Valdez
+    innovationCategory:
+    - Datos Abiertos
+    objectiveCategory:
+    - Acceso
+    - Innovación
+    sectorCategory:
+    - Salud
+    methodology:
+    - Modelado estadístico
+    publicationType:
+    - Documento de Trabajo
+    project: []
+    gitHub: 
+    relatedDataUrl: 
+    relatedContentTitle: 
+    abstract: El dengue es una de las enfermedades con mayor crecimiento y afecta,
+      estimativamente, a 390 millones de personas en el mundo. Actualmente los datos
+      necesarios para desarrollar investigaciones y aplicaciones para comprender y
+      gestionar las epidemias de esta enfermedad son altamente variables y poco interoperables.
+      En este trabajo se presenta un nuevo modelo de datos basado en el análisis de
+      la oferta y demanda de datos relacionados al dengue. Se presentan, además, formatos
+      basados en estándares de datos abiertos que minimizan el esfuerzo para la publicación
+      de los datos, maximizando su capacidad de uso y reuso. Finalmente se presenta
+      un prototipo open source que hace uso de los datos presentando mapas de riesgo
+      y de incidencia dinámicos por departamentos y distritos, permitiendo navegar,
+      filtrar y descargar nuevamente los datos en formatos de datos abiertos.
+  - sys:
+      id: paper_5
+      space:
+        sys:
+          id: ufh1mvj7xl16
+      type: Entry
+      createdAt: !ruby/object:DateTime 2016-12-07 00:54:46.534000000 Z
+      updatedAt: !ruby/object:DateTime 2016-12-08 02:38:20.386000000 Z
+      revision: 2
+      contentType:
+        sys:
+          id: paper
+      locale: en-US
+    open: true
+    publicationName: Datos abiertos, corrupción y compras públicas
+    downloadLink: http://idatosabiertos.org/wp-content/uploads/2015/10/5.-Corrupcion-y-compras-publicas-Volosin1.pdf
+    organization:
+    - ILDA
+    publicationDate: '2015'
+    region:
+    - América Latina
+    - Argentina
+    - Chile
+    - México
+    - Uruguay
+    authors:
+    - Natalia Volosin
+    innovationCategory:
+    - Datos Abiertos
+    objectiveCategory:
+    - Acceso
+    - Rendición de Cuentas
+    sectorCategory:
+    - Compras Públicas
+    methodology:
+    - Análisis Cualitativo
+    publicationType:
+    - Documento de Trabajo
+    project: []
+    gitHub: 
+    relatedDataUrl: 
+    relatedContentTitle: 
+    abstract: |-
+      La región parece comprender cuál es el desafío, pues la principal herramienta de reforma operativa que han utilizado en los últimos veinte años para mejorar sus sistemas de adquisiciones ha sido implementar sistemas electrónicos de compras (e-GP por sus siglas en inglés) impulsados fuertemente desde el ámbito. Sin embargo, en su faz informativa estos sistemas no solo no han logrado producir información inteligente, sino que ni siquiera alcanzan a publicar información básica de todo el ciclo de compras. Esta investigación considera que ello se debe a que, por su propia naturaleza, los sistemas e-GP se generan unilateralmente desde el Estado y, por lo tanto, no involucran a los propios interesados en desarrollar herramientas útiles con la información de adquisiciones
+
+      En ese contexto, este reporte analiza el rol potencial que tienen los datos abiertos en la materia, a través de los procesos de reutilización para que  infinitos actores pueden generar productos que permitan agregarle valor a la información de compras para servir a distintos intereses involucrados en el sistema. Para analizar estas potencialidades y los límites de los datos abiertos en la mejora de los sistemas de compras públicas de América Latina, esta investigación analiza los ecosistemas de datos abiertos de adquisiciones de Chile, Uruguay, México y Argentina.
+  - sys:
+      id: paper_6
+      space:
+        sys:
+          id: ufh1mvj7xl16
+      type: Entry
+      createdAt: !ruby/object:DateTime 2016-12-07 00:54:46.534000000 Z
+      updatedAt: !ruby/object:DateTime 2016-12-08 02:38:20.386000000 Z
+      revision: 2
+      contentType:
+        sys:
+          id: paper
+      locale: en-US
+    open: true
+    publicationName: Apertura Legislativa en el Cono Sur ¿y los datos?
+    downloadLink: http://idatosabiertos.org/wp-content/uploads/2015/10/3.-Apertura-legislativa-Belbis1.pdf
+    organization:
+    - ILDA
+    publicationDate: '2015'
+    region:
+    - Brasil
+    - América Latina
+    - Argentina
+    - Chile
+    - Uruguay
+    authors:
+    - Juan Ignacio Belbis
+    innovationCategory:
+    - Innovación Institucional
+    - Datos Abiertos
+    objectiveCategory:
+    - Acceso
+    - Transparencia
+    - Rendición de Cuentas
+    sectorCategory:
+    - Parlamentos
+    methodology:
+    - Análisis Cualitativo
+    publicationType:
+    - Documento de Trabajo
+    project: []
+    gitHub: 
+    relatedDataUrl: 
+    relatedContentTitle: 
+    abstract: 'A medida que las iniciativas de datos abiertos se han ido esparciendo
+      a lo largo del mundo se han encontrado con diferentes contextos políticos, institucionales
+      y culturales. Este estudio pretende acercar la lupa sobre un segmento de este
+      gran fenómeno: la apertura de datos legislativos. Particularmente, este trabajo
+      hace foco en el Cono Sur de América Latina, comparando los procesos de apertura
+      de datos legislativos de Argentina, Brasil, Chile y Uruguay. El modelo de análisis
+      partió de la metáfora del ecosistema de funcionamiento y se planteó en una matriz
+      primaria de cuatro componentes: contexto, provisión de datos abiertos, uso e
+      impacto. Para lograr una comparación efectiva se realizaron diferentes actividades
+      de campo, así como se construyeron herramientas metodológicas de análisis de
+      la situación de cada país y sus niveles de apertura legislativa de forma comparada.'
+  - sys:
+      id: paper_7
+      space:
+        sys:
+          id: ufh1mvj7xl16
+      type: Entry
+      createdAt: !ruby/object:DateTime 2016-12-07 00:54:46.534000000 Z
+      updatedAt: !ruby/object:DateTime 2016-12-08 02:38:20.386000000 Z
+      revision: 2
+      contentType:
+        sys:
+          id: paper
+      locale: en-US
+    open: true
+    publicationName: Modelo docente y datos abiertos
+    downloadLink: https://drive.google.com/drive/folders/0B7ibUl2KOSPEeTJrSUgyejBvVmM
+    organization:
+    - ILDA
+    publicationDate: '2016'
+    region:
+    - América Latina
+    - Uruguay
+    authors:
+    - Javiera Atenas
+    - Chiara Ciociola
+    innovationCategory:
+    - Innovación Institucional
+    - Datos Abiertos
+    objectiveCategory:
+    - Innovación
+    - Participación
+    sectorCategory:
+    - Educación
+    methodology:
+    - Marco Conceptual
+    - Análisis Cualitativo
+    publicationType:
+    - Documento de Trabajo
+    project: []
+    gitHub: 
+    relatedDataUrl: 
+    relatedContentTitle: 
+    abstract: "Existe un consenso general de que los datos abiertos se están convirtiendo
+      en un recurso muy valioso para la investigación y las comunidades científicas,
+      ya que apoya y fomenta las prácticas de investigación transparentes, apoyando
+      el desarrollo científico y la reproducibilidad, por ende, consideramos que el
+      uso de datos abiertos puede ser un modelo de buenas prácticas y de prácticas
+      abiertas de investigación en el mundo académico .\nEste proyecto sugiere estrategias
+      para capacitar docentes universitarios en el uso de datos abiertos ya que creemos
+      que los datos abiertos son herramientas fundamentales para comprender el trabajo
+      de investigación, y los procesos que conlleva el hacer ciencia, investigación
+      periodística o desarrollo de políticas. \nPara poder hacer efectivo el curso
+      como proyecto, se seleccionó a la Universidad de la República en Montevideo
+      por la vasta experiencia en capacitación docente del equipo del Programa de
+      Entornos Virtuales de Aprendizaje, Departamento de Apoyo Técnico Académico y
+      de la Comisión Sectorial de Enseñanza"
+  - sys:
+      id: paper_8
+      space:
+        sys:
+          id: ufh1mvj7xl16
+      type: Entry
+      createdAt: !ruby/object:DateTime 2016-12-07 00:54:46.534000000 Z
+      updatedAt: !ruby/object:DateTime 2016-12-08 02:38:20.386000000 Z
+      revision: 2
+      contentType:
+        sys:
+          id: paper
+      locale: en-US
+    open: true
+    publicationName: El uso de las tecnologías de información y comunicación para
+      la implementación de leyes de acceso a la información pública
+    downloadLink: http://redrta.cplt.cl/_public/public/folder_attachment/55/1a/1a3b_6f48.pdf
+    organization: []
+    publicationDate: '2014'
+    region:
+    - Brasil
+    - América Latina
+    - Chile
+    - México
+    authors:
+    - Silvana Fumega
+    innovationCategory:
+    - Tecnología Cívica
+    - Acceso a la Información
+    - Datos Abiertos
+    objectiveCategory:
+    - Acceso
+    - Transparencia
+    - Rendición de Cuentas
+    sectorCategory: []
+    methodology:
+    - Análisis Comparativo
+    - Análisis Cualitativo
+    publicationType:
+    - Documento de Trabajo
+    project: []
+    gitHub: 
+    relatedDataUrl: 
+    relatedContentTitle: 
+    abstract: |
+      El estudio apoyado por el Banco Mundial, la Red de Transparencia y Acceso a la Información Publica (RTA) y el Consejo para la Transparencia (CPLT), describe las plataformas de solicitud de información en línea que han desarrollado Brasil, Chile y México como parte del proceso de implementación de sus respectivas Leyes de Transparencia y Acceso a la Información Pública (AIP), procurando informar a los países que aspiran a construir plataformas digitales para procesar pedidos de información en línea, por lo que –esperamos- sea de utilidad para sus lectores.
+      Luego de una breve reseña sobre las leyes de acceso a la información pública en América Latina, esta nota brinda información sobre diversos aspectos clave de tres portales en la región. Para facilitar la lectura, esta nota se encuentra dividida en 8 secciones de acuerdo a los principales aspectos a analizar en cada uno de los portales: características, diseño, implementación, uso, así como también capacitación y formación.
+  - sys:
+      id: paper_9
+      space:
+        sys:
+          id: ufh1mvj7xl16
+      type: Entry
+      createdAt: !ruby/object:DateTime 2016-12-07 00:54:46.534000000 Z
+      updatedAt: !ruby/object:DateTime 2016-12-08 02:38:20.386000000 Z
+      revision: 2
+      contentType:
+        sys:
+          id: paper
+      locale: en-US
+    open: true
+    publicationName: Datos abiertos, transparencia y redistribución en México
+    downloadLink: http://openscholar.mit.edu/sites/default/files/dept/files/825-1512-1-pb_es.pdf
+    organization: []
+    publicationDate: '2016'
+    region:
+    - América Latina
+    - México
+    authors:
+    - Alejandro Trelles
+    - Micah Altman
+    - Eric Magar
+    - Michael P. McDonald
+    innovationCategory:
+    - Datos Abiertos
+    objectiveCategory:
+    - Acceso
+    - Transparencia
+    - Rendición de Cuentas
+    sectorCategory:
+    - Política
+    methodology:
+    - Análisis Cualitativo
+    publicationType:
+    - Artículo de Revista
+    project: []
+    gitHub: 
+    relatedDataUrl: 
+    relatedContentTitle: 
+    abstract: Los diversos reclamos y protestas de la ciudadanía generados por el
+      desgaste de la clase política en la última década han expuesto, entre otras
+      cosas, la urgencia de estrechar el vínculo entre la ciudadanía y sus representantes.
+      En este rubro, la delimitación de la cartografía electoral es un mecanismo fundamental
+      para transitar hacia una mejor representación política. Por tratarse de una
+      labor inmersa en tecnicismos de diversa índole -geográficos, estadísticos, informáticos,
+      entre los más reconocibles-, es fácil caer en la tentación de relegar la redistritación
+      al ámbito de los especialistas y perder de vista su importancia para la vida
+      democrática. Empero, el uso de nuevas tecnologías, así como la generación y
+      el uso de datos abiertos, ofrece una oportunidad para fortalecer la representación
+      política. En esta nota se discute el contexto de redistritación en México, los
+      desafíos en materia de transparencia y cómo el uso de ciertas herramientas -como
+      el software de código abierto y el mapeo en línea- tienen un enorme potencial
+      para incrementar los niveles de transparencia, participación y rendición de
+      cuentas en torno a los procesos de delimitación electoral.
+  - sys:
+      id: paper_10
+      space:
+        sys:
+          id: ufh1mvj7xl16
+      type: Entry
+      createdAt: !ruby/object:DateTime 2016-12-07 00:54:46.534000000 Z
+      updatedAt: !ruby/object:DateTime 2016-12-08 02:38:20.386000000 Z
+      revision: 2
+      contentType:
+        sys:
+          id: paper
+      locale: en-US
+    open: true
+    publicationName: La contribución del gobierno electrónico y los datos abiertos
+      en la integración regional
+    downloadLink: http://repositorio.cepal.org/bitstream/handle/11362/40631/1/S1600937_es.pdf
+    organization:
+    - CEPAL
+    publicationDate: '2016'
+    region:
+    - América Latina
+    authors:
+    - Alejandra Naser
+    - Andrés Hofmann
+    innovationCategory:
+    - Tecnología Cívica
+    - Datos Abiertos
+    objectiveCategory:
+    - Acceso
+    - Transparencia
+    - Rendición de Cuentas
+    sectorCategory:
+    - Desarrollo
+    methodology:
+    - Análisis Cualitativo
+    publicationType:
+    - Documento de Trabajo
+    project: []
+    gitHub: 
+    relatedDataUrl: 
+    relatedContentTitle: 
+    abstract: El presente documento trata sobre la integración en los países de la
+      región a través del uso de los servicios que ofrece el gobierno electrónico
+      y de las aplicaciones desarrolladas con los datos abiertos gubernamentales haciendo
+      especial atención al desarrollo sustentable y desarrollo de las pequeñas y medianas
+      empresas (PYMES).
+  - sys:
+      id: paper_11
+      space:
+        sys:
+          id: ufh1mvj7xl16
+      type: Entry
+      createdAt: !ruby/object:DateTime 2016-12-07 00:54:46.534000000 Z
+      updatedAt: !ruby/object:DateTime 2016-12-08 02:38:20.386000000 Z
+      revision: 2
+      contentType:
+        sys:
+          id: paper
+      locale: en-US
+    open: true
+    publicationName: 'Reflexiones sobre el Modelo de Negocio para el diseño de la
+      Estrategia de Datos Abiertos: caso El Salvador'
+    downloadLink: http://www.gigapp.org/administrator/components/com_jresearch/files/publications/Reflexiones%20sobre%20el%20Modelo%20Canvas_Datos%20Abiertos_El%20Salvador_Rojas_Palma.pdf
+    organization: []
+    publicationDate: '2013'
+    region:
+    - América Latina
+    - El Salvador
+    authors:
+    - Alexis Rojas
+    - Iris Palma
+    innovationCategory:
+    - Co-Creación
+    - Datos Abiertos
+    objectiveCategory:
+    - Acceso
+    - Transparencia
+    - Rendición de Cuentas
+    sectorCategory: []
+    methodology:
+    - Análisis Cualitativo
+    - Estudios de Casos
+    publicationType:
+    - Reporte de Investigación
+    project: []
+    gitHub: 
+    relatedDataUrl: 
+    relatedContentTitle: 
+    abstract: |-
+      Por mucho las iniciativas basadas en el uso intensivo de las Tecnologías de la Información y las Comunicaciones (TIC) en la gestión pública han estado ampliamente enfocadas en mejorar significativamente las relaciones estado-ciudadanía y a promover la eficiencia y automatización de trámites en la prestación de servicios gubernamentales. La evolución de los mecanismos de fortalecimiento democrático han motivado y de cierta forma demandado la demostración de la voluntad de los gobierno por hacer más fácil y transparente la gestión pública por medio de ciertas iniciativas canalizadas en el uso de redes sociales, sistemas móviles y la Internet para poner a disposición de la ciudadanía información y datos que favorezcan las tomas de decisiones y la co-creación de valor público. Así, la apertura de datos en formatos libres, sin discriminación, puros, técnica y legalmente viables se ha convertido no solo en una muestra de transparencia, sino también en un aliciente para la generación de negocios e innovación característicos de la economía digital hacia la transición a la sociedad de la información.
+      En este artículo hacemos referencia al caso de El Salvador en la apertura de datos gubernamentales y los desafíos y factores del entorno que bajo un modelo de negocios inhiben o posibilitan su viabilidad y disposición, concluyendo así que la mera utilización de TIC para la apertura de datos gubernamentales está condenada al fracaso si no se posibilitan. paralelamente iniciativas y acciones operativas y estratégicas, cuya base debe evolucionar hacia la utilización de un modelo de negocio que considere al usuario, las necesidades, los problemas, la información, la infraestructura, alianzas, costos y sostenibilidad.
+  - sys:
+      id: paper_12
+      space:
+        sys:
+          id: ufh1mvj7xl16
+      type: Entry
+      createdAt: !ruby/object:DateTime 2016-12-07 00:54:46.534000000 Z
+      updatedAt: !ruby/object:DateTime 2016-12-08 02:38:20.386000000 Z
+      revision: 2
+      contentType:
+        sys:
+          id: paper
+      locale: en-US
+    open: true
+    publicationName: 'Gobierno abierto y datos vinculados: conceptos, experiencias
+      y lecciones con base en el caso mexicano'
+    downloadLink: http://www.redalyc.org/articulo.oa?id=357546620003
+    organization: []
+    publicationDate: '2016'
+    region:
+    - América Latina
+    - México
+    authors:
+    - Gabriela Quintanilla
+    - José Ramón Gil-García
     innovationCategory:
     - Big Data
-    - Data Analysis
-    - Data Collaboratives
-    - Data Governance
+    - Datos Abiertos
     objectiveCategory:
-    - Effectiveness
-    - Legitimacy
+    - Acceso
+    - Transparencia
+    - Rendición de Cuentas
+    sectorCategory: []
+    methodology:
+    - Análisis Cualitativo
+    - Estudios de Casos
+    publicationType:
+    - Artículo de Revista
+    project: []
+    gitHub: 
+    relatedDataUrl: 
+    relatedContentTitle: 
+    abstract: Actualmente, tanto gobiernos como individuos están rodeados de información,
+      y un gran número de bases de datos se encuentran en todas partes y contienen
+      datos de muy diversa índole. Es posible encontrar datos sobre productos, servicios,
+      comercio, medio ambiente, políticas públicas y legislación, entre muchos otros
+      temas. Los datos se pueden compartir, crecen cada día y pueden potencialmente
+      utilizarse para mejorar la calidad de vida de los ciudadanos, para desarrollar
+      nuevos negocios o solucionar diversos problemas sociales. Cuando los datos están
+      disponibles, son de fácil acceso y pueden ser usados libremente se consideran
+      datos abiertos que pueden ser vinculados para conformar redes de datos de grandes
+      magnitudes. Al estar los gobiernos entre los mayores productores de datos e
+      información, la vinculación de los datos abiertos gubernamentales se convierte
+      en una gran oportunidad para promover los principios de Gobierno abierto. Este
+      artículo presenta algunos conceptos básicos sobre datos abiertos y datos vinculados
+      y los relaciona con los datos del sector público disponibles en México, a manera
+      de ejemplo. Los resultados invitan a pensar en la necesidad de lograr una mayor
+      utilización de los datos abiertos gubernamentales para generar valor público.
+  - sys:
+      id: paper_13
+      space:
+        sys:
+          id: ufh1mvj7xl16
+      type: Entry
+      createdAt: !ruby/object:DateTime 2016-12-07 00:54:46.534000000 Z
+      updatedAt: !ruby/object:DateTime 2016-12-08 02:38:20.386000000 Z
+      revision: 2
+      contentType:
+        sys:
+          id: paper
+      locale: en-US
+    open: true
+    publicationName: Web semántica y su aporte a la estrategia de datos abiertos del
+      estado colombiano
+    downloadLink: http://revistas.udistrital.edu.co/ojs/index.php/revcie/article/view/9796
+    organization: []
+    publicationDate: '2015'
+    region:
+    - Colombia
+    - América Latina
+    authors:
+    - José Nelson Pérez Castillo
+    - María Fernanda Díaz Hernández
+    - Nubia Rincón Mosquera
+    innovationCategory:
+    - Innovación Institucional
+    - Datos Abiertos
+    objectiveCategory:
+    - Acceso
+    - Innovación
+    sectorCategory: []
+    methodology:
+    - Análisis Cualitativo
+    - Estudio de Casos
+    publicationType:
+    - Artículo de Revista
+    project: []
+    gitHub: 
+    relatedDataUrl: 
+    relatedContentTitle: 
+    abstract: 'Una de las grandes oportunidades que se plantea en el desarrollo actual
+      de las Tecnologías de la Información y la Comunicación (TIC), es la construcción
+      de una Web Semántica en el país que haga aportes a la Estrategia de Datos Abiertos
+      del Estado Colombiano. La apertura de datos en Colombia ha sido establecida
+      en el Decreto 2573 de 2014 e implementada mediante una Guía para la Apertura
+      de Datos a todos los niveles de la administración pública. En el país el decreto
+      garantiza la libre adopción de tecnologías y recomendaciones internacionales,
+      dando la oportunidad a los desarrolladores de software de adoptar una de las
+      más importantes orientaciones de la W3C (World Wide Web Consortium), cual es
+      la de usar e implementar una red “inteligente” que pueda vincular diversos conjuntos
+      de datos de una forma significativa. Se piensa que sin esta novedosa implementación,
+      el esfuerzo gubernamental por aprovechar el gran potencial de los datos abiertos
+      puede quedar a medio camino, quedando la información disponible  en la red tradicional,
+      de una manera estática y centralizada, con el consiguiente riesgo de convertirse
+      en un nuevo silo de datos, o que éstos no sean aprovechados con todas las ventajas
+      de crecimiento y beneficio que la unión entre los dos conceptos: web semántica
+      y datos abiertos podrían aportar. A continuación se presenta un panorama de
+      ventajas relacionadas con la construcción de la Web Semántica en el país para
+      apoyar completamente la estrategia estatal mediante la vinculación significativa
+      de conjuntos de datos abiertos. Concluyendo que se deben establecer unos centros
+      de investigación para el análisis y diseño de redes semánticas con ontologías
+      para ser parte de  los esfuerzos globales hacia la apertura de datos. '
+  - sys:
+      id: paper_14
+      space:
+        sys:
+          id: ufh1mvj7xl16
+      type: Entry
+      createdAt: !ruby/object:DateTime 2016-12-07 00:54:46.534000000 Z
+      updatedAt: !ruby/object:DateTime 2016-12-08 02:38:20.386000000 Z
+      revision: 2
+      contentType:
+        sys:
+          id: paper
+      locale: en-US
+    open: true
+    publicationName: 'Apoyando la formulación de políticas públicas y toma de decisiones
+      en educación utilizando técnicas de análisis de datos masivos: el caso de Chile'
+    downloadLink: http://yogobierno.org/out/ganadores/27_apoyando-la-formulacion-de-politicas-publicas.pdf
+    organization: []
+    publicationDate: '2016'
+    region:
+    - América Latina
+    - Chile
+    authors:
+    - Patricio Rodriguez
+    - Ricardo Truffello
+    - Karol Suchan
+    - Francisca Varela
+    - Manuel Matas
+    - Javier Mondaca
+    - Javiera Cespedes
+    - Luis Valenzuela
+    - Juan Pablo Valenzuela
+    - Claudio Allende
+    innovationCategory:
+    - Big Data
+    - Datos Abiertos
+    objectiveCategory:
+    - Acceso
+    - Transparencia
+    - Rendición de Cuentas
     sectorCategory:
-    - Human Rights
-    - Philanthropy & Aid
+    - Educación
     methodology:
-    - Case Studies
-    - Conceptual Framework
+    - Análisis Cualitativo
+    - Análisis Cuantitativo
     publicationType:
-    - Research Report
-    abstract: |
-      Recognizing the potential of data innovation, the United Nations Development Programme (UNDP) innovation teams at the Regional Centre for Europe and the Commonwealth of Independent States (ECIS) and the Regional Hub for Arab States embarked on a “big data for development exploration journey,” seeking to harness new sources of data to improve services or programme implementation on topics including disaster risk management, improved welfare, migration, and poverty reduction. As part of this exercise, six UNDP Offices from the two regions developed data innovation proof-of-concept projects with governmental and civil society partners, to address urgent local challenges and gain hands-on experience in data innovation.
-
-      UN Global Pulse provided technical guidance, coaching and tools to the project managers for the duration of the exercise, and the cohort shared advice and challenges at in-person workshops. This guide is based on these experiences, and on the methodology created by Global Pulse to design and implement data innovation projects across the UN system.
-
-      The joint exercise showed how alternative sources of data can and should play a role in pursuing development outcomes and, as such, hold great promise for ful lling the Sustainable Development Goals—both from the perspective of pursuing the outcomes as well as enabling (close to) real-time monitoring and evaluation.
-    downloadLink: http://unglobalpulse.org/sites/default/files/UNGP_BigDataGuide2016_%20Web.pdf
-- sys:
-    id: uDZuSB9dx6mU4s2o0aKUs
-    space:
-      sys:
-        id: ufh1mvj7xl16
-    type: Entry
-    createdAt: !ruby/object:DateTime 2017-01-24 18:18:22.938000000 Z
-    updatedAt: !ruby/object:DateTime 2017-01-24 18:19:29.606000000 Z
-    revision: 2
-    contentType:
-      sys:
-        id: blogpost
-    locale: en-US
-  title: 'January Highlights: New Research and Findings on OGRX'
-  author:
-  - Andrew Young
-  affiliation:
-  - The GovLab
-  type:
-  - Weekly update
-  keywords:
-  - Big Data
-  - Citizen Engagement and Crowdsourcing
-  - Data Collaboratives
-  - Citizen Science
-  - Social Media
-  post: |-
-    *The Open Governance Research Exchange (OGRX) strives to identify and curate the most useful and important research on innovations in governance. Through the research efforts of OGRX’s [editorial board and partners](http://ogrx.org/about.html), and, especially, [submissions from OGRX users](http://ogrx.org/submit.html), the platform is constantly growing and evolving, with new publications added each week.*
-
-    Some pieces reflective of the diversity of newly added research and findings come from [*PLOS One*](http://journals.plos.org/plosone/), [*Big Data & Society*](https://journals.sagepub.com/home/bds), the [Hawaii International Conference on System Sciences](http://hicss.hawaii.edu), [*Philosophy & Technology*](http://link.springer.com/journal/13347), and [*Current Anthropology*](http://www.journals.uchicago.edu/toc/ca/current), focusing on [Citizen Engagement and Crowdsourcing](http://ogrx.org/categories/citizen-engagement-and-crowdsourcing.html), [Big Data](http://ogrx.org/categories/big-data.html), [Citizen Science](http://ogrx.org/categories/citizen-science.html), [Social Media](http://ogrx.org/categories/social-media.html), and [Data Collaboratives](http://ogrx.org/categories/data-collaboratives.html).
-
-    Come back often to stay on top of what’s new in governance innovation!
-  articlesList:
+    - Reporte de Investigación
+    project: []
+    gitHub: 
+    relatedDataUrl: 
+    relatedContentTitle: 
+    abstract: Chile está impulsando una reforma educativa, siendo uno de los cambios
+      más sustantivos la creación de los Servicios Locales de Educación Pública (SLE),
+      que sustituirán a los municipios en la administración de la educación pública.
+      Pero, la diversidad geográfica y socio-demográfica de Chile conlleva desafíos
+      invisibles al diseño e implementación de políticas públicas en educación, que
+      deben tomarse en cuenta, ya que el desempeño del sistema escolar también depende
+      de otros factores no educativos. Usando técnicas de Ciencia de Datos, empleando
+      como insumos en su mayoría datos abiertos provistos por el gobierno, se generó
+      evidencia para medir aspectos del sistema educativo previamente invisibles como
+      la falta de equidad espacial en el acceso a oferta educativa y que además cumpla
+      estándares mínimos de aprendizaje, o la posibilidad de predecir y prevenir fenómenos
+      de alto impacto social como son la deserción y el abandono escolar. Así, es
+      posible evidenciar la necesaria coordinación y diálogo inter-agencias en el
+      diseño de políticas públicas y toma de decisiones. El uso de indicadores espaciales
+      permite visualizar la inequidad de los territorios, dando origen a una nueva
+      generación de políticas públicas que supere la lógica y limitaciones de las
+      divisiones político-administrativas de los territorios.
   - sys:
-      id: paper_a71
+      id: paper_15
       space:
         sys:
           id: ufh1mvj7xl16
       type: Entry
-      createdAt: !ruby/object:DateTime 2016-12-07 00:55:05.316000000 Z
-      updatedAt: !ruby/object:DateTime 2016-12-07 00:55:05.316000000 Z
-      revision: 1
+      createdAt: !ruby/object:DateTime 2016-12-07 00:54:46.534000000 Z
+      updatedAt: !ruby/object:DateTime 2016-12-08 02:38:20.386000000 Z
+      revision: 2
       contentType:
         sys:
           id: paper
       locale: en-US
     open: true
-    publicationName: 'Crowdsourcing: It Matters Who the Crowd Are'
+    publicationName: 'Medios ciudadanos y big data: La emergencia del activismo de
+      datos'
+    downloadLink: http://biblioteca.uniminuto.edu/ojs/index.php/med/article/view/1079
+    organization: []
+    publicationDate: '2015'
+    region: []
     authors:
-    - Alexis Comber
-    - Peter Mooney
-    - Ross S. Purves
-    - Duccio Rocchini
-    - Ariane Walz
-    publicationDate: !ruby/object:DateTime 2016-07-26 12:00:00.000000000 -04:00
+    - Stefania Milan
+    - Miren Gutiérrez
     innovationCategory:
-    - Citizen Engagement and Crowdsourcing
-    - Citizen Science
-    - Data Analysis
+    - Big Data
+    - Datos Abiertos
     objectiveCategory:
-    - Effectiveness
-    - Participation
-    methodology:
-    - Statistical Modeling
-    - Comparative Analysis
-    - Qualitative Analysis
-    publicationType:
-    - Journal Article
-    gitHub: ''
-    abstract: Volunteered geographical information (VGI) and citizen science have
-      become important sources data for much scientific research. In the domain of
-      land cover, crowdsourcing can provide a high temporal resolution data to support
-      different analyses of landscape processes. However, the scientists may have
-      little control over what gets recorded by the crowd, providing a potential source
-      of error and uncertainty. This study compared analyses of crowdsourced land
-      cover data that were contributed by different groups, based on nationality (labelled
-      Gondor and Non-Gondor) and on domain experience (labelled Expert and Non-Expert).
-      The analyses used a geographically weighted model to generate maps of land cover
-      and compared the maps generated by the different groups. The results highlight
-      the differences between the maps how specific land cover classes were under-
-      and over-estimated. As crowdsourced data and citizen science are increasingly
-      used to replace data collected under the designed experiment, this paper highlights
-      the importance of considering between group variations and their impacts on
-      the results of analyses. Critically, differences in the way that landscape features
-      are conceptualised by different groups of contributors need to be considered
-      when using crowdsourced data in formal scientific analyses. The discussion considers
-      the potential for variation in crowdsourced data, the relativist nature of land
-      cover and suggests a number of areas for future research. The key finding is
-      that the veracity of citizen science data is not the critical issue per se.
-      Rather, it is important to consider the impacts of differences in the semantics,
-      affordances and functions associated with landscape features held by different
-      groups of crowdsourced data contributors.
-    downloadLink: http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0158329
-    relatedContentTitle: ''
-    relatedContentUrl: ''
-    relatedDataUrl: ''
-  - sys:
-      id: 6kVuPG4T3aW6Ymg4wqWkmO
-      space:
-        sys:
-          id: ufh1mvj7xl16
-      type: Entry
-      createdAt: !ruby/object:DateTime 2017-01-19 04:36:00.464000000 Z
-      updatedAt: !ruby/object:DateTime 2017-01-19 04:36:00.464000000 Z
-      revision: 1
-      contentType:
-        sys:
-          id: paper
-      locale: en-US
-    open: false
-    publicationName: 'Towards Scalable Governance: Sensemaking and Cooperation in
-      the Age of Social Media'
-    authors:
-    - Iyad Rahwan
-    publicationDate: !ruby/object:DateTime 2016-11-30 00:00:00.000000000 -05:00
-    innovationCategory:
-    - Citizen Engagement and Crowdsourcing
-    - Civic Technology
-    - Collective Intelligence
-    - Social Media
-    objectiveCategory:
-    - Effectiveness
-    methodology:
-    - Conceptual Framework
-    - Ethnography
-    publicationType:
-    - Journal Article
-    abstract: 'Cybernetics, or self-governance of animal and machine, requires the
-      ability to sense the world and to act on it in an appropriate manner. Likewise,
-      self-governance of a human society requires groups of people to collectively
-      sense and act on their environment. I argue that the evolution of political
-      systems is characterized by a series of innovations that attempt to solve (among
-      others) two ‘scalability’ problems: scaling up a group’s ability to make sense
-      of an increasingly complex world, and to cooperate in increasingly larger groups.
-      I then explore some recent efforts toward using the Internet and social media
-      to provide alternative means for addressing these scalability challenges, under
-      the banners of crowdsourcing and computer-supported argumentation. I present
-      some lessons from those efforts about the limits of technology, and the research
-      directions more likely to bear fruit.'
-    downloadLink: http://link.springer.com/article/10.1007/s13347-016-0246-y
-  - sys:
-      id: 16wGo7W0HOSkGGk64E06y6
-      space:
-        sys:
-          id: ufh1mvj7xl16
-      type: Entry
-      createdAt: !ruby/object:DateTime 2017-01-19 04:16:17.157000000 Z
-      updatedAt: !ruby/object:DateTime 2017-01-19 04:16:17.157000000 Z
-      revision: 1
-      contentType:
-        sys:
-          id: paper
-      locale: en-US
-    open: true
-    publicationName: 'Just Good Enough Data: Figuring Data Citizenships through Air
-      Pollution Sensing and Data Stories'
-    authors:
-    - Jennifer Gabrys
-    - Helen Pritchard
-    - Benjamin Barratt
-    innovationCategory:
-    - Citizen Engagement and Crowdsourcing
-    - Citizen Science
-    - Data Analysis
-    objectiveCategory:
-    - Effectiveness
+    - Acceso
+    - Participación
+    - Transparencia
     sectorCategory:
-    - Environment
+    - Movimientos Sociales & Activismo
     methodology:
-    - Case Studies
-    - Quantitative Analysis
-    - Statistical Modeling
+    - Análisis Cualitativo
     publicationType:
-    - Journal Article
-    abstract: Citizen sensing, or the use of low-cost and accessible digital technologies
-      to monitor environments, has contributed to new types of environmental data
-      and data practices. Through a discussion of participatory research into air
-      pollution sensing with residents of northeastern Pennsylvania concerned about
-      the effects of hydraulic fracturing, we examine how new technologies for generating
-      environmental data also give rise to new problems for analysing and making sense
-      of citizen-gathered data. After first outlining the citizen data practices we
-      collaboratively developed with residents for monitoring air quality, we then
-      describe the data stories that we created along with citizens as a method and
-      technique for composing data. We further mobilise the concept of ‘just good
-      enough data’ to discuss the ways in which citizen data gives rise to alternative
-      ways of creating, valuing and interpreting datasets. We specifically consider
-      how environmental data raises different concerns and possibilities in relation
-      to Big Data, which can be distinct from security or social media studies. We
-      then suggest ways in which citizen datasets could generate different practices
-      and interpretive insights that go beyond the usual uses of environmental data
-      for regulation, compliance and modelling to generate expanded data citizenships.
-    downloadLink: http://journals.sagepub.com/doi/abs/10.1177/2053951716679677
+    - Artículo de Revista
+    project: []
+    gitHub: 
+    relatedDataUrl: 
+    relatedContentTitle: 
+    abstract: Los big data representan nuevos retos y nuevas oportunidades para la
+      ciudadanía. Las prácticas del “activismo de datos” surgen de la intersección
+      de las dimensiones social y tecnológica de la acción humana, por la cual la
+      ciudadanía adopta una postura crítica hacia los big data, que se apropia y manipula
+      para hacer campaña y promover el cambio social. Este artículo teórico explora
+      el surgimiento del activismo de datos como una realidad empírica y una herramienta
+      heurística para estudiar cómo la gente se relaciona políticamente con los big
+      data. Ponemos en contexto este concepto a través de una revisión de literatura
+      académica y ofrecemos una definición del activismo de datos, así como una agenda
+      tentativa para su estudio. Argumentamos que el activismo de datos representa
+      una nueva forma de medio ciudadano que coloca en su mismo centro una aproximación
+      crítica hacia los big data.
   - sys:
-      id: 1ZbSAJ9lTm4GKOOSA0e0mw
+      id: paper_16
       space:
         sys:
           id: ufh1mvj7xl16
       type: Entry
-      createdAt: !ruby/object:DateTime 2017-01-19 03:49:31.857000000 Z
-      updatedAt: !ruby/object:DateTime 2017-01-19 03:49:31.857000000 Z
-      revision: 1
+      createdAt: !ruby/object:DateTime 2016-12-07 00:54:46.534000000 Z
+      updatedAt: !ruby/object:DateTime 2016-12-08 02:38:20.386000000 Z
+      revision: 2
       contentType:
         sys:
           id: paper
       locale: en-US
     open: true
-    publicationName: 'Data Collaboratives as a New Frontier of Cross-Sector Partnerships
-      in the Age of Open Data: Taxonomy Development'
+    publicationName: 'Panorama regional de los datos abiertos: avances y desafíos
+      en América Latina y el Caribe'
+    downloadLink: http://200.9.3.98/handle/11362/40768
     organization:
-    - The GovLab
+    - CEPAL
+    publicationDate: '2016'
+    region:
+    - América Latina
     authors:
-    - Iryna Susha
-    - Marijn Janssen
-    - Stefaan Verhulst
-    publicationDate: !ruby/object:DateTime 2017-01-01 00:00:00.000000000 -05:00
+    - Alejandra Naser
+    - Daniela Rosales
     innovationCategory:
-    - Data Analysis
-    - Data Collaboratives
-    - Open Data
+    - Tecnología Cívica
+    - Datos Abiertos
     objectiveCategory:
-    - Effectiveness
+    - Acceso
+    - Transparencia
+    - Rendición de Cuentas
+    sectorCategory:
+    - Desarrollo
     methodology:
-    - Case Studies
-    - Conceptual Framework
+    - Análisis Cualitativo
     publicationType:
-    - Conference Proceedings
-    abstract: |-
-      Data collaboratives present a new form of cross-sector
-      and public-private partnership to leverage (often
-      corporate) data for addressing a societal challenge.
-      They can be seen as the latest attempt to make data
-      accessible to solve public problems. Although an
-      increasing number of initiatives can be found, there is
-      hardly any analysis of these emerging practices. This
-      paper seeks to develop a taxonomy of forms of data
-      collaboratives. The taxonomy consists of six dimensions
-      related to data sharing and eight dimensions related to
-      data use. Our analysis shows that data collaboratives
-      exist in a variety of models. The taxonomy can help
-      organizations to find a suitable form when shaping their
-      efforts to create public value from corporate and other
-      data. The use of data is not only dependent on the
-      organizational arrangement, but also on aspects like the
-      type of policy problem, incentives for use, and the
-      expected outcome of data collaborative.
-    downloadLink: http://scholarspace.manoa.hawaii.edu/bitstream/10125/41481/1/paper0332.pdf
+    - Documento de Trabajo
+    project: []
+    gitHub: 
+    relatedDataUrl: 
+    relatedContentTitle: 
+    abstract: Los gobiernos, las empresas, la academia y diversos grupos de activos
+      ciudadanos se encuentran inmersos en una verdadera revolución de experimentación,
+      innovación y adaptación al nuevo mundo de los datos. Las personas, las economías
+      y los gobiernos se están adaptando a un emergente ecosistema de datos en red,
+      más rápidos y completos. El presente documento hace un análisis de los esfuerzos
+      que están haciendo los países de América Latina y el Caribe, para aprovechar
+      las oportunidades que las tecnologías de información ofrecen para gestionar
+      estos datos y ponerlos a disposición de la ciudadanía a través de portales,
+      así como también, a través de iniciativas para dar valor público y generar nuevas
+      aplicaciones que den nuevos significados y resuelvan problemáticas comunes.
   - sys:
-      id: MLEaqAauOYgQi6CCA8Qq2
+      id: paper_17
       space:
         sys:
           id: ufh1mvj7xl16
       type: Entry
-      createdAt: !ruby/object:DateTime 2017-01-19 04:34:35.409000000 Z
-      updatedAt: !ruby/object:DateTime 2017-01-19 04:34:35.409000000 Z
-      revision: 1
+      createdAt: !ruby/object:DateTime 2016-12-07 00:54:46.534000000 Z
+      updatedAt: !ruby/object:DateTime 2016-12-08 02:38:20.386000000 Z
+      revision: 2
       contentType:
         sys:
           id: paper
       locale: en-US
     open: true
-    publicationName: 'Too Much Democracy in All the Wrong Places: Toward a Grammar
-      of Participation'
+    publicationName: El valor del activismo de datos en el trabajo de la sociedad
+      civil
+    downloadLink: http://revistadigitos.com/index.php/digitos/article/view/68
+    organization: []
+    publicationDate: '2017'
+    region: []
     authors:
-    - Christopher M. Kelty
-    publicationDate: !ruby/object:DateTime 2016-12-05 00:00:00.000000000 -05:00
+    - Victoria Anderica Caffarena
     innovationCategory:
-    - Citizen Engagement and Crowdsourcing
+    - Tecnología Cívica
+    - Acceso a la Información
+    - Datos Abiertos
     objectiveCategory:
-    - Effectiveness
-    - Legitimacy
+    - Acceso
+    - Participación
+    - Transparencia
+    - Rendición de Cuentas
+    sectorCategory:
+    - Movimientos Sociales & Activismo
     methodology:
-    - Conceptual Framework
-    - Ethnography
+    - Análisis Cualitativo
     publicationType:
-    - Journal Article
-    abstract: 'Participation is a concept and practice that governs many aspects of
-      new media and new publics. There are a wide range of attempts to create more
-      of it and a surprising lack of theorization. In this paper I attempt to present
-      a “grammar” of participation by looking at three cases where participation has
-      been central in the contemporary moment of new, social media and the Internet
-      as well as in the past, stretching back to the 1930s: citizen participation
-      in public administration, workplace participation, and participatory international
-      development. Across these three cases I demonstrate that the grammar of participation
-      shifts from a language of normative enthusiasm to one of critiques of co-optation
-      and bureaucratization and back again. I suggest that this perpetually aspirational
-      logic results in the problem of “too much democracy in all the wrong places.”'
-    downloadLink: http://www.journals.uchicago.edu/doi/full/10.1086/688705
-- sys:
-    id: 14iiA42nvoacEWKcEkuGks
-    space:
-      sys:
-        id: ufh1mvj7xl16
-    type: Entry
-    createdAt: !ruby/object:DateTime 2016-12-07 20:56:17.593000000 Z
-    updatedAt: !ruby/object:DateTime 2016-12-08 06:17:47.846000000 Z
-    revision: 5
-    contentType:
-      sys:
-        id: blogpost
-    locale: en-US
-  title: 'Toward Evidence-Based Open Governance by Curating and Exchanging Research:
-    OGRX 2.0'
-  author:
-  - Stefaan Verhulst
-  - Andrew Young
-  affiliation:
-  - The GovLab
-  type:
-  - Announcement
-  highlight: OGRX seeks to improve the visibility and accessibility of open governance
-    research – across domains like open data, crowdsourcing and civic tech
-  post: "The Open Governance Research Exchange (OGRX) is a platform that seeks to
-    identify, collect and share curated insights on new ways of solving public problems.
-    It was created last year by founding partners [the GovLab](http://ogrx.org/organizations/the-govlab.html),
-    [World Bank Digital Engagement Evaluation Team](http://ogrx.org/organizations/world-bank-digital-engagement-evaluation-team.html)
-    and [mySociety](http://ogrx.org/organizations/mysociety.html). Today, while more
-    than 3000 representatives from more than 70 countries are gathering in Paris for
-    the Open Government Partnership Summit, we are launching OGRX 2.0 with new features
-    and functionalities to further help users identify the signal in the noise of
-    research and evidence on more innovative means of governing.\n \n__What are the
-    goals behind OGRX?__\n\nThe field of research on topics falling under the banner
-    of open governance is rapidly growing and evolving. Identifying the most important
-    findings remains challenging, however, and important work often resides behind
-    paywalls. OGRX seeks to improve the visibility and accessibility of open governance
-    research – across domains like open data, crowdsourcing and civic tech – through
-    curation, a [submission form](http://ogrx.org/submit.html) for users to share
-    important publications and a detailed taxonomy to help users browse and find the
-    research that fits their needs.\n \n__What is new?__\n\nFirst, the new __OGRX
-    Blog__ provides an outlet for more easily digestible and shareable insights from
-    the open governance research community. OGRX currently features over 600 publications
-    on governance innovation – but how to digest and identify insights? This space
-    will provide summaries of important works, analyses of key trends in the field
-    of research, and guest posts from researchers working at the leading edge of governance
-    innovation across regions and domains. Check back often to stay on top of what’s
-    new in open governance research.\n \nSecond, the new __OGRX Selected Readings__
-    series offers curated reading lists from well-known experts in open governance.
-    These Selected Readings will give readers a sense of how to jumpstart their knowledge
-    by focusing on those publications that have been curated by those in the known
-    about the topics at hand. Today we are launching this new series with the [Selected
-    Readings on Civic Technology](http://ogrx.org/list/selected-readings-on-civic-technology.html),
-    curated by mySociety’s head of research [Rebecca Rumbul](http://ogrx.org/authors/rebecca-rumbul.html);
-    and the [Selected Readings on Policy Informatics](http://ogrx.org/list/selected-readings-on-policy-informatics.html),
-    curated by [Erik Johnston](http://ogrx.org/by/author.html?filter=.f-erik-johnston)
-    of the [MacArthur Foundation Research Network on Opening Governance](http://www.opening-governance.org/)
-    and director of the Arizona State University Center for Policy Informatics. New
-    Selected Readings will be posted each month, so check back often!\n \n__Help us
-    develop this joint resource on Open Governance__\n\nThese new developments are
-    only the beginning of our efforts to increase the utility of OGRX and work toward
-    more evidence based open governance. Future efforts could include a forum for
-    researchers to share insights and best practices and a project inventory to help
-    researchers identify partners and avoid duplicative efforts. Watch this space
-    and #OGRX to stay abreast of new developments.\n \nAnd if you are interested in
-    becoming an OGRX partner, developing a Selected Readings list or penning a guest
-    post for the OGRX blog, please contact Andrew Young, OGRX editor-in-chief at [andrew@thegovlab.org](mailto:andrew@thegovlab.org).
-    We’d also love to hear your feedback on the platform and any ideas you might have
-    about how to ensure that it is as useful to the community of open governance researchers,
-    policymakers and practitioners as possible.\n\n\n"
+    - Artículo de Revista
+    project: []
+    gitHub: 
+    relatedDataUrl: 
+    relatedContentTitle: 
+    abstract: |-
+      La eclosión de conceptos como big data u open data ha provocado el gran debate sobre el impacto que está teniendo en nuestra sociedad el uso masivo de dispositivos que generan constantemente datos y el papel de las instituciones públicas y privadas en la gestión de los datos sobre los ciudadanos. Este debate tiene dos líneas principales: los impactos negativos que tiene en nuestras vidas esta nueva situación y las posibilidades que ofrece el análisis de datos para proponer soluciones en cualquier ámbito de nuestro día a día.
+      El objetivo de este artículo es describir la evolución del llamado activismo de datos o el uso de técnicas de análisis científico de datos en el trabajo del tercer sector y entender qué impacto tienen las políticas de transparencia de las instituciones públicas en el desarrollo de esta práctica. Para ello se analizará la relación entre activismo de datos, políticas basadas en la evidencia y periodismo de datos.
+      Entre las principales conclusiones hay que destacar cómo el rol de la sociedad civil dentro de la esfera pública no sólo puede adquirir mayor relevancia sino que puede permitir la entrada y salida de nuevos actores que, gracias a los datos, decidan ejercer de forma permanente –pero también puntual- nuevas formas de ciudadanía y activismo.
+  - sys:
+      id: paper_18
+      space:
+        sys:
+          id: ufh1mvj7xl16
+      type: Entry
+      createdAt: !ruby/object:DateTime 2016-12-07 00:54:46.534000000 Z
+      updatedAt: !ruby/object:DateTime 2016-12-08 02:38:20.386000000 Z
+      revision: 2
+      contentType:
+        sys:
+          id: paper
+      locale: en-US
+    open: true
+    publicationName: 'Big Bang Data en Transporte Cómo Big Data puede ensamblar soluciones
+      de ingeniería en transporte con la gestión sociotécnica de la movilidad en la
+      ciudad. '
+    downloadLink: http://yogobierno.org/out/ganadores/34_big-data-puede-ensamblar-soluciones-de-ingenieria-en-transporte-con-la-gestion-sociotecnica-de-la-movilidad-en-la-ciudad.pdf
+    organization: []
+    publicationDate: '2016'
+    region:
+    - América Latina
+    - Argentina
+    authors:
+    - Daniel Yankelevich
+    - Juan Echague
+    - Camilo Melani
+    - Mariela Nerome
+    - Alejandro Artopoulos
+    innovationCategory:
+    - Big Data
+    objectiveCategory:
+    - Acceso
+    sectorCategory:
+    - Transporte
+    methodology:
+    - Análisis Cualitativo
+    - Análisis Cuantitativo
+    publicationType:
+    - Reporte de Investigación
+    project: []
+    gitHub: 
+    relatedDataUrl: 
+    relatedContentTitle: 
+    abstract: 'En este artículo se presentan los retos que enfrenta América Latina,
+      utilizando como caso testigo el de la tarjeta SUBE y el Ministerio de Transporte
+      en Argentina, con el fin de pensar estrategias para utilizar y optimizar los
+      datos disponibles a partir de las metodologías actuales (y potenciales) que
+      puedan ser ensambladas con cambios en el uso de los datos dentro de las organizaciones,
+      es decir ensamblar la ingeniería con la gestión sociotécnica de la movilidad
+      en la ciudad. '
+  - sys:
+      id: paper_19
+      space:
+        sys:
+          id: ufh1mvj7xl16
+      type: Entry
+      createdAt: !ruby/object:DateTime 2016-12-07 00:54:46.534000000 Z
+      updatedAt: !ruby/object:DateTime 2016-12-08 02:38:20.386000000 Z
+      revision: 2
+      contentType:
+        sys:
+          id: paper
+      locale: en-US
+    open: true
+    publicationName: 'Laboratorios sociales en universidades: innovación e impacto.
+      El caso de Medialab UGR'
+    downloadLink: http://digibug.ugr.es/bitstream/10481/44867/2/postprint_es.pdf
+    organization: []
+    publicationDate: '2017'
+    region:
+    - España
+    authors:
+    - Esteban Romero-Frías
+    - Nicolás Robinson-García
+    innovationCategory:
+    - Laboratorios y experimentación
+    - Datos Abiertos
+    objectiveCategory:
+    - Acceso
+    - Innovación
+    sectorCategory: []
+    methodology:
+    - Análisis Cualitativo
+    - Estudios de Casos
+    publicationType:
+    - Reporte de Investigación
+    project: []
+    gitHub: 
+    relatedDataUrl: 
+    relatedContentTitle: 
+    abstract: 'Los laboratorios sociales, como espacios de experimentación y co-creación,
+      se han convertido en una de las principales instituciones de innovación en nuestros
+      días. En este marco, los medialabs surgen como un tipo de laboratorios centrados
+      en la experimentación con tecnologías y medios de comunicación y evolucionan,
+      con el desarrollo de la sociedad digital, hacia laboratorios de mediación ciudadana
+      e innovación social. En los últimos tiempos se ha producido una expansión de
+      estos modelos en el contexto universitario, generando casos de gran interés
+      para el desarrollo de nuevas métricas del impacto académico en la sociedad.
+      El presente trabajo aborda, en primer lugar, el concepto, origen y desarrollo
+      de los laboratorios sociales en España y globalmente, centrándose específicamente
+      en el espacio universitario y en los medialabs. En segundo lugar, expone la
+      problemática de las métricas alternativas del impacto social, aportando una
+      propuesta de análisis basada en Twitter como herramienta para identificar los
+      distintos tipos de públicos que muestran interés y el nivel de participación
+      que despierta su actividad. Por último, se aplica este análisis al caso de Medialab
+      UGR en la Universidad de Granada, un laboratorio de cultura digital enfocado
+      en la co-creación y colaboración social. Los resultados muestran la pluralidad
+      de actores vinculados a este tipo de redes así como la dificultad y complejidad
+      de establecer indicadores que concilien tanto intereses académicos como sociales.'
+  - sys:
+      id: paper_20
+      space:
+        sys:
+          id: ufh1mvj7xl16
+      type: Entry
+      createdAt: !ruby/object:DateTime 2016-12-07 00:54:46.534000000 Z
+      updatedAt: !ruby/object:DateTime 2016-12-08 02:38:20.386000000 Z
+      revision: 2
+      contentType:
+        sys:
+          id: paper
+      locale: en-US
+    open: true
+    publicationName: Modelo de democratización de los contenidos albergados en los
+      MOOC
+    downloadLink: http://doi.org/10.7238/rusc.v12i1.2031
+    organization: []
+    publicationDate: '2015'
+    region: []
+    authors:
+    - Javiera Atenas
+    innovationCategory:
+    - Datos Abiertos
+    objectiveCategory:
+    - Acceso
+    - Innovación
+    sectorCategory:
+    - Educación
+    methodology:
+    - Análisis Cualitativo
+    publicationType:
+    - Artículo de Revista
+    project: []
+    gitHub: 
+    relatedDataUrl: 
+    relatedContentTitle: 
+    abstract: 'Los cursos online masivos y abiertos (MOOC por Massive Online Open
+      Courses) son la materialización de un nuevo escenario formativo en la educación
+      superior fundamentado en la gratuidad, la masividad y la ubicuidad. En su esencia
+      suponen una evolución del movimiento de aprendizaje abierto (Open Learning Movement),
+      cuyos principios son la reutilización, revisión, remezcla y redistribución de
+      los recursos educativos abiertos (REA). Pero a diferencia de estos, en los MOOC
+      los contenidos están cerrados y protegidos bajo copyright, por lo que sus materiales
+      no pueden ser reutilizados. Criticados desde diferentes puntos de vista, desde
+      la perspectiva de la filosofía REA, el principal problema que presentan es que
+      sus recursos no sean accesibles, modificables y traducibles, lo que impide la
+      democratización y el acceso libre del conocimiento. Por ello diferentes autores
+      e instancias consideran necesaria la apertura de los contenidos de los MOOC
+      y en este artículo se proponen tres estrategias para abrir los contenidos: depositar
+      los materiales en repositorios de REA, archivarlos como objetos individuales
+      en repositorios de REA como paquetes de datos y su conversión a Open CourseWare,
+      como cursos de autoaprendizaje.'
