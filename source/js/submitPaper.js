@@ -10,9 +10,9 @@ $(document).ready(function() {
             }
         },
         messages: {
-            "entry.962917036": "Ingrese el nombre del artículo", // Nomb Paper
+            "entry.962917036": "Ingrese el nombre de la publicación", // Nomb Paper
             "entry.1668992231": { // link
-                required: "Ingrese el nombre del artículo",
+                required: "Ingrese el link de la publicación",
                 url: "Ingrese una URL válida"
             }
         }

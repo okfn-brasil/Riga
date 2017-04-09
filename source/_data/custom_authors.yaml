@@ -22,7 +22,7 @@
   color: '#523080'
   short_description: >
     Consultor en innovación cívica. Investigador Asociado de la Iniciativa Latinoamericana de Datos Abiertos.
-  long_description: "<p>Consultor en innovación cívica. Investigador Asociado de la Iniciativa Latinoamericana de Datos Abiertos. Docente de grado y posgrado. Ex asesor legislativo en el Honorable Senado de la Nación Argentina. Ex asesor de la Subsecretaría de Reforma Política de la Provincia de Buenos Aires.</p>"
+  long_description: "<p>Consultor en innovación cívica. Investigador Asociado de la Iniciativa Latinoamericana de Datos Abiertos. Docente de grado y posgrado. Ex asesor legislativo en el Honorable Senado de la Nación Argentina. Ex asesor de la Subsecretaría de Reforma Política de la Provincia de Buenos Aires</p>"
   display_name:
     - Juan I. Belbis
     - Juan Belbis # To be used as a custom filter
