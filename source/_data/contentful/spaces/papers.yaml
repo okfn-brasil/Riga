@@ -29,7 +29,7 @@ paper:
   authors:
   - Sandra Elena
   innovationCategory:
-  - Innovacion Institucional
+  - Innovación Institucional
   - Datos Abiertos
   objectiveCategory:
   - Acceso
@@ -38,8 +38,8 @@ paper:
   sectorCategory:
   - Poder Judicial
   methodology:
-  - Analisis Cualitativo
-  - Analisis Comparativo
+  - Análisis Cualitativo
+  - Análisis Comparativo
   - Estudios de Casos
   publicationType:
   - Documento de Trabajo
@@ -83,11 +83,11 @@ paper:
   - Datos Abiertos
   objectiveCategory:
   - Efectividad
-  - Rendicion de Cuentas
+  - Rendición de Cuentas
   sectorCategory:
   - Educación
   methodology:
-  - Analisis Cualitativo
+  - Análisis Cualitativo
   publicationType:
   - Documento de Trabajo
   project: []
@@ -116,7 +116,7 @@ paper:
   open: true
   publicationName: 'Co-creación, innovación y datos abiertos en ciudades de américa
     latina: lecciones de Buenos Aires, Ciudad de México y Montevideo'
-  downloadLink: http://idatosabiertos.org/wp-content/uploads/2015/09/1.-Cocreacion-innovacion-y-datos-abiertos-Bonina.pdf
+  downloadLink: http://idatosabiertos.org/wp-content/uploads/2015/09/1.-Cocreacion-Innovación-y-datos-abiertos-Bonina.pdf
   organization:
   - ILDA
   publicationDate: '2015'
@@ -128,17 +128,17 @@ paper:
   authors:
   - Carla Bonina
   innovationCategory:
-  - Co-Creacion
-  - Innovacion Institucional
-  - Laboratorios y experimentacion
+  - Co-Creación
+  - Innovación Institucional
+  - Laboratorios y experimentación
   - Datos Abiertos
   objectiveCategory:
   - Acceso
-  - Innovacion
+  - Innovación
   sectorCategory: []
   methodology:
-  - Analisis Cualitativo
-  - Analisis Comparativo
+  - Análisis Cualitativo
+  - Análisis Comparativo
   - Estudios de Casos
   publicationType:
   - Documento de Trabajo
@@ -186,11 +186,11 @@ paper:
   - Datos Abiertos
   objectiveCategory:
   - Acceso
-  - Innovacion
+  - Innovación
   sectorCategory:
   - Salud
   methodology:
-  - Modelado estadistico
+  - Modelado estadístico
   publicationType:
   - Documento de Trabajo
   project: []
@@ -239,11 +239,11 @@ paper:
   - Datos Abiertos
   objectiveCategory:
   - Acceso
-  - Rendicion de Cuentas
+  - Rendición de Cuentas
   sectorCategory:
   - Compras Públicas
   methodology:
-  - Analisis Cualitativo
+  - Análisis Cualitativo
   publicationType:
   - Documento de Trabajo
   project: []
@@ -282,16 +282,16 @@ paper:
   authors:
   - Juan Ignacio Belbis
   innovationCategory:
-  - Innovacion Institucional
+  - Innovación Institucional
   - Datos Abiertos
   objectiveCategory:
   - Acceso
   - Transparencia
-  - Rendicion de Cuentas
+  - Rendición de Cuentas
   sectorCategory:
   - Parlamentos
   methodology:
-  - Analisis Cualitativo
+  - Análisis Cualitativo
   publicationType:
   - Documento de Trabajo
   project: []
@@ -335,16 +335,16 @@ paper:
   - Javiera Atenas
   - Chiara Ciociola
   innovationCategory:
-  - Innovacion Institucional
+  - Innovación Institucional
   - Datos Abiertos
   objectiveCategory:
-  - Innovacion
-  - Participacion
+  - Innovación
+  - Participación
   sectorCategory:
   - educacion
   methodology:
   - Marco Conceptual
-  - Analisis Cualitativo
+  - Análisis Cualitativo
   publicationType:
   - Documento de Trabajo
   project: []
@@ -392,17 +392,17 @@ paper:
   authors:
   - Silvana Fumega
   innovationCategory:
-  - Tecnologia Civica
-  - Acceso a la Informacion
+  - Tecnología Cívica
+  - Acceso a la Información
   - Datos Abiertos
   objectiveCategory:
   - Acceso
   - Transparencia
-  - Rendicion de Cuentas
+  - Rendición de Cuentas
   sectorCategory: []
   methodology:
-  - Analisis Comparativo
-  - Analisis Cualitativo
+  - Análisis Comparativo
+  - Análisis Cualitativo
   publicationType:
   - Documento de Trabajo
   project: []
@@ -443,11 +443,11 @@ paper:
   objectiveCategory:
   - Acceso
   - Transparencia
-  - Rendicion de Cuentas
+  - Rendición de Cuentas
   sectorCategory:
   - Politica
   methodology:
-  - Analisis Cualitativo
+  - Análisis Cualitativo
   publicationType:
   - Articulo de Revista
   project: []
@@ -495,16 +495,16 @@ paper:
   - Alejandra Naser
   - Andrés Hofmann
   innovationCategory:
-  - Tecnologia Civica
+  - Tecnología Cívica
   - Datos Abiertos
   objectiveCategory:
   - Acceso
   - Transparencia
-  - Rendicion de Cuentas
+  - Rendición de Cuentas
   sectorCategory:
   - Desarrollo
   methodology:
-  - Analisis Cualitativo
+  - Análisis Cualitativo
   publicationType:
   - Documento de Trabajo
   project: []
@@ -542,18 +542,18 @@ paper:
   - Alexis Rojas
   - Iris Palma
   innovationCategory:
-  - Co-Creacion
+  - Co-Creación
   - Datos Abiertos
   objectiveCategory:
   - Acceso
   - Transparencia
-  - Rendicion de Cuentas
+  - Rendición de Cuentas
   sectorCategory: []
   methodology:
-  - Analisis Cualitativo
+  - Análisis Cualitativo
   - Estudios de Casos
   publicationType:
-  - Reporte de Investigacion
+  - Reporte de Investigación
   project: []
   gitHub: 
   relatedDataUrl: 
@@ -592,10 +592,10 @@ paper:
   objectiveCategory:
   - Acceso
   - Transparencia
-  - Rendicion de Cuentas
+  - Rendición de Cuentas
   sectorCategory: []
   methodology:
-  - Analisis Cualitativo
+  - Análisis Cualitativo
   - Estudios de Casos
   publicationType:
   - Articulo de Revista
@@ -646,14 +646,14 @@ paper:
   - María Fernanda Díaz Hernández
   - Nubia Rincón Mosquera
   innovationCategory:
-  - Innovacion Institucional
+  - Innovación Institucional
   - Datos Abiertos
   objectiveCategory:
   - Acceso
-  - Innovacion
+  - Innovación
   sectorCategory: []
   methodology:
-  - Analisis Cualitativo
+  - Análisis Cualitativo
   - Estudio de Casos
   publicationType:
   - Articulo de Revista
@@ -722,14 +722,14 @@ paper:
   objectiveCategory:
   - Acceso
   - Transparencia
-  - Rendicion de Cuentas
+  - Rendición de Cuentas
   sectorCategory:
   - educacion
   methodology:
-  - Analisis Cualitativo
-  - Analisis Cuantitativo
+  - Análisis Cualitativo
+  - Análisis Cuantitativo
   publicationType:
-  - Reporte de Investigacion
+  - Reporte de Investigación
   project: []
   gitHub: 
   relatedDataUrl: 
@@ -779,12 +779,12 @@ paper:
   - Datos Abiertos
   objectiveCategory:
   - Acceso
-  - Participacion
+  - Participación
   - Transparencia
   sectorCategory:
   - Movimientos Sociales & Activismo
   methodology:
-  - Analisis Cualitativo
+  - Análisis Cualitativo
   publicationType:
   - Articulo de Revista
   project: []
@@ -829,16 +829,16 @@ paper:
   - Alejandra Naser
   - Daniela Rosales
   innovationCategory:
-  - Tecnologia Civica
+  - Tecnología Cívica
   - Datos Abiertos
   objectiveCategory:
   - Acceso
   - Transparencia
-  - Rendicion de Cuentas
+  - Rendición de Cuentas
   sectorCategory:
   - Desarrollo
   methodology:
-  - Analisis Cualitativo
+  - Análisis Cualitativo
   publicationType:
   - Documento de Trabajo
   project: []
@@ -878,18 +878,18 @@ paper:
   authors:
   - Victoria Anderica Caffarena
   innovationCategory:
-  - Tecnologia Civica
-  - Acceso a la Informacion
+  - Tecnología Cívica
+  - Acceso a la Información
   - Datos Abiertos
   objectiveCategory:
   - Acceso
-  - Participacion
+  - Participación
   - Transparencia
-  - Rendicion de Cuentas
+  - Rendición de Cuentas
   sectorCategory:
   - Movimientos Sociales & Activismo
   methodology:
-  - Analisis Cualitativo
+  - Análisis Cualitativo
   publicationType:
   - Articulo de Revista
   project: []
@@ -936,10 +936,10 @@ paper:
   sectorCategory:
   - Transporte
   methodology:
-  - Analisis Cualitativo
-  - Analisis Cuantitativo
+  - Análisis Cualitativo
+  - Análisis Cuantitativo
   publicationType:
-  - Reporte de Investigacion
+  - Reporte de Investigación
   project: []
   gitHub: 
   relatedDataUrl: 
@@ -976,14 +976,14 @@ paper:
   - Esteban Romero-Frías
   - Nicolás Robinson-García
   innovationCategory:
-  - Laboratorios y experimentacion
+  - Laboratorios y experimentación
   - Datos Abiertos
   objectiveCategory:
   - Acceso
-  - Innovacion
+  - Innovación
   sectorCategory: []
   methodology:
-  - Analisis Cualitativo
+  - Análisis Cualitativo
   - Estudios de Casos
   publicationType:
   - Reporte de Investigación
@@ -1036,11 +1036,11 @@ paper:
   - Datos Abiertos
   objectiveCategory:
   - Acceso
-  - Innovacion
+  - Innovación
   sectorCategory:
   - educacion
   methodology:
-  - Analisis Cualitativo
+  - Análisis Cualitativo
   publicationType:
   - Articulo de Revista
   project: []
@@ -1091,10 +1091,10 @@ paper:
   objectiveCategory:
   - Acceso
   - Transparencia
-  - Rendicion de Cuentas
+  - Rendición de Cuentas
   sectorCategory:
   methodology:
-  - Analisis Cualitativo
+  - Análisis Cualitativo
   - Estudios de Caso
   publicationType:
   - Documento de Trabajo
@@ -1126,15 +1126,15 @@ La visión y recomendaciones surgen a partir del análisis y procesamiento de da
   authors:
   - Álvaro Ramírez-Alujas
   innovationCategory:
-  - Innovacion Institucional
+  - Innovación Institucional
   objectiveCategory:
   - Efectividad
-  - Innovacion
-  - Participacion
+  - Innovación
+  - Participación
   sectorCategory:
   - educacion
   methodology:
-  - Analisis Cualitativo
+  - Análisis Cualitativo
   publicationType:
   - Articulo de Revista
   project: []
