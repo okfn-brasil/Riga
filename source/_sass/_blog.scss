@@ -81,14 +81,14 @@ a {
     background-color: transparentize($main-color, .5);
     margin-bottom: 5px;
 
-    &.m-behavioral-research,
-    &.m-behavioral-science-and-nudges { background-color: $behavioral-research; }
-    &.m-citizen-engagement { background-color: $citizen-engagement; }
-    &.m-civic-technology,
-    &.m-civic-tech { background-color: $civic-technology; }
-    &.m-data-analysis { background-color: $data-analysis; }
-    &.m-expert-networking { background-color: $expert-networking; }
-    &.m-open-data { background-color: $open-data; }
-    &.m-labs-and-experimentation { background-color: $labs-and-experimentation; }
+    &.m-participacion-ciudadana,
+    &.m-behavioral-science-and-nudges { background-color: $participacion-ciudadana; }
+    &.m-acceso-a-la-informacion { background-color: $acceso-a-la-informacion; }
+    &.m-tecnologia-civica,
+    &.m-civic-tech { background-color: $tecnologia-civica; }
+    &.m-analisis-de-datos { background-color: $analisis-de-datos; }
+    &.m-redes-de-expertos { background-color: $redes-de-expertos; }
+    &.m-datos-abiertos { background-color: $datos-abiertos; }
+    &.m-laboratorios-y-experimentacion { background-color: $laboratorios-y-experimentacion; }
   }
 }

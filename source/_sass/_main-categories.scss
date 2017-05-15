@@ -20,24 +20,24 @@
 
   // Colors for the main categories
   &--all { background-color: $all; }
-  &--behavioral-research,
-  &--behavioral-science-and-nudges { background-color: $behavioral-research; }
-  &--citizen-engagement { background-color: $citizen-engagement; }
-  &--civic-technology { background-color: $civic-technology; }
-  &--data-analysis { background-color: $data-analysis; }
-  &--expert-networking { background-color: $expert-networking; }
-  &--open-data { background-color: $open-data; }
-  &--labs-and-experimentation { background-color: $labs-and-experimentation; }
+  &--participacion-ciudadana,
+  &--behavioral-science-and-nudges { background-color: $participacion-ciudadana; }
+  &--acceso-a-la-informacion { background-color: $acceso-a-la-informacion; }
+  &--tecnologia-civica{ background-color: $tecnologia-civica; }
+  &--analisis-de-datos { background-color: $analisis-de-datos; }
+  &--redes-de-expertos { background-color: $redes-de-expertos; }
+  &--datos-abiertos { background-color: $datos-abiertos; }
+  &--laboratorios-y-experimentacion { background-color: $laboratorios-y-experimentacion; }
 
   &--all:hover { background-color: darken($all, 6); }
-  &--behavioral-research:hover,
-  &--behavioral-science-and-nudges:hover { background-color: darken($behavioral-research, 6); }
-  &--citizen-engagement:hover { background-color: darken($citizen-engagement, 6); }
-  &--civic-technology:hover { background-color: darken($civic-technology, 6); }
-  &--data-analysis:hover { background-color: darken($data-analysis, 6); }
-  &--expert-networking:hover { background-color: darken($expert-networking, 6); }
-  &--open-data:hover { background-color: darken($open-data, 6); }
-  &--labs-and-experimentation:hover { background-color: darken($labs-and-experimentation, 6); }
+  &--participacion-ciudadana:hover,
+  &--behavioral-science-and-nudges:hover { background-color: darken($participacion-ciudadana, 6); }
+  &--acceso-a-la-informacion:hover { background-color: darken($acceso-a-la-informacion, 6); }
+  &--tecnologia-civica:hover { background-color: darken($tecnologia-civica, 6); }
+  &--analisis-de-datos:hover { background-color: darken($analisis-de-datos, 6); }
+  &--redes-de-expertos:hover { background-color: darken($redes-de-expertos, 6); }
+  &--datos-abiertos:hover { background-color: darken($datos-abiertos, 6); }
+  &--laboratorios-y-experimentacion:hover { background-color: darken($laboratorios-y-experimentacion, 6); }
 }
 
 
@@ -48,45 +48,34 @@
     color: $all;
   }
   &--behavioral-science-and-nudges {
-    background-color: rgba($behavioral-research, .2);
-    color: $behavioral-research;
+    background-color: rgba($participacion-ciudadana, .2);
+    color: $participacion-ciudadana;
   }
-  &--citizen-engagement {
-    background-color: rgba($citizen-engagement, .2);
-    color: $citizen-engagement;
+  &--acceso-a-la-informacion {
+    background-color: rgba($acceso-a-la-informacion, .2);
+    color: $acceso-a-la-informacion;
   }
-  &--civic-technology {
-    background-color: rgba($civic-technology, .2);
-    color: $civic-technology;
+  &--tecnologia-civica{
+    background-color: rgba($tecnologia-civica, .2);
+    color: $tecnologia-civica;
   }
-  &--data-analysis {
-    background-color: rgba($data-analysis, .2);
-    color: $data-analysis;
+  &--analisis-de-datos {
+    background-color: rgba($analisis-de-datos, .2);
+    color: $analisis-de-datos;
   }
-  &--expert-networking {
-    background-color: rgba($expert-networking, .2);
-    color: $expert-networking;
+  &--redes-de-expertos {
+    background-color: rgba($redes-de-expertos, .2);
+    color: $redes-de-expertos;
   }
-  &--open-data {
-    background-color: rgba($open-data, .2);
-    color: $open-data;
+  &--datos-abiertos {
+    background-color: rgba($datos-abiertos, .2);
+    color: $datos-abiertos;
   }
-  &--labs-and-experimentation {
-    background-color: rgba($labs-and-experimentation, .2);
-    color: $labs-and-experimentation;
+  &--laboratorios-y-experimentacion {
+    background-color: rgba($laboratorios-y-experimentacion, .2);
+    color: $laboratorios-y-experimentacion;
   }
 }
-
-
-
-
-
-
-
-
-
-
-
 
 
 .top-section {
@@ -96,25 +85,25 @@
     background-color: $all;
   }
   &--behavioral-science-and-nudges {
-    background-color: $behavioral-research;
+    background-color: $participacion-ciudadana;
   }
-  &--citizen-engagement-and-crowdsourcing {
-    background-color: $citizen-engagement;
+  &--acceso-a-la-informacion-and-crowdsourcing {
+    background-color: $acceso-a-la-informacion;
   }
-  &--civic-technology {
-    background-color: $civic-technology;
+  &--tecnologia-civica{
+    background-color: $tecnologia-civica;
   }
-  &--data-analysis {
-    background-color: $data-analysis;
+  &--analisis-de-datos {
+    background-color: $analisis-de-datos;
   }
-  &--expert-networking {
-    background-color: $expert-networking;
+  &--redes-de-expertos {
+    background-color: $redes-de-expertos;
   }
-  &--open-data {
-    background-color: $open-data;
+  &--datos-abiertos {
+    background-color: $datos-abiertos;
   }
-  &--labs-and-experimentation {
-    background-color: $labs-and-experimentation;
+  &--laboratorios-y-experimentacion {
+    background-color: $laboratorios-y-experimentacion;
   }
 }
 

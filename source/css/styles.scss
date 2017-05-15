@@ -10,13 +10,13 @@ $main-color: rgba( 0,  79, 111, 1);
 $accent-color: #F0B300;
 // Mapping the base colors to the category vars
 $all: rgba(59,79,101,1);
-$behavioral-research: rgba(222,96,108,1);
-$citizen-engagement: rgba(95, 169,212,1);
-$civic-technology: rgba(166,127,185,1);
-$data-analysis: rgba(243,180,75,1);
-$expert-networking: rgba(110,123,151,1);
-$open-data: rgba(0,173,152,1);
-$labs-and-experimentation: rgba(219,192,72,1);
+$participacion-ciudadana: rgba(222,96,108,1);
+$acceso-a-la-informacion: rgba(95, 169,212,1);
+$tecnologia-civica: rgba(166,127,185,1);
+$analisis-de-datos: rgba(243,180,75,1);
+$redes-de-expertos: rgba(110,123,151,1);
+$datos-abiertos: rgba(0,173,152,1);
+$laboratorios-y-experimentacion: rgba(219,192,72,1);
 
 
 $gray:      rgba(113, 126, 129, 1);
@@ -85,3 +85,12 @@ $purple: #523080;
 @import 'blog';
 @import 'blog-single';
 
+input.error,
+select.error,
+textarea.error {
+    border: 3px solid red !important;
+}
+
+label.error{
+  color: red !important;
+}

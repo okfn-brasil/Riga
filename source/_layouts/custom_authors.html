@@ -9,7 +9,7 @@ color: rgba( 63, 112, 182, 1)
     <div class="row">
       <div class="large-6 column author-page__image-column">
         <div class="author-page__picture" style="background-image: url(../images/authors/{{ page.image }})"></div>
-        {% if page.long_description %}<span class="button more-info-panel-trigger" onclick="$('.extra-info-panel').toggleClass('visible');">More Information</span>{% endif %}
+        {% if page.long_description %}<span class="button more-info-panel-trigger" onclick="$('.extra-info-panel').toggleClass('visible');">Más Información</span>{% endif %}
       </div>
       <div class="large-6 column">
         <h1 class="author-page__name">{{ page.title }}</h1>
@@ -50,7 +50,7 @@ color: rgba( 63, 112, 182, 1)
 
   <!-- {# Article Section #} -->
   <div class="divider">
-    <h1>Articles</h1>
+    <h1>Artículos</h1>
   </div>
 
   {% include paper_list.html filter_on="authors" filter_by=page.title %}

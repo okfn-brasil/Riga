@@ -119,32 +119,32 @@
       color: darken($all, 8);
     }
     &--behavioral-science-and-nudges {
-      background-color: rgba($behavioral-research, .2);
-      color: darken($behavioral-research, 8);
+      background-color: rgba($participacion-ciudadana, .2);
+      color: darken($participacion-ciudadana, 8);
     }
-    &--citizen-engagement-and-crowdsourcing {
-      background-color: rgba($citizen-engagement, .2);
-      color: darken($citizen-engagement, 8);
+    &--acceso-a-la-informacion {
+      background-color: rgba($acceso-a-la-informacion, .2);
+      color: darken($acceso-a-la-informacion, 8);
     }
-    &--civic-technology {
-      background-color: rgba($civic-technology, .2);
-      color: darken($civic-technology, 8);
+    &--tecnologia-civica {
+      background-color: rgba($tecnologia-civica, .2);
+      color: darken($tecnologia-civica, 8);
     }
-    &--data-analysis {
-      background-color: rgba($data-analysis, .2);
-      color: darken($data-analysis, 8);
+    &--analisis-de-datos {
+      background-color: rgba($analisis-de-datos, .2);
+      color: darken($analisis-de-datos, 8);
     }
-    &--expert-networking {
-      background-color: rgba($expert-networking, .2);
-      color: darken($expert-networking, 8);
+    &--redes-de-expertos {
+      background-color: rgba($redes-de-expertos, .2);
+      color: darken($redes-de-expertos, 8);
     }
-    &--open-data {
-      background-color: rgba($open-data, .2);
-      color: darken($open-data, 8);
+    &--datos-abiertos {
+      background-color: rgba($datos-abiertos, .2);
+      color: darken($datos-abiertos, 8);
     }
-    &--labs-and-experimentation {
-      background-color: rgba($labs-and-experimentation, .2);
-      color: darken($labs-and-experimentation, 8);
+    &--laboratorios-y-experimentacion {
+      background-color: rgba($laboratorios-y-experimentacion, .2);
+      color: darken($laboratorios-y-experimentacion, 8);
     }
 
 
@@ -208,7 +208,7 @@
         background-color: rgba(#3f7489, .8);
         i {color: white;}
       }
-      &--open-data-for-development {
+      &--datos-abiertos-for-development {
         background-color: rgba(#d25e1b, .8);
         i {color: white;}
       }

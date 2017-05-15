@@ -62,35 +62,39 @@
         {% endfor %}
       </p>
       <div class="result-item__taxonomy result-item__taxonomy--category">
-        <span class="result-item__taxonomy__key">Category</span>
+        <span class="result-item__taxonomy__key">Categoría</span>
         <span class="result-item__taxonomy__value">
           {% for category in b.innovationCategory %}
-          <a href="../{{category | datapage_url: 'categories'}}" class="result-item__tag result-item__tag--{{ category | slugify }}">{{ category }}</a>
+          {% assign cat = category.mb_chars.normalize(:kd).gsub(/[^x00-\x7F]/n, '').to_s %}
+          <a href="../{{cat | datapage_url: 'categories'}}" class="result-item__tag result-item__tag--{{ cat | slugify }}">{{ category }}</a>
           {% endfor %}
         </span>
 
       </div>
       <div class="result-item__taxonomy result-item__taxonomy--methodology">
-        <span class="result-item__taxonomy__key">Methodology</span>
+        <span class="result-item__taxonomy__key">Metodología</span>
         <span class="result-item__taxonomy__value">
           {% for methodology in b.methodology %}
-          <a class="result-item__tag" href="../{{methodology | datapage_url: 'methodologies'}}">{{ methodology }}</a>
+          {% assign met = methodology.mb_chars.normalize(:kd).gsub(/[^x00-\x7F]/n, '').to_s %}
+          <a class="result-item__tag" href="../{{met | datapage_url: 'methodologies'}}">{{ methodology }}</a>
           {% endfor %}
         </span>
       </div>
       <div class="result-item__taxonomy result-item__taxonomy--objective">
-        <span class="result-item__taxonomy__key">Objective</span>
+        <span class="result-item__taxonomy__key">Objetivo</span>
         <span class="result-item__taxonomy__value">
           {% for objective in b.objectiveCategory %}
-          <a class="result-item__tag" href="../{{objective | datapage_url: 'objectives'}}">{{ objective }}</a>
+          {% assign obj = objective.mb_chars.normalize(:kd).gsub(/[^x00-\x7F]/n, '').to_s %}
+          <a class="result-item__tag" href="../{{obj | datapage_url: 'objectives'}}">{{ objective }}</a>
           {% endfor %}
         </span>
       </div>
       <div class="result-item__taxonomy result-item__taxonomy--type">
-        <span class="result-item__taxonomy__key">Type</span>
+        <span class="result-item__taxonomy__key">Tipo</span>
         <span class="result-item__taxonomy__value">
           {% for type in b.publicationType %}
-          <a class="result-item__tag" href="../{{type | datapage_url: 'types'}}">{{ type }}</a>
+          {% assign typ = type.mb_chars.normalize(:kd).gsub(/[^x00-\x7F]/n, '').to_s %}
+          <a class="result-item__tag" href="../{{typ | datapage_url: 'types'}}">{{ type }}</a>
           {% endfor %}
         </span>
       </div>

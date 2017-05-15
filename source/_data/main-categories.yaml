@@ -1,137 +1,137 @@
 - title: Big Data
-  description: Based on an evolving understanding of behavioral tendencies, many public sector institutions are seeking to improve citizen’s decision-making ability without regulatory intervention.
+  description: 
   display_name: false
   cover_image: false
   featured: false
 
-- title: Behavioral Science and Nudges
-  description: Based on an evolving understanding of behavioral tendencies, many public sector institutions are seeking to improve citizen’s decision-making ability without regulatory intervention.
-  display_name: Behavioral Research
+- title: Ciencias del Comportamiento  
+  description: 
+  display_name: false  
+  cover_image: false
+  featured: false
+
+- title: Participacion ciudadana
+  description: 
+  display_name: Participación ciudadana 
   cover_image: false
   featured: true
 
-- title: Citizen Engagement and Crowdsourcing
-  description: New network technologies and digital platforms give citizens more opportunity to make their voices heard by their governing institutions.
-  display_name: Citizen Engagement
-  cover_image: false
-  featured: true
-
-- title: Collective Intelligence
-  description: New network technologies and digital platforms give citizens more opportunity to make their voices heard by their governing institutions.
+- title: Inteligencia Colectiva
+  description: 
   display_name: false
   cover_image: false
   featured: false
 
-- title: Citizen Science
-  description: New network technologies and digital platforms give citizens more opportunity to make their voices heard by their governing institutions.
+- title: Ciencia Ciudadana
+  description: 
   display_name: false
   cover_image: false
   featured: false
 
-- title: Co-Creation
-  description: New network technologies and digital platforms give citizens more opportunity to make their voices heard by their governing institutions.
-  display_name: false
+- title: Co-Creacion
+  description:
+  display_name: Co-Creación
   cover_image: false
   featured: false
 
 - title: Crowdlaw
-  description: New network technologies and digital platforms give citizens more opportunity to make their voices heard by their governing institutions.
+  description: 
   display_name: false
   cover_image: false
   featured: false
 
-- title: Data Collaboratives
-  description: New network technologies and digital platforms give citizens more opportunity to make their voices heard by their governing institutions.
+- title: Datos Colaborativos 
+  description: 
   display_name: false
   cover_image: false
   featured: false
 
-- title: Design Thinking
-  description: New network technologies and digital platforms give citizens more opportunity to make their voices heard by their governing institutions.
+- title: Pensamiento de diseno
+  description: 
+  display_name: Pensamiento de diseño
+  cover_image: false
+  featured: false
+
+- title: Gobernanza Descentralizada
+  description: 
   display_name: false
   cover_image: false
   featured: false
 
-- title: Distributed Governance
-  description: New network technologies and digital platforms give citizens more opportunity to make their voices heard by their governing institutions.
+- title: Acceso a la Informacion
+  description: 
+  display_name: Acceso a la Información
+  cover_image: false
+  featured: true 
+
+- title: Ludificacion
+  description: 
+  display_name: Ludificación
+  cover_image: false
+  featured: false
+
+- title: Innovacion Institucional
+  description: 
+  display_name: Innovación Institucional
+  cover_image: false
+  featured: false
+
+- title: Presupuesto Participativo 
+  description: 
   display_name: false
   cover_image: false
   featured: false
 
-- title: Freedom of Information
-  description: New network technologies and digital platforms give citizens more opportunity to make their voices heard by their governing institutions.
-  display_name: false
-  cover_image: false
-  featured: false
-
-- title: Gamification
-  description: New network technologies and digital platforms give citizens more opportunity to make their voices heard by their governing institutions.
-  display_name: false
-  cover_image: false
-  featured: false
-
-- title: Institutional Innovation
-  description: New network technologies and digital platforms give citizens more opportunity to make their voices heard by their governing institutions.
-  display_name: false
-  cover_image: false
-  featured: false
-
-- title: Participatory Budgeting
-  description: New network technologies and digital platforms give citizens more opportunity to make their voices heard by their governing institutions.
-  display_name: false
-  cover_image: false
-  featured: false
-
-- title: Prizes and Challenges
-  description: New network technologies and digital platforms give citizens more opportunity to make their voices heard by their governing institutions.
-  display_name: false
+- title: Premios y Desafios 
+  description: 
+  display_name: Premios y Desafíos
   cover_image: false
   featured: false
 
 - title: Small Data
-  description: New network technologies and digital platforms give citizens more opportunity to make their voices heard by their governing institutions.
+  description: 
   display_name: false
   cover_image: false
   featured: false
 
-- title: Smart Cities
-  description: New network technologies and digital platforms give citizens more opportunity to make their voices heard by their governing institutions.
+- title: Ciudades Inteligentes 
+  description: 
   display_name: false
   cover_image: false
   featured: false
 
-- title: Social Media
-  description: New network technologies and digital platforms give citizens more opportunity to make their voices heard by their governing institutions.
+- title: Redes Sociales 
+  description: 
   display_name: false
   cover_image: false
   featured: false
 
-- title: Civic Technology
-  description: New digital platforms and collaboration tools are transforming government service delivery and engagement with citizens.
+- title: Tecnologia Civica
+  description: 
+  display_name: Tecnología Cívica
+  cover_image: false
+  featured: true
+
+- title: Analisis de Datos
+  description: 
+  display_name: Análisis de Datos
+  cover_image: false
+  featured: true
+
+- title: Redes de Expertos 
+  description: 
   display_name: false
   cover_image: false
   featured: true
 
-- title: Data Analysis
-  description: The ability to analysis a growing array of data is allowing for more evidence-based decision-making and the development of new insights and knowledge.
+- title: Datos Abiertos 
+  description: 
   display_name: false
   cover_image: false
   featured: true
 
-- title: Expert Networking
-  description: Rather than crowdsourcing widely, expert networking can enable the targeting of opportunities to participate based on an individual’s skills and experiences.
-  display_name: false
-  cover_image: false
-  featured: true
-
-- title: Open Data
-  description: Open data is publicly available data that can be universally and readily accessed, used, and redistributed free of charge. It is structured for usability and computability.
-  display_name: false
-  cover_image: false
-  featured: true
-
-- title: Labs and Experimentation
-  description: Institutions are increasingly creating internal innovation labs and leveraging agile experimentation to gain a better sense of what works in practice.
-  display_name: false
+- title: Laboratorios y experimentacion
+  description: 
+  display_name: Laboratorios y experimentación
   cover_image: false
   featured: true

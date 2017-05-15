@@ -1,54 +1,54 @@
-- title: Case Studies
+- title: Estudios de Caso
   description:
   display_name: false
   cover_image: false
 
-- title: Comparative Analysis
+- title: Analisis Comparativo
+  description:
+  display_name: Análisis Comparativo
+  cover_image: false
+
+- title: Marco Conceptual
   description:
   display_name: false
   cover_image: false
 
-- title: Conceptual Framework
+- title: Etnografia
+  description:
+  display_name: Etnografía
+  cover_image: false
+
+- title: Ciencia de Diseno
+  description:
+  display_name: Ciencia de Diseño
+  cover_image: false
+
+- title: Analisis de Redes
+  description:
+  display_name: Análisis de Redes
+  cover_image: false
+
+- title: Analisis Cualitativo
+  description:
+  display_name: Análisis Cualitativo
+  cover_image: false
+
+- title: Analisis Cuantitativo
+  description:
+  display_name: Análisis Cuantitativo
+  cover_image: false
+
+- title: Ensayo Controlado Aleatorio
   description:
   display_name: false
   cover_image: false
 
-- title: Ethnography
+- title: Modelado estadistico
   description:
-  display_name: false
+  display_name: Modelado estadístico
   cover_image: false
 
-- title: Design Science
-  description:
-  display_name: false
-  cover_image: false
-
-- title: Network Analysis
-  description:
-  display_name: false
-  cover_image: false
-
-- title: Qualitative Analysis
-  description:
-  display_name: false
-  cover_image: false
-
-- title: Quantitative Analysis
-  description:
-  display_name: false
-  cover_image: false
-
-- title: Randomized Controlled Trial
-  description:
-  display_name: false
-  cover_image: false
-
-- title: Statistical Modeling
-  description:
-  display_name: false
-  cover_image: false
-
-- title: User Studies
+- title: Estudios de Usuarios
   description:
   display_name: false
   cover_image: false

@@ -1,1 +1,62 @@
-[{"propertyName":"sector","title":"development","value":"Development"},{"propertyName":"sector","title":"politics","value":"Politics"},{"propertyName":"sector","title":"criminal-justice","value":"Criminal Justice"},{"propertyName":"sector","title":"health","value":"Health"},{"propertyName":"sector","title":"energy","value":"Energy"},{"propertyName":"sector","title":"social-movements-activism","value":"Social Movements & Activism"},{"propertyName":"sector","title":"crisis-response","value":"Crisis Response"}]
+[
+	{
+		"propertyName": "sector",
+		"title": "desarrollo",
+		"value": "Desarrollo"
+	},
+	{
+		"propertyName": "sector",
+		"title": "política",
+		"value": "Política"
+	},
+	{
+		"propertyName": "sector",
+		"title": "justicia-criminal",
+		"value": "Justicia Criminal"
+	},
+	{
+		"propertyName": "sector",
+		"title": "salud",
+		"value": "Salud"
+	},
+	{
+		"propertyName": "sector",
+		"title": "energía",
+		"value": "Energía"
+	},
+	{
+		"propertyName": "sector",
+		"title": "movimientos-sociales-activismo",
+		"value": "Movimientos Sociales & Activismo"
+	},
+	{
+		"propertyName": "sector",
+		"title": "respuesta-a-crisis",
+		"value": "Respuesta a Crisis"
+	},
+	{
+		"propertyName": "sector",
+		"title": "poder-judicial",
+		"value": "Poder Judicial"
+	},
+	{
+		"propertyName": "sector",
+		"title": "parlamentos",
+		"value": "Parlamentos"
+	},
+	{
+		"propertyName": "sector",
+		"title": "educación",
+		"value": "Educación"
+	},
+	{
+		"propertyName": "sector",
+		"title": "compras-públicas",
+		"value": "Compras Públicas"
+	},
+	{
+		"propertyName": "sector",
+		"title": "transporte",
+		"value": "Transporte"
+	}
+]

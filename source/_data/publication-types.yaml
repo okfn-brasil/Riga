@@ -1,44 +1,44 @@
-- title: Article Draft
+- title: Mimeo
   description:
   display_name: false
   cover_image: false
 
-- title: Book
+- title: Libro
   description:
   display_name: false
   cover_image: false
 
-- title: Book Chapter
+- title: Capitulo de libro
+  description:
+  display_name: Capítulo de libro
+  cover_image: false
+
+- title: Actas de Conferencia
   description:
   display_name: false
   cover_image: false
 
-- title: Conference Proceedings
+- title: Tesis
   description:
   display_name: false
   cover_image: false
 
-- title: Dissertation and/or Thesis
+- title: Articulo de Revista
+  description:
+  display_name: 
+  cover_image: false
+
+- title: Reporte de Investigacion
+  description:
+  display_name: Reporte de Investigación
+  cover_image: false
+
+- title: Documento Blanco
   description:
   display_name: false
   cover_image: false
 
-- title: Journal Article
-  description:
-  display_name: false
-  cover_image: false
-
-- title: Research Report
-  description:
-  display_name: false
-  cover_image: false
-
-- title: White Paper
-  description:
-  display_name: false
-  cover_image: false
-
-- title: Working Paper
+- title: Documento de Trabajo
   description:
   display_name: false
   cover_image: false
