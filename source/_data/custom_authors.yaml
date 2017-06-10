@@ -2,8 +2,8 @@
   job:  Consultor en temas relacionados a Datos Abiertos y Transparencia  # job
   image: pane.jpg
   color: '#523080'
-  short_description: Juan Pane Investigador de la Facultad Politécnica de la Universidad Nacional de Asunción, Paraguay (FP-UNA) y en el campo de Datos Abiertos para la Iniciativa Latinoamericana de Datos Abiertos (ILDA) 
-  long_description: "<p>Investigador de la Facultad Politécnica de la Universidad Nacional de Asunción, Paraguay (FP-UNA) y en el campo de Datos Abiertos para la Iniciativa Latinoamericana de Datos Abiertos (ILDA) y También se desempeña como consultor para temas relacionados a Datos Abiertos y transparencia para el Programa de Democracia y Gobernabilidad (USAID-CEAMSO), para el Banco Mundial y para la Organización de Estados Americanos (OEA). Ha colaborado en el desarrollo de políticas de datos abiertos y portales de transparencia para el estado paraguayo y para el grupo de trabajo de datos abiertos de la Alianza para el Gobierno Abierto. Ha liderado el desarrollo de herramientas semánticas para el portal de datos abiertos la Provincia de Trento-Italia. Es Ingeniero en Informática de la FP-UNA y Doctor en Informática de la Universidad de Trento-Italia. Ha contribuido en la investigación de proyectos europeos y ha publicado alrededor de 20 publicaciones científicas y 6 artículos en revistas científicas<p>"
+  short_description: Juan Pane Investigador de la Facultad Politécnica de la Universidad Nacional de Asunción, Paraguay (FP-UNA) y en el campo de Datos Abiertos para la Iniciativa Latinoamericana de Datos Abiertos (ILDA). 
+  long_description: "<p>Investigador de la Facultad Politécnica de la Universidad Nacional de Asunción, Paraguay (FP-UNA) y en el campo de Datos Abiertos para la Iniciativa Latinoamericana de Datos Abiertos (ILDA) y También se desempeña como consultor para temas relacionados a Datos Abiertos y transparencia para el Programa de Democracia y Gobernabilidad (USAID-CEAMSO), para el Banco Mundial y para la Organización de Estados Americanos (OEA). Ha colaborado en el desarrollo de políticas de datos abiertos y portales de transparencia para el estado paraguayo y para el grupo de trabajo de datos abiertos de la Alianza para el Gobierno Abierto. Ha liderado el desarrollo de herramientas semánticas para el portal de datos abiertos la Provincia de Trento-Italia. Es Ingeniero en Informática de la FP-UNA y Doctor en Informática de la Universidad de Trento-Italia. Ha contribuido en la investigación de proyectos europeos y ha publicado alrededor de 20 publicaciones científicas y 6 artículos en revistas científicas.<p>"
 
   display_name:
     - Juan Pane # To be used as a custom filter
@@ -22,7 +22,7 @@
   color: '#523080'
   short_description: >
     Consultor en innovación cívica. Investigador Asociado de la Iniciativa Latinoamericana de Datos Abiertos.
-  long_description: "<p>Consultor en innovación cívica. Investigador Asociado de la Iniciativa Latinoamericana de Datos Abiertos. Docente de grado y posgrado. Ex asesor legislativo en el Honorable Senado de la Nación Argentina. Ex asesor de la Subsecretaría de Reforma Política de la Provincia de Buenos Aires</p>"
+  long_description: "<p>Consultor en innovación cívica. Investigador Asociado de la Iniciativa Latinoamericana de Datos Abiertos. Docente de grado y posgrado. Ex asesor legislativo en el Honorable Senado de la Nación Argentina. Ex asesor de la Subsecretaría de Reforma Política de la Provincia de Buenos Aires.</p>"
   display_name:
     - Juan I. Belbis
     - Juan Belbis # To be used as a custom filter
