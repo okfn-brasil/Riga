@@ -3,7 +3,6 @@ layout: default
 ---
 
 <script type="text/javascript" src="vendor/jquery-2.1.4.min.js"></script>
-<script type="text/javascript" src="vendor/jquery.validate.min.js"></script>
 <script type="text/javascript" src="js/submitPaper.js"></script>
 
 <div class="submit-page">
@@ -52,15 +51,16 @@ layout: default
                     </div>
                     <div class="e-question">
                         <label for="entry_1668992231">Link a la Publicación *</label>
-                        <input type="text" name="entry.1668992231" value="" id="entry_1668992231" dir="auto" aria-label="Link a la Investigación  " title="" required>
+                        <input type="url" name="entry.1668992231" value="" id="entry_1668992231" dir="auto" aria-label="Link a la Investigación  " title="" required>
                     </div>
                     <div class="e-question">
                         <label for="entry_414669593">Organización (Si aplica)</label>
                         <input type="text" name="entry.414669593" value="" id="entry_414669593" dir="auto" aria-label="Organización (Si aplica)  " title="">
                     </div>
                     <div class="e-question">
-                        <label for="entry_1136957905">Año de Publicación</label>
-                        <select name="entry.1136957905" id="entry_1136957905" aria-label="Año de Publicación">
+                        <label for="entry_1136957905">Año de Publicación *</label>
+                        <select name="entry.1136957905" id="entry_1136957905" aria-label="Año de Publicación" required>
+                            <option value="">----------</option>
                             <option value="1999">1999</option>
                             <option value="2001">2001</option>
                             <option value="2002">2002</option>
@@ -84,8 +84,8 @@ layout: default
                 </div>
                 <div class="large-6 column">
                     <div class="e-question">
-                        <label for="entry_1201846559">Nombre(s) de Autor(es) - Por favor listelos de la siguiente forma: [Nombre] [Apellido] por cada autor de la publicación, ej: Marie Skłodowska Curie, Pierre Curie</label>
-                        <textarea name="entry.1201846559" rows="8" cols="0" class="ss-q-long" id="entry_1201846559" dir="auto" aria-label="Nombre(s) de Autor(es) - Por favor listelos de la siguiente forma: [Nombre] [Apellido] por cada autor de la investigación, ej: Marie Skłodowska Curie, Pierre Curie.  "></textarea>
+                        <label for="entry_1201846559">Nombre(s) de Autor(es) * - Por favor listelos de la siguiente forma: [Nombre] [Apellido] por cada autor de la publicación, ej: Marie Skłodowska Curie, Pierre Curie</label>
+                        <textarea name="entry.1201846559" rows="8" cols="0" class="ss-q-long" id="entry_1201846559" dir="auto" aria-label="Nombre(s) de Autor(es) - Por favor listelos de la siguiente forma: [Nombre] [Apellido] por cada autor de la investigación, ej: Marie Skłodowska Curie, Pierre Curie.  " required=""></textarea>
                     </div>
                 </div>
             </div>
@@ -93,13 +93,13 @@ layout: default
         <div class="divider">
             <div class="row">
                 <div class="large-12 column">
-                    <h1><label for="entry_1343289076">Región(es)</label></h1>
+                    <h1><label for="entry_1343289076">Región(es) *</label></h1>
                     <h2>Marque todas las que apliquen</h2>
                 </div>
             </div>
         </div>
         <div class="b-page-section">
-            <div class="row" role="group" aria-label="Región(es) (Marque todas las que apliquen)">
+            <div id="regions" class="row" role="group" aria-label="Región(es) * (Marque todas las que apliquen)">
                 <div class="large-5 column">
                         <div class="checkbox">
                             <input type="checkbox" name="entry.1343289076" value="Amsterdam" id="group_1343289076_1" role="checkbox">
@@ -197,7 +197,6 @@ layout: default
                             <input type="checkbox" name="entry.1343289076" value="El Salvador" id="group_1343289076_23" role="checkbox">
                             <label for="group_1343289076_23">El Salvador</label>
                         </div>
-                    </div>
                 </div>
             </div>
         </div>
@@ -205,13 +204,13 @@ layout: default
         <div class="divider">
             <div class="row">
                 <div class="large-12 column">
-                    <h1><label for="entry_625282892">Tematicas</label></h1>
+                    <h1><label for="entry_625282892">Tematicas *</label></h1>
                     <h2>Marque todas las que apliquen</h2>
                 </div>
             </div>
         </div>
         <div class="b-page-section">
-            <div class="row" role="group" aria-label="Categorías de Inovación (Marque todas las que apliquen)">
+            <div  id="categories" class="row" role="group" aria-label="Categorías de Inovación * (Marque todas las que apliquen)">
                 <div class="large-5 column">
                     <div class="checkbox">
                         <input type="checkbox" name="entry.625282892" value="Ciencias del Comportamiento" id="group_625282892_1" role="checkbox">
@@ -222,7 +221,7 @@ layout: default
                         <label for="group_625282892_2">Big Data</label>
                     </div>
                     <div class="checkbox">
-                        <input type="checkbox" name="entry.625282892" value="Participación ciudadana" id="group_625282892_3" role="checkbox">
+                        <input type="checkbox" name="entry.625282892" value="Participación ciudadana y Crowdsourcing" id="group_625282892_3" role="checkbox">
                         <label for="group_625282892_3">Participación ciudadana y Crowdsourcing</label>
                     </div>
                     <div class="checkbox">
@@ -315,13 +314,13 @@ layout: default
         <div class="divider">
             <div class="row">
                 <div class="column large-12">
-                    <h1>Categorías Objetivo</h1>
+                    <h1>Categorías Objetivo *</h1>
                     <h2>Marque todas las que apliquen</h2>
                 </div>
             </div>
         </div>
         <div class="b-page-section">
-            <div class="row">
+            <div id="objectives" class="row">
                 <div class="large-4 column">
                     <div class="checkbox">
                         <input type="checkbox" name="entry.1803350121" value="Acceso" id="group_1803350121_1" role="checkbox">
@@ -367,13 +366,13 @@ layout: default
         <div class="divider">
             <div class="row">
                 <div class="large-12 column">
-                    <h1>Categorías del Sector</h1>
+                    <h1>Categorías del Sector *</h1>
                     <h2>Marque todas las que apliquen</h2>
                 </div>
             </div>
         </div>
         <div class="b-page-section">
-            <div class="row">
+            <div id="sectors" class="row">
                 <div class="large-4 column">
                     <div class="checkbox">
                         <input type="checkbox" name="entry.930574258" value="Respuesta a Crisis" id="group_930574258_8" role="checkbox">
@@ -473,13 +472,13 @@ layout: default
         <div class="divider">
             <div class="row">
                 <div class="large-12 column">
-                    <h1>Metodologías</h1>
+                    <h1>Metodologías *</h1>
                     <h2>Marque todas las que apliquen</h2>
                 </div>
             </div>
         </div>
         <div class="b-page-section">
-            <div class="ss-choices" role="group" aria-label="Metodologías (marque todas las que apliquen)">
+            <div id="methodologies" class="ss-choices" role="group" aria-label="Metodologías * (marque todas las que apliquen)">
                 <div class="row">
                     <div class="large-4 column">
                         <div class="checkbox">
@@ -537,13 +536,13 @@ layout: default
         <div class="divider">
             <div class="row">
                 <div class="large-12 column">
-                    <h1>Tipos de Publicación</h1>
+                    <h1>Tipos de Publicación *</h1>
                     <h2>Marque todas las que apliquen</h2>
                 </div>
             </div>
         </div>
-        <div class="b-page-section" role="group" aria-label="Tipos de Publicación (marque todos los que apliquen)">
-            <div class="row">
+        <div class="b-page-section" role="group" aria-label="Tipos de Publicación * (marque todos los que apliquen)">
+            <div id="pubTypes" class="row">
                 <div class="large-4 column">
                     <div class="checkbox">
                         <input type="checkbox" name="entry.705056620" value="Mimeo" id="group_705056620_1" role="checkbox">
@@ -601,15 +600,15 @@ layout: default
                     <label for="entry_462080567">Herramienta(s)/ Proyectos(s) relacionados con el tema de la publicación (url)</label>
                     <input type="text" name="entry.462080567" value="" id="entry_462080567" dir="auto" aria-label="Herramienta(s)/ Proyectos(s) relacionados con el tema de la publicación (url)  " title="">
                     <label for="entry_1559425319">Repositorio Github (url)</label>
-                    <input type="text" name="entry.1559425319" value="" id="entry_1559425319" dir="auto" aria-label="Repositorio Github (url)  " title="">
+                    <input type="url" name="entry.1559425319" value="" id="entry_1559425319" dir="auto" aria-label="Repositorio Github (url)  " title="">
                     <label for="entry_1607377555">Datos Relacionados (url)</label>
-                    <input type="text" name="entry.1607377555" value="" id="entry_1607377555" dir="auto" aria-label="Datos Relacionados (url)  " title="">
-                    <label for="entry_628856331">Título de Contenido Relacionado (url)</label>
+                    <input type="url" name="entry.1607377555" value="" id="entry_1607377555" dir="auto" aria-label="Datos Relacionados (url)  " title="">
+                    <label for="entry_628856331">Título de Contenido Relacionado</label>
                     <input type="text" name="entry.628856331" value="" id="entry_628856331" dir="auto" aria-label="Título de Contenido Relacionado (url)  " title="">
                 </div>
                 <div class="column large-6">
-                    <label for="entry.1372654494">Abstract</label>
-                    <textarea name="entry.1372654494" rows="8" cols="0" class="ss-q-long" id="entry.1372654494" dir="auto" aria-label="Abstract  "></textarea>
+                    <label for="entry.1372654494">Abstract *</label>
+                    <textarea name="entry.1372654494" rows="8" cols="0" class="ss-q-long" id="entry.1372654494" dir="auto" aria-label="Abstract  " required></textarea>
                 </div>
             </div>
             <div class="row">
@@ -622,7 +621,7 @@ layout: default
 ">
                     <input type="hidden" name="pageHistory" value="0">
                     <input type="hidden" name="fbzx" value="-5485106771625330266">
-                    <input type="submit" name="submit" value="Subir" id="ss-submit">
+                    <input type="submit" name="submit" value="Enviar" id="ss-submit" style="float: right !important;">
                 </div>
             </div>
         </div>

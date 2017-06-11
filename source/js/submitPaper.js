@@ -1,31 +1,32 @@
+var submitted = false;
 $(document).ready(function() {
-    var submitted = false;
+    var errorPrefix = "_error";
 
-    $("#paper_submit_form").validate({
-        rules: {
-            "entry.962917036": { required: true }, // Nomb Paper
-            "entry.1668992231": { // link
-                required: true,
-                url: true
-            }
-        },
-        messages: {
-            "entry.962917036": "Ingrese el nombre de la publicación", // Nomb Paper
-            "entry.1668992231": { // link
-                required: "Ingrese el link de la publicación",
-                url: "Ingrese una URL válida"
-            }
-        }
-    });
+    function checkRequired(element,length){
+      var errorElem = element + errorPrefix,
+          checkedLenght = $("#" + element + ' ' + 'input[type="checkbox"]:checked').length,
+          condition = length === 1 ? checkedLenght === 0 : checkedLenght < length,
+          errorMsg = length > 1 ? ('Seleccione ' + length +'opciones') : 'Seleccione al menos una opción';
+      if(condition){
+        $("#" + element).after('<p id="' + errorElem + '" class="row error">' + errorMsg + '</p>');
+        location.href = "#" + element; 
+        return false;
+      }
+      $("#" + errorElem).remove();
+      return true;
+    }
 
-    $("#paper_submit_form").on("submit", function(e) {
-        if ($("#paper_submit_form").valid()){
+    $("#paper_submit_form").on("submit", function(e) {    
+        var valid = checkRequired("regions",1) && checkRequired("categories",1) && checkRequired("objectives",1)
+            && checkRequired("sectors",1) && checkRequired("methodologies",1) && checkRequired("pubTypes",1);
+        if(valid){
             submitted = true;
-            window.location='./form-confirmation.html';
+            window.location = './form-confirmation.html';            
         }
         else{
-        	e.preventDefault();
-        	e.stopPropagation();
+            submitted = false;
+            e.preventDefault();
+            e.stopPropagation();
         }
 
     });
