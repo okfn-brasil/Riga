@@ -5,8 +5,15 @@
 module Jekyll
 
   module Sanitizer
+    def remove_accents(str)
+      if str
+        return str.tr("ÀÁÂÃÄÅàáâãäåĀāĂăĄąÇçĆćĈĉĊċČčÐðĎďĐđÈÉÊËèéêëĒēĔĕĖėĘęĚěĜĝĞğĠġĢģĤĥĦħÌÍÎÏìíîïĨĩĪīĬĭĮįİıĴĵĶķĸĹĺĻļĽľĿŀŁłÑñŃńŅņŇňŉŊŋÒÓÔÕÖØòóôõöøŌōŎŏŐőŔŕŖŗŘřŚśŜŝŞşŠšſŢţŤťŦŧÙÚÛÜùúûüŨũŪūŬŭŮůŰűŲųŴŵÝýÿŶŷŸŹźŻżŽž","AAAAAAaaaaaaAaAaAaCcCcCcCcCcDdDdDdEEEEeeeeEeEeEeEeEeGgGgGgGgHhHhIIIIiiiiIiIiIiIiIiJjKkkLlLlLlLlLlNnNnNnNnnNnOOOOOOooooooOoOoOoRrRrRrSsSsSsSssTtTtTtUUUUuuuuUuUuUuUuUuUuWwYyyYyYZzZzZz")        
+      end
+      return str
+    end
     # strip characters and whitespace to create valid filenames, also lowercase
     def sanitize_filename(name)
+      name = remove_accents(name)
       unless name.nil?
         if(name.is_a? Integer)
           return name.to_s
@@ -118,6 +125,7 @@ module Jekyll
     #
     # Thus, if you use the `extension` feature of this plugin, you
     # need to generate the links by hand
+  
     def datapage_url(input, dir)
       @gen_dir = Jekyll.configuration({})['page_gen-dirs']
       if @gen_dir then

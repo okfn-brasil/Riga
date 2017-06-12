@@ -11,9 +11,9 @@ layout: default
     {% if a == b.title %}
     {% assign prem = true %}
     {% if b.display %}
-    <a href="{{a | datapage_url: '../organizations'}}"><img src="../images/organizations/{{b.image_white}}" style="max-width: 200px"></a>
+    <a href="{{a | datapage_url: '../organizations'}}"><img src="../images/organizations/{{b.image}}" style="max-width: 200px"></a>
     {% else %}
-    <img src="../images/organizations/{{b.image_white}}" style="max-width: 200px">
+    <img src="../images/organizations/{{b.image}}" style="max-width: 200px">
     {% endif %}
     {% endif %}
     {% endfor %}
@@ -50,8 +50,7 @@ layout: default
       <span class="result-item__taxonomy__key">Categoría</span>
       <span class="result-item__taxonomy__value">
         {% for category in b.innovationCategory %}
-        {% assign cat = category.mb_chars.normalize(:kd).gsub(/[^x00-\x7F]/n, '').to_s %}
-        <a href="../{{cat | datapage_url: 'categories'}}" class="result-item__tag result-item__tag--{{ cat | slugify }}">{{ category }}</a>
+        <a href="../{{category | datapage_url: 'categories'}}" class="result-item__tag result-item__tag--{{ category | remove_accents | slugify }}">{{ category }}</a>
         {% endfor %}
       </span>
 
@@ -60,8 +59,7 @@ layout: default
       <span class="result-item__taxonomy__key">Metodología</span>
       <span class="result-item__taxonomy__value">
         {% for methodology in b.methodology %}
-        {% assign met = category.mb_chars.normalize(:kd).gsub(/[^x00-\x7F]/n, '').to_s %}
-        <a class="result-item__tag" href="../{{met | datapage_url: 'methodologies'}}">{{ methodology }}</a>
+        <a class="result-item__tag" href="../{{methodology | datapage_url: 'methodologies'}}">{{ methodology }}</a>
         {% endfor %}
       </span>
     </div>
@@ -69,8 +67,7 @@ layout: default
       <span class="result-item__taxonomy__key">Objetivo</span>
       <span class="result-item__taxonomy__value">
         {% for objective in b.objectiveCategory %}
-        {% assign obj = category.mb_chars.normalize(:kd).gsub(/[^x00-\x7F]/n, '').to_s %}
-        <a class="result-item__tag" href="../{{obj | datapage_url: 'objectives'}}">{{ objective }}</a>
+        <a class="result-item__tag" href="../{{objective | datapage_url: 'objectives'}}">{{ objective }}</a>
         {% endfor %}
       </span>
     </div>
@@ -78,8 +75,7 @@ layout: default
       <span class="result-item__taxonomy__key">Tipo</span>
       <span class="result-item__taxonomy__value">
         {% for type in b.publicationType %}
-        {% assign typ = category.mb_chars.normalize(:kd).gsub(/[^x00-\x7F]/n, '').to_s %}
-        <a class="result-item__tag" href="../{{typ | datapage_url: 'types'}}">{{ type }}</a>
+        <a class="result-item__tag" href="../{{type | datapage_url: 'types'}}">{{ type }}</a>
         {% endfor %}
       </span>
     </div>
@@ -87,7 +83,7 @@ layout: default
     <div class="result-item__extras result-item__extras--{{ org | slugify }}">
       {% for o in site.data.organizations %}
       {% if org == o.title %}
-      <img class="result-item__extras--organization-logo" src="../images/organizations/{{o.image_white}}" alt="">
+      <img class="result-item__extras--organization-logo" src="../images/organizations/{{o.image}}" alt="">
       {% endif %}
       {% endfor %}
     </div>

@@ -206,7 +206,7 @@
     twitter: https://twitter.com/opengovnet
     url: http://www.opening-governance.org/
   display: true
-  display_rank: 0
+  display_rank: 1
 
 - title: ILDA
   image: ILDA-logo.png
@@ -225,4 +225,4 @@
     twitter: https://twitter.com/idatosabiertos
     url: http://www.idatosabiertos.org//
   display: true
-  display_rank: 0
+  display_rank: 1

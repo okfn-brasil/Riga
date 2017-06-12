@@ -91,6 +91,9 @@ textarea.error {
     border: 3px solid red !important;
 }
 
-label.error{
-  color: red !important;
+p.error{
+    color: red;
+    font-weight: bold;
+    padding-left: 25px;
+    font-size: 16px;
 }
