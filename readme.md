@@ -1,4 +1,4 @@
-# RIGA
+# RIGA [![Build Status](https://travis-ci.org/idatosabiertos/Riga.svg?branch=develop)](https://travis-ci.org/idatosabiertos/Riga)
 
 ## PREQUISITES
 - Ruby 2.3.1
@@ -19,15 +19,15 @@ https://hub.docker.com/r/mtuduri/riga/
 
     FROM faizalzakaria/ruby-2.3.1
 
-    MAINTAINER Matias Tuduri
+    MAINTAINER ILDA
 
     RUN apt-get update 
 
-    RUN apt-get install -y git build-essential zlib1g-dev libxml2 libxml2-dev libxslt1-dev
+    RUN apt-get install -y build-essential zlib1g-dev libxml2 libxml2-dev libxslt1-dev
 
     RUN gem install bundler
 
-    RUN git clone https://github.com/idatosabiertos/Riga.git
+    ADD . /Riga
 
     WORKDIR /Riga
 
