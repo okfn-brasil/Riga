@@ -1,0 +1,25 @@
+
+sudo: required
+dist: trusty
+
+language: ruby
+rvm:
+  - 2.3.1
+
+services:
+  - docker
+
+before_install:
+  - sudo apt-get -qq update
+  - sudo apt-get install -y git build-essential zlib1g-dev libxml2 libxml2-dev libxslt1-dev
+install:
+  - bundle install
+
+script:
+  - docker build -t mtuduri/riga:$RIGA_VERSION .
+
+after_success:
+  - if [ "$TRAVIS_BRANCH" == "master" ]; then
+    docker login -u="$DOCKER_USERNAME" -p="$DOCKER_PASSWORD";
+    docker push mtuduri/riga:$RIGA_VERSION;
+    fi
