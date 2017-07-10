@@ -223,6 +223,26 @@
     github: false
     facebook: false
     twitter: https://twitter.com/idatosabiertos
-    url: http://www.idatosabiertos.org//
+    url: http://www.idatosabiertos.org/
+  display: true
+  display_rank: 1
+
+
+- title: IDRC
+  image: IDRC-logo.png
+  image_white: IDRC-logo-white.png # Logo image (white version)
+  short_description: >
+    <p>IDRC financia investigaciones en los países en desarrollo para crear un cambio duradero a gran escala.</p><p>Apoya a los principales pensadores que adelantan el conocimiento y resuelven problemas prácticos de desarrollo. Proporciona los recursos, el asesoramiento y la capacitación que necesitan para implementar y compartir sus soluciones con quienes más los necesitan. En resumen, IDRC aumenta las oportunidades y hace una verdadera diferencia en la vida de las personas.</p>
+  long_description: false
+  display_name:
+    - International Development Research Centre
+  founding_partner: false
+  network_partner: false
+  color: 0066b3 # Hash value to be applied to the top section
+  social_media: # Links
+    github: false
+    facebook: false
+    twitter: https://twitter.com/IDRC_CRDI
+    url: https://www.idrc.ca/
   display: true
   display_rank: 1
