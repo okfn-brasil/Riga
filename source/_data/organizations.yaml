@@ -232,7 +232,7 @@
   image: IDRC-logo.png
   image_white: IDRC-logo-white.png # Logo image (white version)
   short_description: >
-    <p>IDRC financia investigaciones en los países en desarrollo para crear un cambio duradero a gran escala.</p>
+    <p>IDRC financia investigaciones en los países en desarrollo para crear un cambio duradero a gran escala.</p><p>Apoya a los principales pensadores que adelantan el conocimiento y resuelven problemas prácticos de desarrollo. Proporciona los recursos, el asesoramiento y la capacitación que necesitan para implementar y compartir sus soluciones con quienes más los necesitan. En resumen, IDRC aumenta las oportunidades y hace una verdadera diferencia en la vida de las personas.</p>
   long_description: false
   display_name:
     - International Development Research Centre
