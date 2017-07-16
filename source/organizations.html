@@ -21,7 +21,7 @@ layout: default
 <div class="divider">
   <div class="row">
     <div class="column large-12">
-      <h2>Fundadores</h2>
+      <h2>RIGA Fundadores</h2>
     </div>
   </div>
 </div>
@@ -29,7 +29,7 @@ layout: default
   <div class="page-section organizations">
     <div class="row align-spaced expanded align-middle">
       {% for organization in site.data.organizations %}
-        {% if organization.founding_partner and organization.display %}
+        {% if organization.riga_founding_partner and organization.display %}
         <div class="medium-4 column">
           <a class="organization--{{ organization.title | slugify }}" href="./organizations/{{ organization.title | slugify }}.html"><img class="organization-logo" src="./images/organizations/{{ organization.image }}" alt="{{ organization.title }}"></a>
         </div>
@@ -42,7 +42,7 @@ layout: default
   <div class="divider">
     <div class="row">
       <div class="column large-12">
-        <h2>Red</h2>
+        <h2>OGRX Fundadores</h2>
       </div>
     </div>
   </div>
@@ -50,7 +50,7 @@ layout: default
     <div class="page-section organizations">
     <div class="row align-spaced expanded align-middle">
       {% for organization in site.data.organizations %}
-        {% if organization.network_partner and organization.display %}
+        {% if organization.founding_partner and organization.display %}
           <div class="medium-4 column">
               <a class="organization--{{ organization.title | slugify }}" href="./organizations/{{ organization.title | slugify }}.html"><img class="organization-logo" src="./images/organizations/{{ organization.image }}" alt="{{ organization.title }}"></a>
           </div>
@@ -70,7 +70,7 @@ layout: default
   <div class="page-section organizations">
     <div class="row align-spaced expanded align-middle">
       {% for organization in site.data.organizations %}
-        {% unless organization.founding_partner or organization.network_partner %}
+        {% unless organization.founding_partner or organization.network_partner or organization.riga_founding_partner%}
           {% if organization.display %}
           <div class="medium-4 column">
               <a class="organization--{{ organization.title | slugify }}" href="./organizations/{{ organization.title | slugify }}.html"><img class="organization-logo" src="./images/organizations/{{ organization.image }}" alt="{{ organization.title }}"></a>

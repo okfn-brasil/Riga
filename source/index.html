@@ -25,10 +25,10 @@ subtitle: Repositorio de Investigaciones Cuantitativa y Cualitativa sobre Innova
         </div>
         <div class="row browsing-ways">
           <div class="large-12 column">
-            <a href="./authors.html" class="button">Buscar por Autor</a>
-            <a href="./categories.html" class="button">Buscar por Categoría</a>
-            <a href="./organizations.html" class="button">Buscar por Organización</a>
-            <a href="./selectedreadings.html" class="button">Lectura Recomendada</a>
+            <a href="./authors.html" class="button margin-top-5">Buscar por Autor</a>
+            <a href="./categories.html" class="button margin-top-5">Buscar por Categoría</a>
+            <a href="./organizations.html" class="button margin-top-5">Buscar por Organización</a>
+            <a href="./selectedreadings.html" class="button margin-top-5">Lectura Recomendada</a>
 
           </div>
         </div>
@@ -37,7 +37,24 @@ subtitle: Repositorio de Investigaciones Cuantitativa y Cualitativa sobre Innova
   </section>
 
   <section id="organizations" class="divider">
-    <h1>Fundadores</h1>
+    <h1>RIGA Fundadores</h1>
+  </section>
+
+  <div class="page-section organizations">
+    <div class="row align-spaced expanded align-middle">
+      {% for organization in site.data.organizations %}
+        {% if organization.riga_founding_partner and organization.display %}
+        <div class="medium-4 column">
+          <a class="organization--{{ organization.title | slugify }}" href="./organizations/{{ organization.title | slugify }}.html"><img class="organization-logo" src="./images/organizations/{{ organization.image }}" alt="{{ organization.title }}"></a>
+        </div>
+        {% endif %}
+      {% endfor %}
+
+    </div>
+  </div>
+
+  <section id="organizations" class="divider">
+    <h1>OGRX Fundadores</h1>
   </section>
 
   <div class="page-section organizations">
