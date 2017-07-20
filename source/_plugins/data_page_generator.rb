@@ -131,7 +131,7 @@ module Jekyll
       if @gen_dir then
         dir + "/" + sanitize_filename(input) + "/index.html"
       else
-        dir + "/" + sanitize_filename(input) + ".html"
+        "/" + dir + "/" + sanitize_filename(input) + ".html"
       end
     end
   end
