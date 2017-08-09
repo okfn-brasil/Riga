@@ -239,6 +239,7 @@
     - International Development Research Centre
   founding_partner: false
   network_partner: false
+  donator: true
   color: 0066b3 # Hash value to be applied to the top section
   social_media: # Links
     github: false
