@@ -8,4 +8,7 @@ input[type="text"], input[type="url"], input[type="email"], input[type="password
     padding: 10px 15px;
     margin-bottom: 15px;
 }
+.search input{
+	margin: 0;
+}
 /*# sourceMappingURL=styleguide.css.map */
