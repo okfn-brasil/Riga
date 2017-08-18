@@ -6,8 +6,8 @@ blogpost:
       sys:
         id: ufh1mvj7xl16
     type: Entry
-    createdAt: !ruby/object:DateTime 2016-12-07 21:30:08.465000000 Z
-    updatedAt: !ruby/object:DateTime 2016-12-07 21:30:08.465000000 Z
+    createdAt: !ruby/object:DateTime 2017-08-17 21:30:08.465000000 Z
+    updatedAt: !ruby/object:DateTime 2017-08-17 21:30:08.465000000 Z
     revision: 1
     contentType:
       sys:
