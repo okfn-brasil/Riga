@@ -69,6 +69,22 @@ subtitle: Repositorio de Investigaciones Cuantitativa y Cualitativa sobre Innova
 
     </div>
   </div>
+
+  <section id="organizations" class="divider">
+    <h1>Donantes</h1>
+  </section>
+  <div class="page-section organizations">
+    <div class="row align-spaced expanded align-middle">
+      {% for organization in site.data.organizations %}
+        {% if organization.donator and organization.display %}
+        <div class="medium-4 column">
+          <a class="organization--{{ organization.title | slugify }}" href="./organizations/{{ organization.title | slugify }}.html"><img class="organization-logo" src="./images/organizations/{{ organization.image }}" alt="{{ organization.title }}"></a>
+        </div>
+        {% endif %}
+      {% endfor %}
+
+    </div>
+  </div>
   
   <section id="categories" class="divider">
     <h1>Buscar por Categoría</h1>
@@ -162,7 +178,7 @@ subtitle: Repositorio de Investigaciones Cuantitativa y Cualitativa sobre Innova
       <div class="row slide__content">
         <div class="column medium-6">
           <h2 class="slide__project-name">{{i.title}}</h2>
-          <h3 class="slide__question"><span class="">{{i.sys.createdAt | date: '%B %d, %Y'}}</span></a> by {% for a in i.author %} <a href="{% assign found = false %}{% for b in site.data.custom_authors %}{% if a == b.title %}{{a | datapage_url: 'authors'}}{% assign found = true %}{% endif %}{% endfor %}{% unless found %}by/author.html?query={{a | replace: ' ', '+'  }}{% endunless %}"><span class="">{{a}}</span></a> {% endfor %}</h3>
+          <h3 class="slide__question"><span class="">{{i.sys.createdAt  | date: '%d/%m/%y'}}</span></a> by {% for a in i.author %} <a href="{% assign found = false %}{% for b in site.data.custom_authors %}{% if a == b.title %}{{a | datapage_url: 'authors'}}{% assign found = true %}{% endif %}{% endfor %}{% unless found %}by/author.html?query={{a | replace: ' ', '+'  }}{% endunless %}"><span class="">{{a}}</span></a> {% endfor %}</h3>
         </div>
         <div class="column medium-6">
           {% if type == 'blog' %}

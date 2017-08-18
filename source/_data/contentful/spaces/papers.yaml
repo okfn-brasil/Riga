@@ -1142,3 +1142,47 @@ La visión y recomendaciones surgen a partir del análisis y procesamiento de da
   relatedDataUrl: 
   relatedContentTitle: 
   abstract: 'Junto con debatir el concepto, aplicación y desarrollo de la innovación en el sector público, el artículo propone una agenda de transformación de las organizaciones públicas hacia un modelo de gobernanza colaborativa en el marco de las iniciativas de gobierno abierto. Se argumenta que este cambio de paradigma permitiría la configuración de servicios públicos 2.0 que, entendidos como plataformas abiertas para la acción colectiva, promuevan una real y activa participación e involucramiento de los ciudadanos en la gestión estatal.'
+- sys:
+    id: paper_23
+    space:
+      sys:
+        id: ufh1mvj7xl16
+    type: Entry
+    createdAt: !ruby/object:DateTime 2016-12-07 00:54:46.534000000 Z
+    updatedAt: !ruby/object:DateTime 2016-12-08 02:38:20.386000000 Z
+    revision: 2
+    contentType:
+      sys:
+        id: paper
+    locale: en-US
+  open: true
+  publicationName:  Desde el Gobierno Abierto al Estado abierto en América Latina y el Caribe
+  downloadLink: http://repositorio.cepal.org/bitstream/handle/11362/41353/S1601154_es.pdf
+  organization: []
+  publicationDate: '2017'
+  region:
+    - América Latina
+  authors:
+  - Alejandra Naser
+  - Álvaro Ramírez-Alujas 
+  - Daniela Rosales 
+  innovationCategory:
+  - Tecnología Cívica
+  - Acceso a la Información
+  - Datos Abiertos
+  objectiveCategory:
+  - Acceso
+  - Participación
+  - Transparencia
+  sectorCategory:
+  - Desarrollo
+  methodology:
+  - Estudios de Caso
+  publicationType:
+  - Libro
+  project: []
+  gitHub: 
+  relatedDataUrl: 
+  relatedContentTitle: 
+  abstract: 'Uno de los principales desafíos de la Agenda 2030 para el Desarrollo Sostenible consiste en configurar un nuevo marco de gobernanza pública y una renovada arquitectura estatal que permitan promover sociedades pacíficas e inclusivas para el desarrollo sostenible, facilitar el acceso a la justicia para todos y construir a todos los niveles instituciones eficaces, responsables e inclusivas que rindan cuentas (Objetivo de Desarrollo Sostenible 16). En este contexto, el paradigma del gobierno abierto constituye un medio de referencia y un eje fundamental para cumplir los Objetivos de la Agenda 2030.
+El propósito de esta obra es contribuir al debate emergente sobre el tránsito hacia un Estado abierto por medio de múltiples miradas provenientes de la propia CEPAL y de representantes de organismos multilaterales, autoridades y responsables de gobierno, expertos de reconocida trayectoria, académicos y representantes de organizaciones de la sociedad civil de la región, así como de plataformas de innovación y activismo cívico.'

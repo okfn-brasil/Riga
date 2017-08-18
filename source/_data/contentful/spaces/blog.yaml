@@ -6,8 +6,8 @@ blogpost:
       sys:
         id: ufh1mvj7xl16
     type: Entry
-    createdAt: !ruby/object:DateTime 2017-04-10 21:30:08.465000000 Z
-    updatedAt: !ruby/object:DateTime 2017-04-10 21:30:08.465000000 Z
+    createdAt: !ruby/object:DateTime 2017-08-17 21:30:08.465000000 Z
+    updatedAt: !ruby/object:DateTime 2017-08-17 21:30:08.465000000 Z
     revision: 1
     contentType:
       sys:
@@ -29,7 +29,23 @@ blogpost:
   - Co-Creación
   - Participación ciudadana y Crowdsourcing
   - Big Data
-  post: "Desde [ILDA](http://idatosabiertos.org) queremos, con este primer post, darles la bienvenida al primer repositorio en español de investigaciones en el área de datos abiertos e innovaciones en la gestión pública.\n\nComo ya se ha mencionado en otros [foros](http://opendatacon.org/recuento-de-algunas-discusiones-regionales-y-globales-lo-que-queda-despues-de-la-4a-iodc/?lang=es), América Latina tiene mucho que ofrecer en la agenda de datos abiertos y del uso de la tecnología para la innovación cívica. Estos avances ya no se encuentran enmarcados como ejemplos de países en desarrollo que intentan seguir la agenda de países del primer mundo, sino como acciones con peso propio y que aportan al dialogo en un nivel de paridad.\n\nEn ese sentido, creemos que no solo es necesario seguir trabajando en las políticas de datos, así como en las iniciativas de sociedad civil en el área, sino también incentivar el desarrollo de la investigación, particularmente en español, aplicada y básica en áreas críticas. De esta manera, desde ILDA se busca contribuir a un mayor desarrollo y publicidad de la producción académica en el área de datos abiertos e innovación en la gestión publica en idioma español, como un elemento clave de la promoción de esas agendas en la región.\n\nEn esta primera etapa la plataforma cuenta con un numero limitado de estudios y artículos pero esperamos que con la contribución de toda la comunidad en los próximos meses podamos incrementar considerablemente los recursos disponibles.\n\nEsperamos que nos visiten seguido y que aporten publicaciones para el beneficio de toda la comunidad!\n\n"
+  post: "Desde [ILDA](http://idatosabiertos.org) queremos, con este primer post, darles la bienvenida al primer repositorio en español de investigaciones
+   en el área de datos abiertos e innovaciones en la gestión pública.\n\n
+
+   Como ya se ha mencionado en otros [foros](http://opendatacon.org/recuento-de-algunas-discusiones-regionales-y-globales-lo-que-queda-despues-de-la-4a-iodc/?lang=es), 
+   América Latina tiene mucho que ofrecer en la agenda de datos abiertos y del uso de la tecnología para la innovación cívica. Estos avances ya no se 
+   encuentran enmarcados como ejemplos de países en desarrollo que intentan seguir la agenda de países del primer mundo, sino como acciones con peso 
+   propio y que aportan al diálogo  en un nivel de paridad.\n\n
+
+   En ese sentido, creemos que no solo es necesario seguir trabajando en las políticas de datos, así como en las iniciativas de sociedad civil
+   en el área, sino también incentivar el desarrollo de la investigación, particularmente en español, aplicada y básica en áreas críticas.
+   De esta manera, desde ILDA se busca contribuir a un mayor desarrollo y publicidad de la producción académica en el área de datos abiertos e 
+   innovación en la gestión pública en idioma español, como un elemento clave de la promoción de esas agendas en la región.\n\n
+
+   En esta primera etapa la plataforma cuenta con un número limitado de estudios y artículos pero esperamos que con la contribución 
+   de toda la comunidad en los próximos meses podamos incrementar considerablemente los recursos disponibles.\n\n
+
+   Esperamos que nos visiten seguido y que aporten publicaciones para el beneficio de toda la comunidad!\n\n"
   articlesList:
   - sys:
       id: paper_1
