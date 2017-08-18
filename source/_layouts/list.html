@@ -11,9 +11,9 @@ layout: default
     {% if a == b.title %}
     {% assign prem = true %}
     {% if b.display %}
-    <a href="{{a | datapage_url: '../organizations'}}"><img src="../images/organizations/{{b.image}}" style="max-width: 200px"></a>
+    <a href="{{a | datapage_url: '../organizations'}}"><img src="../images/organizations/{{b.image_white}}" style="max-width: 200px"></a>
     {% else %}
-    <img src="../images/organizations/{{b.image}}" style="max-width: 200px">
+    <img src="../images/organizations/{{b.image_white}}" style="max-width: 200px">
     {% endif %}
     {% endif %}
     {% endfor %}
