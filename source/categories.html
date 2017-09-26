@@ -56,11 +56,14 @@ layout: default
 
   <div class="page-section all-categories">
     <div class="row expanded">
-      {% for category in site.data.main-categories %}
-
+      {% for category in site.data.main-categories %}      
+      {% assign name = category.title %}
+      {% if category.display_name %}
+      {% assign name = category.display_name %}
+      {% endif %}
       {% unless category.featured %}
       <div class="column large-4 all-categories__item">
-        <a href="./categories/{{category.title | slugify}}.html">{{category.display_name}}</a>
+        <a href="./categories/{{category.title | slugify}}.html">{{name}}</a>
       </div>
       {% endunless %}
 
