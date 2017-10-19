@@ -12,3 +12,13 @@ input[type="text"], input[type="url"], input[type="email"], input[type="password
 	margin: 0;
 }
 /*# sourceMappingURL=styleguide.css.map */
+
+@media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+     /* IE10+ CSS styles go here */
+     input[type="checkbox"],input[type="radio"]{display:block}
+}
+
+supports (-ms-accelerator:true) {
+  /* IE Edge 12+ CSS styles go here */ 
+     input[type="checkbox"],input[type="radio"]{display:block}
+}
