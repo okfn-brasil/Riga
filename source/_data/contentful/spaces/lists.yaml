@@ -401,3 +401,192 @@ list:
       (retroalimentar) los mismos proyectos u otras iniciativas en el área. Se trata
       de responder a la pregunta «¿que han logrado estos proyectos con esta aplicación
       basada en datos abiertos de educación?».
+- sys:
+    id: M24ihkHGeIosci8IuYC44
+    space:
+      sys:
+        id: ufh1mvj7xl16
+    type: Entry
+    createdAt: !ruby/object:DateTime 2017-10-21 20:54:17.988000000 Z
+    updatedAt: !ruby/object:DateTime 2017-10-21 05:49:56.978000000 Z
+    revision: 2
+    contentType:
+      sys:
+        id: list
+    locale: en-US
+  title: Desde el Gobierno Abierto al Estado Abierto en América Latina y el Caribe
+  author:
+  - Álvaro Ramírez-Alujas 
+  affiliation:
+  description: "Desde hace ya unos años que la apertura gubernamental, en el amplio sentido de lo que
+  ella supone, se ha instalado como eje de un proceso de transformación profundo y radical
+  en la forma y el fondo de como venía operando el gobierno y sus instituciones en los
+  primeros años del siglo XXI. Frente al reconocido agotamiento de los tradicionales
+  modelos de gestión de los asuntos públicos heredados del siglo XX, la fatiga en los
+  espacios de legitimidad y representación que han puesto en entredicho la actual vigencia
+  del sistema democrático tal cual lo conocíamos, y las diversas crisis, complejidad e
+  incertidumbre para navegar las nuevas realidades sociales, políticas, económicas y
+  culturales en un contexto de globalización e interdependencia, surge la necesidad de
+  esbozar y delinear nuevas formas de trabajo en lo público, una nueva forma de gobernar.\n\n
+
+  Y es allí donde se instala en el contexto internacional la renovada idea de gobierno
+  abierto. De acuerdo a lo que se establece en la [Carta Iberoamericana de Gobierno Abierto](https://www.clad.org/images/declaraciones/CIGA-Octubre-2016.pdf),
+  este puede ser entendido como “un conjunto de mecanismos que contribuyen a la
+  gobernanza pública y al buen gobierno, basado en los pilares de la transparencia,
+  participación ciudadana, rendición de cuentas, colaboración e innovación, centrado e
+  incluyendo a la ciudadanía en el proceso de toma de decisiones, así como en la
+  formulación e implementación de políticas públicas, para fortalecer la democracia, la
+  legitimidad de la acción pública y el bienestar colectivo” (CLAD, 2016). En tal sentido, y
+  sumado a los esfuerzos que se han promovido desde diversos espacios como son la
+  creación y puesta en marcha de la Alianza para el Gobierno Abierto, la aprobación y
+  aplicación de la [Carta Internacional de Datos Abiertos](https://opendatacharter.net/), entre muchos otros, el cambio
+  paradigmático que supone la idea de apertura gubernamental no solo ha llegado para
+  quedarse sino que ha generado un inusitado entusiasmo, expectativas y esperanzas, en
+  particular en el seno de la sociedad civil, como espacio institucional que favorezca la
+  reconstrucción de confianzas entre gobernantes y gobernados, reducir la corrupción y las
+  diversas desigualdades y asimetrías ligadas al ejercicio, y en algunos casos abusos en el
+  poder, mejorar la calidad de los servicios públicos y, en definitiva, impactar positivamente
+  en la calidad de vida de nuestros pueblos. Ello desde la aplicación práctica de los valores
+  que fundamentan la apertura del gobierno: el acceso a información pública y la
+  participación ciudadana como derechos; y la transparencia y rendición de cuentas, la
+  colaboración y el uso de la tecnología e innovación como medios que favorezcan este
+  tránsito a un modelo de gestión pública abierto, inclusivo, no para sino con la ciudadanía,
+  con la gente como principales protagonistas: nada sobre nosotros sin nosotros.\n\n
+
+  Es en este contexto en el que se circunscribe esta obra publicada por CEPAL y lanzada en
+  abril de 2017. Se trata de un libro que articula de manera sustantiva y quizás como nunca
+  antes, las miradas, visiones, controversias, paradojas y desafíos que implica el recorrer
+  este nuevo camino donde el mapa, bien sabemos, no es el territorio, en particular si
+  atendemos a las peculiaridades institucionales y la diversidad que encontramos en los
+  países latinoamericanos. Asimismo, el libro se estructura en siete partes que dan cuenta
+  de la heterogeneidad de abordajes que son, al mismo tiempo, el reflejo concreto del
+  debate actual y del estado del arte en la materia en nuestra región.\n\n
+
+  En una primera parte es posible encontrar la reflexión desde la perspectiva de tres
+  organismos internacionales que han venido impulsando y promoviendo esta agenda en la
+  región: CEPAL (Naser, Ramírez-Alujas y Rosales), el CLAD (Montero) y la OEA (Trigo y
+  Álvarez). La síntesis de estos aportes contribuyen a afianzar la necesidad de que podamos
+  transitar desde la idea de gobierno a la Estado abierto, promoviendo la aplicación de los
+  principios mencionados hacia otras ramas del poder, espacios institucionales e inclusive a
+  ámbitos como la academia, el sector privado y la misma sociedad civil (bien sabemos que
+  en este tipo de políticas “predicar con el ejemplo” es parte sustantiva del esfuerzo).\n\n
+
+  En una segunda parte se presentan 3 experiencias nacionales sobre planes y estrategias
+  de gobierno abierto: Brasil (Solís), Costa Rica (Zúñiga) y México (Lagunes). Conviene que el
+  lector interesado se detenga a observar los contrastes y los enfoques y líneas de acción
+  que cada país ha considerado como prioritarios para llevar adelante esta agenda. Ligado a
+  lo anterior y en la tercera parte, se presentan experiencias concretas desde el rol y
+  competencias que tienen los órganos garantes en materia de acceso a información pública
+  en la región (institucionalidad clave como base de los esfuerzos por garantizar el derecho
+  a saber, facilitar la rendición de cuentas y favorecer mayor transparencia) desde los casos
+  del Consejo para la Transparencia en Chile (Blanlot) y el Instituto Nacional de Acceso a
+  Información (INAI) de México (Salas).\n\n
+
+  La cuarta parte es particularmente relevante pues sintetiza la mirada desde las
+  organizaciones de sociedad civil en dos esferas fundamentales en la apertura
+  gubernamental y estatal: el derecho de acceso a información pública y datos abiertos
+  como herramienta para mejorar la calidad de vida de las personas (Pérez, Santagada,
+  Medrano, De Francesco, Sánchez y Mejías); y la auditoría, control social y participación
+  como vías para el fortalecimiento institucional (Ibarra). Es evidente que las miradas
+  plasmadas en esta sección son un contraste crítico respecto a las dos partes anteriores, lo
+  que nos conduce indefectiblemente a reflexionar de manera profunda sobre los desafíos y
+  brechas que tenemos por delante.\n\n
+
+  La quinta parte es quizás, una de las más atractivas para quienes estén buscando nuevas
+  referencias, alcances y perspectivas teóricas sobre el debate en cuestión, y en especial
+  sobre este proceso de mutación desde el gobierno abierto al Estado abierto en
+  Latinoamérica. Es aquí donde encontramos plasmada la discusión más acabada y rigurosa
+  desde perspectivas conceptuales que, en algunos casos, se enfrentan y cuestionan
+  mutuamente. Si bien todos los autores y autoras en esta sección abarcan el mismo objeto
+  de estudio (gobierno/Estado abierto), sus abordajes, miradas y enfoques van desde el
+  cuestionamiento del modelo tradicional de políticas públicas hacia la co-producción e
+  innovación social (Subirats); pasando por la metamorfosis del término, noción o concepto
+  de Estado abierto (Oszlak); su expresión en el ámbito de la justica (Jiménez-Gómez); el
+  relevar la confianza como eje de este desafío (Güemes y Brugué); las claves de la apertura
+  gubernamental desde la burocracia (Gascó); el dilucidar si estamos frente a una moda o
+  real oportunidad (Babino); y finalmente, la necesidad de incorporar de manera más
+  robusta y permanente al sector académico en estos desafíos (Kaufman).\n\n
+
+  Para cerrar, el libro presenta dos ámbitos de extremada relevancia en el presente y futuro
+  de la llamada apertura estatal: experiencias a nivel subnacional y local; y la transformación
+  que supone la revolución de los datos en el contexto del Estado abierto y el desarrollo
+  sostenible. En la sexta parte se presenta una aproximación teórica y práctica para
+  distinguir la idea de gobernanza abierta en el espacio municipal (Hernández), y a partir de
+  ello luego se describen y presentan con lujo de detalle las experiencias concretas de tres
+  casos de referencia en la materia como son el Municipio de Bahía Blanca en Argentina
+  (Mirofsky y Bevilacqua), el Ayuntamiento de Madrid en España (Anderica) y el Laboratorio
+  de Innovación Pública del Municipio de Quito en Ecuador (Pozo), tres espacios de
+  aprendizaje de lectura obligada para quienes hoy en día estén o quieran promover e
+  impulsar estrategias de gobierno abierto en el espacio local.\n\n
+
+  La obra acaba con broche de oro al contextualizar el debate previo desde una perspectiva
+  que es al mismo tiempo práctica y crítica a la vez. Por un lado, cómo la agenda de datos
+  abiertos y la comunidad que se ha venido forjando en torno a ella en la región, son un
+  espacio catalizador para la construcción de políticas, infraestructuras y herramientas
+  concretas en cada uno de nuestros países, y como el emergente movimiento de hacking y
+  tecnología cívica ha venido (y seguirá) contribuyendo al ideario de una América Latina
+  Abierta (Scrollini). Y lo anterior tiene un correlato en la experiencia concreta que cierra el
+  libro con el caso de DATA Uruguay y las lecciones y aprendizajes al trabajar desde
+  sociedad civil en materia de gobierno abierto (Carranza).\n\n
+
+  Sin lugar a dudas se trata de un libro de referencia en estas materias, al menos en el
+  contexto del debate iberoamericano, y de total actualidad sobre las distintas dimensiones,
+  alcances y perspectivas que deben considerarse para una construcción realista y rigurosa
+  de lo que, entendemos, supone la idea de Estado Abierto. Ello inclusive (y es un lugar
+  común y eje articulador en los distintos capítulos del libro) debe considerar las
+  definiciones de la Agenda 2030 y los Objetivos de Desarrollo Sostenible, bajo una estricta
+  mirada de lo plasmado en el ODS Nº 16 “Paz, Justicia e Instituciones Sólidas” y sus metas e
+  indicadores, pero más allá en la lógica de la transversalidad necesaria con toda la agenda
+  de desarrollo sostenible, que favorezca transitar hacia sociedades más justas,
+  democráticas y que pongan el acento en el bienestar de nuestros pueblos.\n\n
+
+  __Álvaro V. Ramírez Alujas__
+  Co-Chair del Consejo Editorial del Repositorio de Investigaciones sobre Gobernanza Abierta (RIGA)
+  Fundador e investigador principal del Grupo de Investigación en Gobierno, Administración y Políticas Públicas (GIGAPP),
+  profesor del Instituto de Asuntos Públicos (INAP) de la Universidad de Chile y presidente de la Fundación Multitudes
+  "
+  articlesList:
+  - sys:
+      id: paper_23
+      space:
+        sys:
+          id: ufh1mvj7xl16
+      type: Entry
+      createdAt: !ruby/object:DateTime 2016-12-07 00:54:46.534000000 Z
+      updatedAt: !ruby/object:DateTime 2016-12-08 02:38:20.386000000 Z
+      revision: 2
+      contentType:
+        sys:
+          id: paper
+      locale: en-US
+    open: true
+    publicationName:  Desde el Gobierno Abierto al Estado abierto en América Latina y el Caribe
+    downloadLink: http://repositorio.cepal.org/bitstream/handle/11362/41353/S1601154_es.pdf
+    organization: []
+    publicationDate: '2017'
+    region:
+      - América Latina
+    authors:
+    - Alejandra Naser
+    - Álvaro Ramírez-Alujas 
+    - Daniela Rosales 
+    innovationCategory:
+    - Tecnología Cívica
+    - Acceso a la Información
+    - Datos Abiertos
+    objectiveCategory:
+    - Acceso
+    - Participación
+    - Transparencia
+    sectorCategory:
+    - Desarrollo
+    methodology:
+    - Estudios de Caso
+    publicationType:
+    - Libro
+    project: []
+    gitHub: 
+    relatedDataUrl: 
+    relatedContentTitle: 
+    abstract: 'Uno de los principales desafíos de la Agenda 2030 para el Desarrollo Sostenible consiste en configurar un nuevo marco de gobernanza pública y una renovada arquitectura estatal que permitan promover sociedades pacíficas e inclusivas para el desarrollo sostenible, facilitar el acceso a la justicia para todos y construir a todos los niveles instituciones eficaces, responsables e inclusivas que rindan cuentas (Objetivo de Desarrollo Sostenible 16). En este contexto, el paradigma del gobierno abierto constituye un medio de referencia y un eje fundamental para cumplir los Objetivos de la Agenda 2030.
+  El propósito de esta obra es contribuir al debate emergente sobre el tránsito hacia un Estado abierto por medio de múltiples miradas provenientes de la propia CEPAL y de representantes de organismos multilaterales, autoridades y responsables de gobierno, expertos de reconocida trayectoria, académicos y representantes de organizaciones de la sociedad civil de la región, así como de plataformas de innovación y activismo cívico.'
