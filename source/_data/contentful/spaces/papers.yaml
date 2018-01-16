@@ -1186,3 +1186,126 @@ La visión y recomendaciones surgen a partir del análisis y procesamiento de da
   relatedContentTitle: 
   abstract: 'Uno de los principales desafíos de la Agenda 2030 para el Desarrollo Sostenible consiste en configurar un nuevo marco de gobernanza pública y una renovada arquitectura estatal que permitan promover sociedades pacíficas e inclusivas para el desarrollo sostenible, facilitar el acceso a la justicia para todos y construir a todos los niveles instituciones eficaces, responsables e inclusivas que rindan cuentas (Objetivo de Desarrollo Sostenible 16). En este contexto, el paradigma del gobierno abierto constituye un medio de referencia y un eje fundamental para cumplir los Objetivos de la Agenda 2030.
 El propósito de esta obra es contribuir al debate emergente sobre el tránsito hacia un Estado abierto por medio de múltiples miradas provenientes de la propia CEPAL y de representantes de organismos multilaterales, autoridades y responsables de gobierno, expertos de reconocida trayectoria, académicos y representantes de organizaciones de la sociedad civil de la región, así como de plataformas de innovación y activismo cívico.'
+- sys:
+    id: paper_21
+    space:
+      sys:
+        id: ufh1mvj7xl16
+    type: Entry
+    createdAt: !ruby/object:DateTime 2016-12-07 00:54:46.534000000 Z
+    updatedAt: !ruby/object:DateTime 2016-12-08 02:38:20.386000000 Z
+    revision: 2
+    contentType:
+      sys:
+        id: paper
+    locale: en-US
+  open: true
+  publicationName: "Estado de la Oferta y la Demanda de Datos Abiertos Gubernamentales en México: Informe diagnóstico sobre datos.gob.mx"
+  downloadLink: https://drive.google.com/a/idatosabiertos.org/file/d/0Bz4bv9Y3kT3TR0E1XzdENUJVaUE/view?usp=sharing
+  organization: []
+  publicationDate: '2015'
+  region: 
+  - América Latina
+  - México
+  authors:
+  - Juan Ortiz Freuler
+  innovationCategory:
+  - Datos Abiertos
+  objectiveCategory:
+  - Acceso
+  - Transparencia
+  - Rendición de Cuentas
+  sectorCategory:
+  methodology:
+  - Análisis Cualitativo
+  - Estudios de Caso
+  publicationType:
+  - Documento de Trabajo
+  project: []
+  gitHub: 
+  relatedDataUrl: 
+  relatedContentTitle: 
+  abstract: 'En consonancia con una practica prometedora y ya afincada a nivel mundial, en febrero de 2014, el Poder Ejecutivo Mexicano lanzó su portal de datos abiertos (datos.gob.mx). El presente diagnóstico- realizado entre julio y septiembre de 2015- tiene como objetivo ofrecer a los actores locales e internacionales un seguimiento de las acciones realizadas a un año y medio del lanzamiento del portal.   
+La visión y recomendaciones surgen a partir del análisis y procesamiento de datos, así como también de entrevistas con mas de dos docenas de activistas, periodistas y servidores públicos.'
+- sys:
+    id: paper_22
+    space:
+      sys:
+        id: ufh1mvj7xl16
+    type: Entry
+    createdAt: !ruby/object:DateTime 2016-12-07 00:54:46.534000000 Z
+    updatedAt: !ruby/object:DateTime 2016-12-08 02:38:20.386000000 Z
+    revision: 2
+    contentType:
+      sys:
+        id: paper
+    locale: en-US
+  open: true
+  publicationName: Innovación en las organizaciones y servicios públicos:¿ el eslabón perdido? Bases para la transición hacia un modelo de innovación abierta y colaborativa
+  downloadLink: http://revistas.uchile.cl/files/journals/48/articles/21177/submission/copyedit/21177-66152-1-CE.pdf
+  organization: []
+  publicationDate: '2012'
+  region: []
+  authors:
+  - Álvaro Ramírez-Alujas
+  innovationCategory:
+  - Innovación Institucional
+  objectiveCategory:
+  - Efectividad
+  - Innovación
+  - Participación
+  sectorCategory:
+  - Educación
+  methodology:
+  - Análisis Cualitativo
+  publicationType:
+  - Articulo de Revista
+  project: []
+  gitHub: 
+  relatedDataUrl: 
+  relatedContentTitle: 
+  abstract: 'Junto con debatir el concepto, aplicación y desarrollo de la innovación en el sector público, el artículo propone una agenda de transformación de las organizaciones públicas hacia un modelo de gobernanza colaborativa en el marco de las iniciativas de gobierno abierto. Se argumenta que este cambio de paradigma permitiría la configuración de servicios públicos 2.0 que, entendidos como plataformas abiertas para la acción colectiva, promuevan una real y activa participación e involucramiento de los ciudadanos en la gestión estatal.'
+- sys:
+    id: paper_24
+    space:
+      sys:
+        id: ufh1mvj7xl16
+    type: Entry
+    createdAt: !ruby/object:DateTime 2015-13-11 00:54:46.534000000 Z
+    updatedAt: !ruby/object:DateTime 2015-13-11 02:38:20.386000000 Z
+    revision: 2
+    contentType:
+      sys:
+        id: paper
+    locale: en-US
+  open: true
+  publicationName: "Co-producción de servicios públicos usando datos abiertos: Atuservicio.uy"
+  downloadLink: http://www2.congreso.gob.pe/sicr/cendocbib/con4_uibd.nsf/FC1C7AE80263DD410525809F005FFDC0/$FILE/scrollifa.pdf
+  organization: 
+  - ILDA
+  publicationDate: '2015'
+  region:
+    - América Latina
+    - Uruguay
+  authors:
+  - Scrollini Fabrizio
+  innovationCategory:
+  - Tecnología Cívica
+  - Co-Creación
+  - Datos Abiertos
+  objectiveCategory:
+  - Transparencia
+  - Rendición de Cuentas
+  sectorCategory:
+  - Desarrollo
+  methodology:
+  - Estudios de Caso
+  publicationType:
+  - Actas de Conferencia
+  project: []
+  gitHub: 
+  relatedDataUrl: 
+  relatedContentTitle: 
+  abstract: 'La agenda de datos abiertos ha emergido en la región con desarrollos en áreas tales como participación ciudadana, políticas de gobierno abierto y políticas de gobierno electrónico de los Estados de la región.
+Las comunidades de Abrelatam y Condatos, los eventos regionales que nuclean a quienes trabajan esta agenda, son de las más activas a nivel global. La hipótesis central de muchos actores que trabajan esta agenda es que la liberación de los datos que tienen en general los estados, en determinados formatos, permitirá la creación de valor social y económico. Sin embargo la forma en la cuál esto pasará, que actores participan en estos procesos, cuál es el rol del Estado en los mismos y cómo exactamente se genera ese valor se encuentra todavía poco explorado en la literatura regional y comparada.
+En este trabajo busco explorar el rol que estados, sociedad civil y usuarios en el uso de los datos abiertos a través de un caso de estudio: Atuservicio.uy. Atuservicio.uy se trata de una aplicación que permite a usuarios del sistema de salud uruguayo conocer en detalle información sobre sus prestadores de salud. Su construcción fue desarrollada por la asociación civil DATA y el Ministerio de Salud Pública del Uruguay.'
