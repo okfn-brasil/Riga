@@ -259,6 +259,7 @@
     -  Grupo de Investigación en Gobierno, Administración y Políticas Públicas
   founding_partner: false
   network_partner: false
+  riga_partner: true
   color: 127171 # Hash value to be applied to the top section
   social_media: # Links
     github: false
@@ -266,4 +267,11 @@
     twitter: https://twitter.com/GIGAPP
     url: http://www.gigapp.org/
   display: true
+  display_rank: 1
+
+- title: empty
+  long_description: false
+  founding_partner: false
+  network_partner: false
+  display: false
   display_rank: 1

@@ -41,6 +41,25 @@ layout: default
   <div class="divider">
     <div class="row">
       <div class="column large-12">
+        <h2>Socios</h2>
+      </div>
+    </div>
+  </div>
+  <div class="page-section organizations">
+    <div class="row align-spaced expanded align-middle">
+      {% for organization in site.data.organizations %}
+        {% if organization.riga_partner and organization.display %}
+          <div class="medium-4 column">
+              <a class="organization--{{ organization.title | slugify }}" href="./organizations/{{ organization.title | slugify }}.html"><img class="organization-logo" src="./images/organizations/{{ organization.image }}" alt="{{ organization.title }}"></a>
+          </div>
+        {% endif %}
+      {% endfor %}
+    </div>
+  </div>
+
+  <div class="divider">
+    <div class="row">
+      <div class="column large-12">
         <h2>OGRX Fundadores</h2>
       </div>
     </div>
@@ -86,10 +105,15 @@ layout: default
   <div class="page-section organizations">
     <div class="row align-spaced expanded align-middle">
       {% for organization in site.data.organizations %}
-        {% unless organization.founding_partner or organization.network_partner or organization.riga_founding_partner or organization.donator%}
+        {% unless organization.founding_partner or organization.network_partner or organization.riga_founding_partner or organization.donator or organization.riga_partner %}
           {% if organization.display %}
           <div class="medium-4 column">
               <a class="organization--{{ organization.title | slugify }}" href="./organizations/{{ organization.title | slugify }}.html"><img class="organization-logo" src="./images/organizations/{{ organization.image }}" alt="{{ organization.title }}"></a>
+          </div>
+          {% endif %}
+          
+          {% if organization.title =='empty' %}
+          <div class="medium-4 column">
           </div>
           {% endif %}
         {% endunless %}

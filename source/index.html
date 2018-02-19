@@ -54,6 +54,23 @@ subtitle: Repositorio de Investigaciones Cuantitativa y Cualitativa sobre Innova
   </div>
 
   <section id="organizations" class="divider">
+    <h1>Socios</h1>
+  </section>
+
+  <div class="page-section organizations">
+    <div class="row align-spaced expanded align-middle">
+      {% for organization in site.data.organizations %}
+        {% if organization.riga_partner and organization.display %}
+        <div class="medium-4 column">
+          <a class="organization--{{ organization.title | slugify }}" href="./organizations/{{ organization.title | slugify }}.html"><img class="organization-logo" src="./images/organizations/{{ organization.image }}" alt="{{ organization.title }}"></a>
+        </div>
+        {% endif %}
+      {% endfor %}
+
+    </div>
+  </div>
+
+  <section id="organizations" class="divider">
     <h1>OGRX Fundadores</h1>
   </section>
 
