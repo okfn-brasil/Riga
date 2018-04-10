@@ -1352,3 +1352,96 @@ En este trabajo busco explorar el rol que estados, sociedad civil y usuarios en 
   relatedDataUrl: 
   relatedContentTitle: 
   abstract: 'Con la popularización del uso de internet y el avance de la sociedad civil organizada cada vez más países han iniciado la implementación del modelo de Gobierno Abierto. Algunos autores han argumentado sobre los contrastes entre los países, especialmente por las diferencias en las tradiciones democráticas. En esa dirección, comprender los desafíos y las limitaciones en el proceso de Datos Abiertos en diferentes países podrá ofrecer insights teóricos y prácticos capaces de rellenar lagunas aún existentes en la teoría sobre democracia, participación social y transparencia. Por tanto, considerando las diferencias y similitudes entre Brasil y España, se pretende realizar un análisis comparativo a partir de las lecciones y de las experiencias, así como de los desafíos y las limitaciones entre esos países.'
+- sys:
+    id: paper_26
+    space:
+      sys:
+        id: ufh1mvj7xl16
+    type: Entry
+    createdAt: !ruby/object:DateTime 2015-13-11 00:54:46.534000000 Z
+    updatedAt: !ruby/object:DateTime 2015-13-11 02:38:20.386000000 Z
+    revision: 2
+    contentType:
+      sys:
+        id: paper
+    locale: en-US
+  open: true
+  publicationName: "¿Qué es (y que no es) gobierno abierto? Una discusión conceptual"
+  downloadLink: https://e-revistas.uc3m.es/index.php/EUNOM/article/view/2475
+  organization: 
+  - Gigapp
+  publicationDate: '2015'
+  region:
+    - América Latina
+  authors:
+  - César Nicandro 
+  - Cruz-Rubio
+  innovationCategory:
+  - Innovación Institucional
+  objectiveCategory:
+  - Acceso
+  - Participación
+  - Transparencia
+  - Rendición de Cuentas
+  sectorCategory:
+  - Ciencia
+  methodology:
+  - Marco Conceptual
+  publicationType:
+  project: []
+  gitHub: 
+  relatedDataUrl: 
+  relatedContentTitle: 
+  abstract: 'Este documento tiene por objeto avanzar hacia una definición y clarificación de gobierno abierto como concepto. Se realiza con base en una revisión de los esfuerzos previos existentes, y de una revisión de la literatura sobre cómo comprender este concepto (como modo de actuación del gobierno o como modo o modelo de gobernanza). Este esfuerzo también clarifica qué es gobierno  abierto  a  partir  de  oponer  y  contrastar  este  concepto  en  relación  con  conceptos similares o asociados, tales como gobierno electrónico o gobernanza electrónica'
+- sys:
+    id: paper_27
+    space:
+      sys:
+        id: ufh1mvj7xl16
+    type: Entry
+    createdAt: !ruby/object:DateTime 2015-13-11 00:54:46.534000000 Z
+    updatedAt: !ruby/object:DateTime 2015-13-11 02:38:20.386000000 Z
+    revision: 2
+    contentType:
+      sys:
+        id: paper
+    locale: en-US
+  open: true
+  publicationName: "Innovación en el sector público chileno: la experiencia y aprendizajes del Laboratorio de Gobierno"
+  downloadLink: http://www.revistadegestionpublica.cl/Vol_VI_No_1/ArrosRamirez.pdf
+  organization: 
+  - Gigapp
+  publicationDate: '2017'
+  region:
+    - América Latina
+    - Chile
+  authors:
+  - Valentina Arros Valdivia
+  - Álvaro Ramírez-Alujas
+  innovationCategory:
+  - Participación ciudadana y Crowdsourcing
+  - Co-Creación
+  - Pensamiento de diseño
+  - Innovación Institucional
+  - Laboratorios y experimentación
+  objectiveCategory:
+  - Efectividad
+  - Legitimidad
+  - Participación
+  sectorCategory:
+  - Respuesta a Crisis
+  - Desarrollo
+  - Movimientos Sociales & Activismo
+  methodology:
+  - Estudios de Caso
+  - Análisis Comparativo
+  - Marco Conceptual
+  - Ciencia de Diseño
+  - Análisis Cualitativo
+  publicationType:
+  project: []
+  gitHub: 
+  relatedDataUrl: 
+  relatedContentTitle: 
+  abstract: 'El artículo tiene por objetivo reflexionar en torno a la experiencia de diseño e implementación del Laboratorio de Gobierno en el sector público chileno. Se reconstruye y analiza el proceso vivenciado desde los inicios del Laboratorio de Gobierno utilizando la metodología del doble diamante.
+Se identifican los principales aprendizajes que esta experiencia permite entregar para posteriores procesos de innovación, los cuales en un contexto amplio implican entender que para el logro de cambios paradigmáticos, se requiere comprender dimensiones culturales y estructurales en donde se integren lógicas sistémicas al interior del Estado que además permitan tener el suficiente dinamismo y flexibilidad para responder a las necesidades reales de la sociedad.'
