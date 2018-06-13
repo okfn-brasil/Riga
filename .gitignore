@@ -9,3 +9,4 @@ import/*.csv
 .DS_Store
 .publish
 vagrant/.vagrant/
+.idea
