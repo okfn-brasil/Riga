@@ -1445,3 +1445,102 @@ En este trabajo busco explorar el rol que estados, sociedad civil y usuarios en 
   relatedContentTitle: 
   abstract: 'El artículo tiene por objetivo reflexionar en torno a la experiencia de diseño e implementación del Laboratorio de Gobierno en el sector público chileno. Se reconstruye y analiza el proceso vivenciado desde los inicios del Laboratorio de Gobierno utilizando la metodología del doble diamante.
 Se identifican los principales aprendizajes que esta experiencia permite entregar para posteriores procesos de innovación, los cuales en un contexto amplio implican entender que para el logro de cambios paradigmáticos, se requiere comprender dimensiones culturales y estructurales en donde se integren lógicas sistémicas al interior del Estado que además permitan tener el suficiente dinamismo y flexibilidad para responder a las necesidades reales de la sociedad.'
+- sys:
+    id: paper_28
+    space:
+      sys:
+        id: ufh1mvj7xl16
+    type: Entry
+    createdAt: !ruby/object:DateTime 2015-13-11 00:54:46.534000000 Z
+    updatedAt: !ruby/object:DateTime 2015-13-11 02:38:20.386000000 Z
+    revision: 2
+    contentType:
+      sys:
+        id: paper
+    locale: en-US
+  open: true
+  publicationName: "Encuentro de Hacking Cívico Rosario 2018"
+  downloadLink: https://goo.gl/mCAJL6
+  organization:
+  - Acción Colectiva,
+  - Polilab UNR
+  - Observatorio Legislativo
+  - Fundación El Desafío
+  - STS Rosario
+  - Fundación Apertura
+  - Red Argentina de Educación Abierta
+  - Facultad Libre
+  publicationDate: '2017'
+  region:
+    - América Latina
+    - Argentina
+  authors:
+  - Anabela Rosconi
+  - Estefanía Aranda
+  - Camila Panero
+  - Eugenia Urrere
+  - Luciana Bernard
+  - Virginia Brussa
+  - Lucía Fiorella
+  - Florencia Carrera
+  - Rocio Ruiz
+  - Luli Alsina
+  - Juán Pájaro
+  - Patricio Irisarri
+  - Mario Raimondi
+  - Tristán Alvarez
+  - Luis Cardoso Ayala
+  - Manuel Correa
+  - Alejandro Robledo
+  - Juan Pablo Nant
+  innovationCategory:
+  - Participación ciudadana y Crowdsourcing
+  - Tecnología Cívica
+  - Co-Creación
+  - Inteligencia Colectiva
+  - Análisis de Datos
+  - Datos Colaborativos
+  - Pensamiento de diseño
+  - Redes de Expertos
+  - Acceso a la Información
+  - Innovación Institucional
+  - Laboratorios y experimentación
+  - Datos Abiertos
+  - Small Data
+  objectiveCategory:
+  - Acceso
+  - Legitimidad
+  - Participación
+  - Transparencia
+  - Rendición de Cuentas
+  sectorCategory:
+  - Respuesta a Crisis
+  - Medio Ambiente
+  - Parlamentos
+  - Derechos Humanos
+  - Educación
+  - Ley
+  - Seguridad Pública
+  - Desarrollo
+  - Ciencia
+  - Movimientos Sociales & Activismo
+  - Poder Judicial
+  - Compras Públicas
+  methodology:
+  - Estudios de Caso
+  - Análisis Comparativo
+  - Ciencia de Diseño
+  - Análisis de Redes
+  - Análisis Cualitativo
+  - Análisis Cuantitativo
+  - Estudios de Usuarios
+  publicationType:
+  - Reporte de Investigación
+  - Documento de Trabajo
+  project: []
+  gitHub:
+  relatedDataUrl:
+  relatedContentTitle:
+  abstract: 'El Encuentro de Hacking Cívico de Rosario nace con el propósito de construir un espacio para poner en cuestión problemáticas asociadas a la convivencia entre ciudadanos, en relación a determinados ejes temáticos. Este espacio nos permitiría pensar un futuro deseable y co-crear acciones para empezar a hacerlo posible y no desmoronarnos en la mera crítica que no construye posibilidades de transformación.
+             La potencia del Hacking Cívico radica en la sinergia que produce la co-creación entre la sociedad civil, compartiendo su experiencia como ciudadanos, las organizaciones sociales con su trayectoria territorial y las diferentes organizaciones del Estado, con sus recursos específicos. En la articulación y canalización de esas conversaciones se encuentra la posibilidad real de hackear el status quo.
+             El sábado 3 de marzo de 2018 en la ciudad de Rosario (Argentina), alrededor de 70 miembros de organizaciones sociales, trabajadores del Estado, funcionarios y ciudadanos se reunieron con el compromiso de poner sus experiencias, conocimientos y recursos al servicio de alguna de las cinco temáticas trabajadas en el encuentro: #GeneroYDatos, #MovilidadYDatos, #JusticiaAbierta, #ParlamentoAbierto y #AcademiaYDatos.'
