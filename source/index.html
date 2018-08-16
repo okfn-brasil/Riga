@@ -1,6 +1,6 @@
 ---
 layout: default
-subtitle: Repositorio de Investigaciones Cuantitativa y Cualitativa sobre Innovaciones en Gobernanza.
+subtitle: Repositório de Pesquisas Quantitativas e Qualitativas sobre Governança Aberta.
 ---
 
 <main id="homepage" role="main"> <!-- main content starts here -->
@@ -25,86 +25,19 @@ subtitle: Repositorio de Investigaciones Cuantitativa y Cualitativa sobre Innova
         </div>
         <div class="row browsing-ways">
           <div class="large-12 column">
-            <a href="./authors.html" class="button margin-top-5">Buscar por Autor</a>
-            <a href="./categories.html" class="button margin-top-5">Buscar por Categoría</a>
-            <a href="./organizations.html" class="button margin-top-5">Buscar por Organización</a>
-            <a href="./selectedreadings.html" class="button margin-top-5">Lectura Recomendada</a>
+            <a href="./authors.html" class="button margin-top-5">Buscar por autor</a>
+            <a href="./categories.html" class="button margin-top-5">Buscar por categoria</a>
+            <a href="./organizations.html" class="button margin-top-5">Buscar por organização</a>
+            <a href="./selectedreadings.html" class="button margin-top-5">Leitura recomendada</a>
 
           </div>
         </div>
       </div>
     </section>
   </section>
-
-  <section id="organizations" class="divider">
-    <h1>RIGA Fundadores</h1>
-  </section>
-
-  <div class="page-section organizations">
-    <div class="row align-spaced expanded align-middle">
-      {% for organization in site.data.organizations %}
-        {% if organization.riga_founding_partner and organization.display %}
-        <div class="medium-4 column">
-          <a class="organization--{{ organization.title | slugify }}" href="./organizations/{{ organization.title | slugify }}.html"><img class="organization-logo" src="./images/organizations/{{ organization.image }}" alt="{{ organization.title }}"></a>
-        </div>
-        {% endif %}
-      {% endfor %}
-
-    </div>
-  </div>
-
-  <section id="organizations" class="divider">
-    <h1>Socios</h1>
-  </section>
-
-  <div class="page-section organizations">
-    <div class="row align-spaced expanded align-middle">
-      {% for organization in site.data.organizations %}
-        {% if organization.riga_partner and organization.display %}
-        <div class="medium-4 column">
-          <a class="organization--{{ organization.title | slugify }}" href="./organizations/{{ organization.title | slugify }}.html"><img class="organization-logo" src="./images/organizations/{{ organization.image }}" alt="{{ organization.title }}"></a>
-        </div>
-        {% endif %}
-      {% endfor %}
-
-    </div>
-  </div>
-
-  <section id="organizations" class="divider">
-    <h1>OGRX Fundadores</h1>
-  </section>
-
-  <div class="page-section organizations">
-    <div class="row align-spaced expanded align-middle">
-      {% for organization in site.data.organizations %}
-        {% if organization.founding_partner and organization.display %}
-        <div class="medium-4 column">
-          <a class="organization--{{ organization.title | slugify }}" href="./organizations/{{ organization.title | slugify }}.html"><img class="organization-logo" src="./images/organizations/{{ organization.image }}" alt="{{ organization.title }}"></a>
-        </div>
-        {% endif %}
-      {% endfor %}
-
-    </div>
-  </div>
-
-  <section id="organizations" class="divider">
-    <h1>Donantes</h1>
-  </section>
-  <div class="page-section organizations">
-    <div class="row align-spaced expanded align-middle">
-      {% for organization in site.data.organizations %}
-        {% if organization.donator and organization.display %}
-        <div class="medium-4 column">
-          <a class="organization--{{ organization.title | slugify }}" href="./organizations/{{ organization.title | slugify }}.html"><img class="organization-logo" src="./images/organizations/{{ organization.image }}" alt="{{ organization.title }}"></a>
-        </div>
-        {% endif %}
-      {% endfor %}
-
-    </div>
-  </div>
   
   <section id="categories" class="divider">
-    <h1>Buscar por Categoría</h1>
+    <h1>Buscar por categoria</h1>
   </section>
 
   <section class="page-section main-categories">
@@ -113,7 +46,7 @@ subtitle: Repositorio de Investigaciones Cuantitativa y Cualitativa sobre Innova
         <a class="category-item category-item--all" href="by/all.html">
           <div class="aligner">
             <div class="aligner-item">
-              Ver Todas
+              Ver todas
             </div>
           </div>
         </a>
@@ -141,7 +74,7 @@ subtitle: Repositorio de Investigaciones Cuantitativa y Cualitativa sobre Innova
   </section>
 
   <section id="categories" class="divider">
-    <h1>Destacados Recientes</h1>
+    <h1>Destaques recentes</h1>
   </section>
 
   <section class="page-section" style="padding: 0; background-color: #523080">
@@ -187,7 +120,7 @@ subtitle: Repositorio de Investigaciones Cuantitativa y Cualitativa sobre Innova
             {% if type == 'blog' %}
             <h4>Del Blog</h4>
             {% elsif type == 'list' %}
-            <h4>De Lectura Recomendada</h4>
+            <h4>De destaques recentes</h4>
             {% endif %}
           </div>
         </div>
@@ -213,9 +146,9 @@ subtitle: Repositorio de Investigaciones Cuantitativa y Cualitativa sobre Innova
         <div class="column medium-6">
           <div class="slide__action">
             {% if type == 'blog' %}
-            <a class="button button--naked" href="{{i.title | datapage_url: 'blog'}}">Más Información<i class="material-icons">arrow_forward</i></a>
+            <a class="button button--naked" href="{{i.title | datapage_url: 'blog'}}">Mais informações<i class="material-icons">arrow_forward</i></a>
             {% elsif type == 'list' %}
-            <a class="button button--naked" href="{{i.title | datapage_url: 'list'}}">Más Información<i class="material-icons">arrow_forward</i></a>
+            <a class="button button--naked" href="{{i.title | datapage_url: 'list'}}">Mais informações<i class="material-icons">arrow_forward</i></a>
             {% endif %}
           </div>
         </div>
